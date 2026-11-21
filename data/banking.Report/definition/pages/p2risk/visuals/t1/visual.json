@@ -1,0 +1,100 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "name": "t1",
+  "position": {
+    "x": 1220,
+    "y": 620,
+    "z": 0,
+    "width": 680,
+    "height": 440
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_loan_portfolio"
+                    }
+                  },
+                  "Property": "product"
+                }
+              },
+              "queryRef": "fact_loan_portfolio.product",
+              "nativeQueryRef": "product"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_loan_portfolio"
+                    }
+                  },
+                  "Property": "Outstanding (AED)"
+                }
+              },
+              "queryRef": "fact_loan_portfolio.Outstanding (AED)",
+              "nativeQueryRef": "Outstanding (AED)"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_loan_portfolio"
+                    }
+                  },
+                  "Property": "PAR 30+ %"
+                }
+              },
+              "queryRef": "fact_loan_portfolio.PAR 30+ %",
+              "nativeQueryRef": "PAR 30+ %"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_loan_portfolio"
+                    }
+                  },
+                  "Property": "NPL 90+ %"
+                }
+              },
+              "queryRef": "fact_loan_portfolio.NPL 90+ %",
+              "nativeQueryRef": "NPL 90+ %"
+            }
+          ]
+        }
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Risk summary by product'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

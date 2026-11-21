@@ -1,0 +1,102 @@
+table fact_channel_activity
+	lineageTag: 3162bd5c-7265-43a0-815b-8c021d230c42
+
+	measure 'Active Users' = SUM(fact_channel_activity[active_users])
+		formatString: #,0
+		lineageTag: f552be31-1c4c-4fd4-8684-c6569caa2a82
+
+	measure 'Digital Users' = CALCULATE([Active Users], KEEPFILTERS(fact_channel_activity[channel] <> "Branch"))
+		lineageTag: af43eb1e-1d3f-49ee-9a15-584cecd351ab
+
+	measure 'Digital Share %' = DIVIDE([Digital Users], [Active Users])
+		formatString: 0.0%
+		lineageTag: e83a0a9b-44c2-4be9-94bf-fb0fbad8b20a
+
+	measure 'Total Transactions' = SUM(fact_channel_activity[transactions])
+		formatString: #,0
+		lineageTag: 6793792d-4b8d-4a28-b2aa-dbe2ef15eb8b
+
+	column month_start
+		dataType: dateTime
+		formatString: mmm yyyy
+		lineageTag: 0df991c1-3d5f-4b71-b2ec-940d76ab13d4
+		summarizeBy: none
+		sourceColumn: month_start
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column channel
+		dataType: string
+		lineageTag: e840d25f-9f87-4a47-ae7b-5cf4db8b97a5
+		summarizeBy: none
+		sourceColumn: channel
+
+		annotation SummarizationSetBy = Automatic
+
+	column segment
+		dataType: string
+		lineageTag: 7143ab9c-c24e-4e58-bd6f-d2adf54d331a
+		summarizeBy: none
+		sourceColumn: segment
+
+		annotation SummarizationSetBy = Automatic
+
+	column region
+		dataType: string
+		lineageTag: 311d8408-303a-46d9-8572-f182d0b829c3
+		summarizeBy: none
+		sourceColumn: region
+
+		annotation SummarizationSetBy = Automatic
+
+	column active_users
+		dataType: int64
+		formatString: 0
+		lineageTag: 31aea27f-9836-42ea-9967-a580a1974050
+		summarizeBy: sum
+		sourceColumn: active_users
+
+		annotation SummarizationSetBy = Automatic
+
+	column logins
+		dataType: int64
+		formatString: 0
+		lineageTag: ccc1069a-7a6d-47da-9e85-ef5fdf988a3a
+		summarizeBy: sum
+		sourceColumn: logins
+
+		annotation SummarizationSetBy = Automatic
+
+	column transactions
+		dataType: int64
+		formatString: 0
+		lineageTag: 5e1b5f1e-decb-4b5e-9018-36771b7159b0
+		summarizeBy: sum
+		sourceColumn: transactions
+
+		annotation SummarizationSetBy = Automatic
+
+	column service_requests
+		dataType: int64
+		formatString: 0
+		lineageTag: f23b63ea-b6c8-4912-a00f-c4edbf2e17c7
+		summarizeBy: sum
+		sourceColumn: service_requests
+
+		annotation SummarizationSetBy = Automatic
+
+	partition fact_channel_activity = m
+		mode: import
+		source =
+				let
+				    Source = Excel.Workbook(File.Contents("C:\Users\basit\OneDrive\Desktop\Claude Main\05-projects-code\banking-analytics-powerbi\data\banking_data.xlsx"), null, true),
+				    fact_channel_activity_Sheet = Source{[Item="fact_channel_activity",Kind="Sheet"]}[Data],
+				    #"Promoted Headers" = Table.PromoteHeaders(fact_channel_activity_Sheet, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"month_start", type date}, {"channel", type text}, {"segment", type text}, {"region", type text}, {"active_users", Int64.Type}, {"logins", Int64.Type}, {"transactions", Int64.Type}, {"service_requests", Int64.Type}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

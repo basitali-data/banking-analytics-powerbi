@@ -1,0 +1,2465 @@
+month_start,channel,segment,region,active_users,logins,transactions,service_requests
+2025-01-01,Mobile App,Mass,Dubai,20352,126184,63093,2153
+2025-01-01,Mobile App,Mass,Abu Dhabi,15552,177504,86604,1115
+2025-01-01,Mobile App,Mass,Sharjah,8770,54710,25209,1546
+2025-01-01,Mobile App,Mass,Northern Emirates,5377,40815,24731,1001
+2025-01-01,Mobile App,Affluent,Dubai,8496,91027,44499,438
+2025-01-01,Mobile App,Affluent,Abu Dhabi,7162,82972,24071,636
+2025-01-01,Mobile App,Affluent,Sharjah,4420,38421,10479,327
+2025-01-01,Mobile App,Affluent,Northern Emirates,2887,31265,15094,671
+2025-01-01,Mobile App,Private,Dubai,1813,24992,6371,340
+2025-01-01,Mobile App,Private,Abu Dhabi,1438,15743,7832,279
+2025-01-01,Mobile App,Private,Sharjah,843,5367,2454,103
+2025-01-01,Mobile App,Private,Northern Emirates,494,3883,1187,59
+2025-01-01,Mobile App,SME,Dubai,5546,49462,19304,567
+2025-01-01,Mobile App,SME,Abu Dhabi,3861,52097,17730,781
+2025-01-01,Mobile App,SME,Sharjah,2270,26860,6023,328
+2025-01-01,Mobile App,SME,Northern Emirates,1778,19771,7517,393
+2025-01-01,Web App,Mass,Dubai,7052,86090,20564,409
+2025-01-01,Web App,Mass,Abu Dhabi,4767,38812,13557,1362
+2025-01-01,Web App,Mass,Sharjah,3193,27196,14757,475
+2025-01-01,Web App,Mass,Northern Emirates,2144,20734,6559,239
+2025-01-01,Web App,Affluent,Dubai,3036,24597,13171,833
+2025-01-01,Web App,Affluent,Abu Dhabi,2204,17091,13202,390
+2025-01-01,Web App,Affluent,Sharjah,1239,7901,3021,256
+2025-01-01,Web App,Affluent,Northern Emirates,952,8927,2145,138
+2025-01-01,Web App,Private,Dubai,659,6743,3877,174
+2025-01-01,Web App,Private,Abu Dhabi,406,4776,1919,74
+2025-01-01,Web App,Private,Sharjah,257,2859,628,40
+2025-01-01,Web App,Private,Northern Emirates,178,2426,979,20
+2025-01-01,Web App,SME,Dubai,1800,13372,10170,481
+2025-01-01,Web App,SME,Abu Dhabi,1295,14389,5744,114
+2025-01-01,Web App,SME,Sharjah,852,8788,4357,155
+2025-01-01,Web App,SME,Northern Emirates,486,4176,1009,137
+2025-01-01,Website,Mass,Dubai,10649,134745,0,1351
+2025-01-01,Website,Mass,Abu Dhabi,6768,88146,0,1940
+2025-01-01,Website,Mass,Sharjah,4085,40392,0,274
+2025-01-01,Website,Mass,Northern Emirates,3124,37883,0,256
+2025-01-01,Website,Affluent,Dubai,4477,46553,0,520
+2025-01-01,Website,Affluent,Abu Dhabi,3626,34030,0,373
+2025-01-01,Website,Affluent,Sharjah,2040,24152,0,204
+2025-01-01,Website,Affluent,Northern Emirates,1299,18135,0,275
+2025-01-01,Website,Private,Dubai,888,9004,0,71
+2025-01-01,Website,Private,Abu Dhabi,637,5544,0,125
+2025-01-01,Website,Private,Sharjah,383,2972,0,25
+2025-01-01,Website,Private,Northern Emirates,277,2169,0,76
+2025-01-01,Website,SME,Dubai,2894,19004,0,316
+2025-01-01,Website,SME,Abu Dhabi,2093,16145,0,173
+2025-01-01,Website,SME,Sharjah,1320,13950,0,221
+2025-01-01,Website,SME,Northern Emirates,856,10665,0,83
+2025-01-01,WhatsApp,Mass,Dubai,2427,22931,8966,404
+2025-01-01,WhatsApp,Mass,Abu Dhabi,2070,23570,12288,154
+2025-01-01,WhatsApp,Mass,Sharjah,1164,10143,6339,130
+2025-01-01,WhatsApp,Mass,Northern Emirates,742,7114,2736,88
+2025-01-01,WhatsApp,Affluent,Dubai,1139,15246,4296,302
+2025-01-01,WhatsApp,Affluent,Abu Dhabi,909,5821,5451,235
+2025-01-01,WhatsApp,Affluent,Sharjah,590,7912,3182,54
+2025-01-01,WhatsApp,Affluent,Northern Emirates,358,2760,1290,23
+2025-01-01,WhatsApp,Private,Dubai,234,3248,716,57
+2025-01-01,WhatsApp,Private,Abu Dhabi,178,1670,1037,53
+2025-01-01,WhatsApp,Private,Sharjah,109,1280,285,13
+2025-01-01,WhatsApp,Private,Northern Emirates,78,829,325,18
+2025-01-01,WhatsApp,SME,Dubai,656,7001,2631,172
+2025-01-01,WhatsApp,SME,Abu Dhabi,503,6884,1167,48
+2025-01-01,WhatsApp,SME,Sharjah,330,3762,970,26
+2025-01-01,WhatsApp,SME,Northern Emirates,232,1848,1015,47
+2025-01-01,IVR / Call Centre,Mass,Dubai,5411,57732,22137,1534
+2025-01-01,IVR / Call Centre,Mass,Abu Dhabi,3881,45522,11467,578
+2025-01-01,IVR / Call Centre,Mass,Sharjah,2559,21495,8354,608
+2025-01-01,IVR / Call Centre,Mass,Northern Emirates,1508,14576,9038,450
+2025-01-01,IVR / Call Centre,Affluent,Dubai,2286,17614,6996,647
+2025-01-01,IVR / Call Centre,Affluent,Abu Dhabi,2017,26289,7015,180
+2025-01-01,IVR / Call Centre,Affluent,Sharjah,1200,13953,5336,356
+2025-01-01,IVR / Call Centre,Affluent,Northern Emirates,773,4686,4072,96
+2025-01-01,IVR / Call Centre,Private,Dubai,516,6971,1309,40
+2025-01-01,IVR / Call Centre,Private,Abu Dhabi,345,3596,1065,69
+2025-01-01,IVR / Call Centre,Private,Sharjah,234,1785,1061,27
+2025-01-01,IVR / Call Centre,Private,Northern Emirates,149,1973,802,10
+2025-01-01,IVR / Call Centre,SME,Dubai,1477,12131,2974,358
+2025-01-01,IVR / Call Centre,SME,Abu Dhabi,1155,9350,5734,217
+2025-01-01,IVR / Call Centre,SME,Sharjah,665,4041,1530,180
+2025-01-01,IVR / Call Centre,SME,Northern Emirates,486,5037,2594,95
+2025-01-01,Tablet Banking,Mass,Dubai,818,5742,2644,224
+2025-01-01,Tablet Banking,Mass,Abu Dhabi,699,9007,3911,71
+2025-01-01,Tablet Banking,Mass,Sharjah,376,2565,1925,101
+2025-01-01,Tablet Banking,Mass,Northern Emirates,259,2840,678,73
+2025-01-01,Tablet Banking,Affluent,Dubai,429,5924,2249,115
+2025-01-01,Tablet Banking,Affluent,Abu Dhabi,271,3222,902,76
+2025-01-01,Tablet Banking,Affluent,Sharjah,190,2453,996,22
+2025-01-01,Tablet Banking,Affluent,Northern Emirates,126,864,691,33
+2025-01-01,Tablet Banking,Private,Dubai,75,939,288,9
+2025-01-01,Tablet Banking,Private,Abu Dhabi,63,492,131,6
+2025-01-01,Tablet Banking,Private,Sharjah,34,439,199,4
+2025-01-01,Tablet Banking,Private,Northern Emirates,24,220,142,4
+2025-01-01,Tablet Banking,SME,Dubai,261,1806,1535,24
+2025-01-01,Tablet Banking,SME,Abu Dhabi,196,1592,476,31
+2025-01-01,Tablet Banking,SME,Sharjah,112,953,495,19
+2025-01-01,Tablet Banking,SME,Northern Emirates,70,742,211,15
+2025-01-01,Branch,Mass,Dubai,7922,106191,32906,1820
+2025-01-01,Branch,Mass,Abu Dhabi,6919,78634,23918,466
+2025-01-01,Branch,Mass,Sharjah,4090,35344,13315,1071
+2025-01-01,Branch,Mass,Northern Emirates,2756,23157,8921,419
+2025-01-01,Branch,Affluent,Dubai,3921,32800,9838,608
+2025-01-01,Branch,Affluent,Abu Dhabi,3264,37270,18315,665
+2025-01-01,Branch,Affluent,Sharjah,1728,17942,3458,210
+2025-01-01,Branch,Affluent,Northern Emirates,1183,12586,5464,196
+2025-01-01,Branch,Private,Dubai,790,6090,3075,217
+2025-01-01,Branch,Private,Abu Dhabi,635,4672,1485,113
+2025-01-01,Branch,Private,Sharjah,369,3203,1945,87
+2025-01-01,Branch,Private,Northern Emirates,248,1933,693,13
+2025-01-01,Branch,SME,Dubai,2277,22317,12293,155
+2025-01-01,Branch,SME,Abu Dhabi,1769,19526,4913,396
+2025-01-01,Branch,SME,Sharjah,1078,8572,4984,55
+2025-01-01,Branch,SME,Northern Emirates,756,9193,1834,118
+2025-02-01,Mobile App,Mass,Dubai,18979,259323,77279,1187
+2025-02-01,Mobile App,Mass,Abu Dhabi,14457,184857,55310,3619
+2025-02-01,Mobile App,Mass,Sharjah,9438,131217,41355,2713
+2025-02-01,Mobile App,Mass,Northern Emirates,6565,71566,32018,1156
+2025-02-01,Mobile App,Affluent,Dubai,9834,102106,54960,2319
+2025-02-01,Mobile App,Affluent,Abu Dhabi,6883,55570,20573,1441
+2025-02-01,Mobile App,Affluent,Sharjah,4371,44454,19700,518
+2025-02-01,Mobile App,Affluent,Northern Emirates,2533,20987,7819,329
+2025-02-01,Mobile App,Private,Dubai,1859,13211,5437,415
+2025-02-01,Mobile App,Private,Abu Dhabi,1440,9379,5227,267
+2025-02-01,Mobile App,Private,Sharjah,816,6246,3003,225
+2025-02-01,Mobile App,Private,Northern Emirates,562,6499,3049,135
+2025-02-01,Mobile App,SME,Dubai,5402,32666,18404,1287
+2025-02-01,Mobile App,SME,Abu Dhabi,4444,60560,16336,1052
+2025-02-01,Mobile App,SME,Sharjah,2513,27205,7242,263
+2025-02-01,Mobile App,SME,Northern Emirates,1639,10214,5481,360
+2025-02-01,Web App,Mass,Dubai,6635,48570,25674,543
+2025-02-01,Web App,Mass,Abu Dhabi,5197,32303,18584,993
+2025-02-01,Web App,Mass,Sharjah,2756,30707,7007,455
+2025-02-01,Web App,Mass,Northern Emirates,1846,16674,5254,243
+2025-02-01,Web App,Affluent,Dubai,3235,29221,16201,834
+2025-02-01,Web App,Affluent,Abu Dhabi,2191,14581,4551,405
+2025-02-01,Web App,Affluent,Sharjah,1522,13393,7002,373
+2025-02-01,Web App,Affluent,Northern Emirates,950,11432,5508,94
+2025-02-01,Web App,Private,Dubai,556,4013,1392,120
+2025-02-01,Web App,Private,Abu Dhabi,467,3616,2240,112
+2025-02-01,Web App,Private,Sharjah,258,2801,1287,20
+2025-02-01,Web App,Private,Northern Emirates,196,2688,476,11
+2025-02-01,Web App,SME,Dubai,1775,20268,10353,264
+2025-02-01,Web App,SME,Abu Dhabi,1443,9535,6872,298
+2025-02-01,Web App,SME,Sharjah,764,9305,4126,152
+2025-02-01,Web App,SME,Northern Emirates,511,7087,2621,69
+2025-02-01,Website,Mass,Dubai,9758,87476,0,1722
+2025-02-01,Website,Mass,Abu Dhabi,7189,91994,0,1837
+2025-02-01,Website,Mass,Sharjah,4103,56154,0,857
+2025-02-01,Website,Mass,Northern Emirates,3165,36899,0,502
+2025-02-01,Website,Affluent,Dubai,4710,64639,0,553
+2025-02-01,Website,Affluent,Abu Dhabi,3583,36924,0,612
+2025-02-01,Website,Affluent,Sharjah,1998,23672,0,233
+2025-02-01,Website,Affluent,Northern Emirates,1444,18260,0,103
+2025-02-01,Website,Private,Dubai,968,7696,0,160
+2025-02-01,Website,Private,Abu Dhabi,689,6222,0,39
+2025-02-01,Website,Private,Sharjah,433,3227,0,44
+2025-02-01,Website,Private,Northern Emirates,286,2494,0,77
+2025-02-01,Website,SME,Dubai,2808,23054,0,147
+2025-02-01,Website,SME,Abu Dhabi,2206,14746,0,507
+2025-02-01,Website,SME,Sharjah,1212,14623,0,269
+2025-02-01,Website,SME,Northern Emirates,833,8268,0,206
+2025-02-01,WhatsApp,Mass,Dubai,2485,19315,11846,314
+2025-02-01,WhatsApp,Mass,Abu Dhabi,2062,20178,8503,322
+2025-02-01,WhatsApp,Mass,Sharjah,1277,11041,6144,150
+2025-02-01,WhatsApp,Mass,Northern Emirates,771,5370,2135,61
+2025-02-01,WhatsApp,Affluent,Dubai,1238,14976,3392,128
+2025-02-01,WhatsApp,Affluent,Abu Dhabi,919,10841,5428,166
+2025-02-01,WhatsApp,Affluent,Sharjah,529,3599,1468,56
+2025-02-01,WhatsApp,Affluent,Northern Emirates,345,2109,1427,40
+2025-02-01,WhatsApp,Private,Dubai,269,2804,1288,21
+2025-02-01,WhatsApp,Private,Abu Dhabi,198,1965,1087,38
+2025-02-01,WhatsApp,Private,Sharjah,110,1047,301,6
+2025-02-01,WhatsApp,Private,Northern Emirates,80,785,423,12
+2025-02-01,WhatsApp,SME,Dubai,675,7449,1494,58
+2025-02-01,WhatsApp,SME,Abu Dhabi,560,4721,3346,44
+2025-02-01,WhatsApp,SME,Sharjah,349,3786,1801,37
+2025-02-01,WhatsApp,SME,Northern Emirates,222,2132,837,58
+2025-02-01,IVR / Call Centre,Mass,Dubai,6039,50987,27079,1222
+2025-02-01,IVR / Call Centre,Mass,Abu Dhabi,4323,58709,12239,444
+2025-02-01,IVR / Call Centre,Mass,Sharjah,2554,18532,6883,175
+2025-02-01,IVR / Call Centre,Mass,Northern Emirates,1485,14261,6497,182
+2025-02-01,IVR / Call Centre,Affluent,Dubai,2365,27565,11380,386
+2025-02-01,IVR / Call Centre,Affluent,Abu Dhabi,1945,26046,10019,401
+2025-02-01,IVR / Call Centre,Affluent,Sharjah,1161,15637,4296,216
+2025-02-01,IVR / Call Centre,Affluent,Northern Emirates,772,10242,4096,52
+2025-02-01,IVR / Call Centre,Private,Dubai,466,3942,2328,89
+2025-02-01,IVR / Call Centre,Private,Abu Dhabi,359,2511,1706,80
+2025-02-01,IVR / Call Centre,Private,Sharjah,244,2440,969,17
+2025-02-01,IVR / Call Centre,Private,Northern Emirates,136,1286,447,15
+2025-02-01,IVR / Call Centre,SME,Dubai,1377,18858,7358,266
+2025-02-01,IVR / Call Centre,SME,Abu Dhabi,1226,17159,5748,143
+2025-02-01,IVR / Call Centre,SME,Sharjah,612,7374,2375,130
+2025-02-01,IVR / Call Centre,SME,Northern Emirates,487,3629,2114,101
+2025-02-01,Tablet Banking,Mass,Dubai,878,5908,2978,117
+2025-02-01,Tablet Banking,Mass,Abu Dhabi,682,8771,2263,152
+2025-02-01,Tablet Banking,Mass,Sharjah,379,5139,1991,71
+2025-02-01,Tablet Banking,Mass,Northern Emirates,261,2222,859,76
+2025-02-01,Tablet Banking,Affluent,Dubai,392,3965,2333,84
+2025-02-01,Tablet Banking,Affluent,Abu Dhabi,302,2810,830,42
+2025-02-01,Tablet Banking,Affluent,Sharjah,189,2079,952,19
+2025-02-01,Tablet Banking,Affluent,Northern Emirates,121,1623,454,27
+2025-02-01,Tablet Banking,Private,Dubai,73,1006,323,8
+2025-02-01,Tablet Banking,Private,Abu Dhabi,55,572,231,4
+2025-02-01,Tablet Banking,Private,Sharjah,39,518,149,3
+2025-02-01,Tablet Banking,Private,Northern Emirates,25,249,121,4
+2025-02-01,Tablet Banking,SME,Dubai,229,2903,1355,25
+2025-02-01,Tablet Banking,SME,Abu Dhabi,181,1641,1029,32
+2025-02-01,Tablet Banking,SME,Sharjah,116,1497,360,28
+2025-02-01,Tablet Banking,SME,Northern Emirates,70,943,282,17
+2025-02-01,Branch,Mass,Dubai,8266,69338,35938,2477
+2025-02-01,Branch,Mass,Abu Dhabi,6467,46489,26866,881
+2025-02-01,Branch,Mass,Sharjah,3929,40655,15014,512
+2025-02-01,Branch,Mass,Northern Emirates,2431,28150,10422,263
+2025-02-01,Branch,Affluent,Dubai,4144,26310,20632,937
+2025-02-01,Branch,Affluent,Abu Dhabi,3129,28438,14564,798
+2025-02-01,Branch,Affluent,Sharjah,1937,19297,4160,340
+2025-02-01,Branch,Affluent,Northern Emirates,1199,15536,6590,191
+2025-02-01,Branch,Private,Dubai,789,7618,3858,120
+2025-02-01,Branch,Private,Abu Dhabi,607,4391,2353,177
+2025-02-01,Branch,Private,Sharjah,342,3947,1572,89
+2025-02-01,Branch,Private,Northern Emirates,252,3244,887,32
+2025-02-01,Branch,SME,Dubai,2459,29692,13498,145
+2025-02-01,Branch,SME,Abu Dhabi,1615,17844,9179,483
+2025-02-01,Branch,SME,Sharjah,1112,10532,2661,231
+2025-02-01,Branch,SME,Northern Emirates,759,7248,3624,209
+2025-03-01,Mobile App,Mass,Dubai,18902,233801,59984,2716
+2025-03-01,Mobile App,Mass,Abu Dhabi,14487,148482,61768,3594
+2025-03-01,Mobile App,Mass,Sharjah,8738,57948,47913,1790
+2025-03-01,Mobile App,Mass,Northern Emirates,5913,78658,15211,977
+2025-03-01,Mobile App,Affluent,Dubai,8985,72262,18307,2256
+2025-03-01,Mobile App,Affluent,Abu Dhabi,7656,87438,20149,1228
+2025-03-01,Mobile App,Affluent,Sharjah,4121,44097,18774,643
+2025-03-01,Mobile App,Affluent,Northern Emirates,2693,34369,7531,393
+2025-03-01,Mobile App,Private,Dubai,1883,14871,8073,364
+2025-03-01,Mobile App,Private,Abu Dhabi,1557,13019,9204,334
+2025-03-01,Mobile App,Private,Sharjah,812,8548,3851,191
+2025-03-01,Mobile App,Private,Northern Emirates,515,5588,2053,142
+2025-03-01,Mobile App,SME,Dubai,5427,67245,24032,749
+2025-03-01,Mobile App,SME,Abu Dhabi,4368,47904,20577,1005
+2025-03-01,Mobile App,SME,Sharjah,2632,33444,11878,726
+2025-03-01,Mobile App,SME,Northern Emirates,1750,14825,6585,341
+2025-03-01,Web App,Mass,Dubai,7252,48741,23064,1717
+2025-03-01,Web App,Mass,Abu Dhabi,4860,34298,20206,1423
+2025-03-01,Web App,Mass,Sharjah,3137,41746,16694,358
+2025-03-01,Web App,Mass,Northern Emirates,2214,21818,11570,523
+2025-03-01,Web App,Affluent,Dubai,3048,21096,17835,259
+2025-03-01,Web App,Affluent,Abu Dhabi,2582,33259,12643,761
+2025-03-01,Web App,Affluent,Sharjah,1549,19264,5364,383
+2025-03-01,Web App,Affluent,Northern Emirates,853,8779,3257,186
+2025-03-01,Web App,Private,Dubai,651,6950,3443,185
+2025-03-01,Web App,Private,Abu Dhabi,435,3423,913,117
+2025-03-01,Web App,Private,Sharjah,286,3810,825,18
+2025-03-01,Web App,Private,Northern Emirates,201,2668,644,30
+2025-03-01,Web App,SME,Dubai,1753,23788,5640,303
+2025-03-01,Web App,SME,Abu Dhabi,1303,17066,3313,212
+2025-03-01,Web App,SME,Sharjah,879,10499,5084,136
+2025-03-01,Web App,SME,Northern Emirates,594,4298,2173,44
+2025-03-01,Website,Mass,Dubai,9878,91518,0,2843
+2025-03-01,Website,Mass,Abu Dhabi,6731,60338,0,1082
+2025-03-01,Website,Mass,Sharjah,4856,62368,0,363
+2025-03-01,Website,Mass,Northern Emirates,3080,31895,0,906
+2025-03-01,Website,Affluent,Dubai,4372,40157,0,426
+2025-03-01,Website,Affluent,Abu Dhabi,3119,39874,0,510
+2025-03-01,Website,Affluent,Sharjah,2090,23269,0,416
+2025-03-01,Website,Affluent,Northern Emirates,1220,14999,0,135
+2025-03-01,Website,Private,Dubai,832,8749,0,55
+2025-03-01,Website,Private,Abu Dhabi,710,5436,0,73
+2025-03-01,Website,Private,Sharjah,434,3744,0,37
+2025-03-01,Website,Private,Northern Emirates,291,1752,0,76
+2025-03-01,Website,SME,Dubai,2508,17656,0,282
+2025-03-01,Website,SME,Abu Dhabi,1893,21369,0,106
+2025-03-01,Website,SME,Sharjah,1097,13514,0,120
+2025-03-01,Website,SME,Northern Emirates,781,5774,0,49
+2025-03-01,WhatsApp,Mass,Dubai,2906,29666,14479,491
+2025-03-01,WhatsApp,Mass,Abu Dhabi,2194,22172,5345,386
+2025-03-01,WhatsApp,Mass,Sharjah,1358,8619,6970,362
+2025-03-01,WhatsApp,Mass,Northern Emirates,835,8069,4889,54
+2025-03-01,WhatsApp,Affluent,Dubai,1254,11553,5949,216
+2025-03-01,WhatsApp,Affluent,Abu Dhabi,1022,6732,2374,206
+2025-03-01,WhatsApp,Affluent,Sharjah,517,4239,2343,96
+2025-03-01,WhatsApp,Affluent,Northern Emirates,364,5080,1500,59
+2025-03-01,WhatsApp,Private,Dubai,257,1745,1235,67
+2025-03-01,WhatsApp,Private,Abu Dhabi,194,2357,947,20
+2025-03-01,WhatsApp,Private,Sharjah,112,876,375,18
+2025-03-01,WhatsApp,Private,Northern Emirates,74,500,274,16
+2025-03-01,WhatsApp,SME,Dubai,736,5314,4189,49
+2025-03-01,WhatsApp,SME,Abu Dhabi,604,4074,1441,141
+2025-03-01,WhatsApp,SME,Sharjah,361,3772,1568,68
+2025-03-01,WhatsApp,SME,Northern Emirates,219,1528,747,47
+2025-03-01,IVR / Call Centre,Mass,Dubai,5775,74755,28206,1686
+2025-03-01,IVR / Call Centre,Mass,Abu Dhabi,4207,37077,18139,434
+2025-03-01,IVR / Call Centre,Mass,Sharjah,2552,19890,6208,666
+2025-03-01,IVR / Call Centre,Mass,Northern Emirates,1606,19433,6900,404
+2025-03-01,IVR / Call Centre,Affluent,Dubai,2672,36863,14091,543
+2025-03-01,IVR / Call Centre,Affluent,Abu Dhabi,1928,11972,11021,496
+2025-03-01,IVR / Call Centre,Affluent,Sharjah,1072,7979,5157,136
+2025-03-01,IVR / Call Centre,Affluent,Northern Emirates,725,4385,3972,138
+2025-03-01,IVR / Call Centre,Private,Dubai,490,3496,2221,28
+2025-03-01,IVR / Call Centre,Private,Abu Dhabi,393,3034,1445,53
+2025-03-01,IVR / Call Centre,Private,Sharjah,219,2578,1118,42
+2025-03-01,IVR / Call Centre,Private,Northern Emirates,137,879,360,28
+2025-03-01,IVR / Call Centre,SME,Dubai,1552,12690,7213,266
+2025-03-01,IVR / Call Centre,SME,Abu Dhabi,1111,9093,5576,87
+2025-03-01,IVR / Call Centre,SME,Sharjah,665,5496,3134,114
+2025-03-01,IVR / Call Centre,SME,Northern Emirates,465,2958,1665,92
+2025-03-01,Tablet Banking,Mass,Dubai,793,6670,2256,66
+2025-03-01,Tablet Banking,Mass,Abu Dhabi,627,5407,1273,148
+2025-03-01,Tablet Banking,Mass,Sharjah,370,3345,1781,64
+2025-03-01,Tablet Banking,Mass,Northern Emirates,281,3498,643,74
+2025-03-01,Tablet Banking,Affluent,Dubai,363,2232,2063,96
+2025-03-01,Tablet Banking,Affluent,Abu Dhabi,304,3218,1470,46
+2025-03-01,Tablet Banking,Affluent,Sharjah,166,1023,547,41
+2025-03-01,Tablet Banking,Affluent,Northern Emirates,122,1544,692,8
+2025-03-01,Tablet Banking,Private,Dubai,85,675,370,15
+2025-03-01,Tablet Banking,Private,Abu Dhabi,58,491,194,7
+2025-03-01,Tablet Banking,Private,Sharjah,33,332,81,5
+2025-03-01,Tablet Banking,Private,Northern Emirates,25,219,122,6
+2025-03-01,Tablet Banking,SME,Dubai,255,2011,659,25
+2025-03-01,Tablet Banking,SME,Abu Dhabi,183,2210,845,17
+2025-03-01,Tablet Banking,SME,Sharjah,113,1124,567,27
+2025-03-01,Tablet Banking,SME,Northern Emirates,71,950,302,14
+2025-03-01,Branch,Mass,Dubai,8694,112274,39200,762
+2025-03-01,Branch,Mass,Abu Dhabi,5813,55442,18667,689
+2025-03-01,Branch,Mass,Sharjah,3478,34984,11274,566
+2025-03-01,Branch,Mass,Northern Emirates,2319,29343,5349,616
+2025-03-01,Branch,Affluent,Dubai,4130,45099,16636,684
+2025-03-01,Branch,Affluent,Abu Dhabi,2923,36053,16320,474
+2025-03-01,Branch,Affluent,Sharjah,1842,20657,6053,311
+2025-03-01,Branch,Affluent,Northern Emirates,1076,6988,2597,295
+2025-03-01,Branch,Private,Dubai,747,8750,3001,69
+2025-03-01,Branch,Private,Abu Dhabi,549,5216,2062,99
+2025-03-01,Branch,Private,Sharjah,323,2901,1011,49
+2025-03-01,Branch,Private,Northern Emirates,223,2404,1149,47
+2025-03-01,Branch,SME,Dubai,2112,14268,9954,255
+2025-03-01,Branch,SME,Abu Dhabi,1812,20389,10193,486
+2025-03-01,Branch,SME,Sharjah,1006,10725,2581,138
+2025-03-01,Branch,SME,Northern Emirates,759,8795,2707,150
+2025-04-01,Mobile App,Mass,Dubai,23149,196226,81176,5738
+2025-04-01,Mobile App,Mass,Abu Dhabi,16963,192715,90172,3981
+2025-04-01,Mobile App,Mass,Sharjah,9933,101427,45533,1548
+2025-04-01,Mobile App,Mass,Northern Emirates,6209,55264,16895,642
+2025-04-01,Mobile App,Affluent,Dubai,10541,104252,30633,889
+2025-04-01,Mobile App,Affluent,Abu Dhabi,6642,84721,15971,1612
+2025-04-01,Mobile App,Affluent,Sharjah,4645,60707,9991,623
+2025-04-01,Mobile App,Affluent,Northern Emirates,3057,21546,10720,276
+2025-04-01,Mobile App,Private,Dubai,2063,25104,10802,188
+2025-04-01,Mobile App,Private,Abu Dhabi,1433,13308,6742,156
+2025-04-01,Mobile App,Private,Sharjah,861,7128,4299,139
+2025-04-01,Mobile App,Private,Northern Emirates,584,4949,3056,97
+2025-04-01,Mobile App,SME,Dubai,6194,55391,35854,1834
+2025-04-01,Mobile App,SME,Abu Dhabi,4320,35658,15238,785
+2025-04-01,Mobile App,SME,Sharjah,2855,35787,14860,241
+2025-04-01,Mobile App,SME,Northern Emirates,1654,18408,9091,312
+2025-04-01,Web App,Mass,Dubai,6531,83382,35297,791
+2025-04-01,Web App,Mass,Abu Dhabi,5601,45829,31484,486
+2025-04-01,Web App,Mass,Sharjah,3152,42776,9103,513
+2025-04-01,Web App,Mass,Northern Emirates,2064,12824,4567,362
+2025-04-01,Web App,Affluent,Dubai,3054,42622,10687,174
+2025-04-01,Web App,Affluent,Abu Dhabi,2627,33398,12083,651
+2025-04-01,Web App,Affluent,Sharjah,1346,11165,7159,301
+2025-04-01,Web App,Affluent,Northern Emirates,897,10444,3403,46
+2025-04-01,Web App,Private,Dubai,590,4747,3150,110
+2025-04-01,Web App,Private,Abu Dhabi,505,5162,1234,61
+2025-04-01,Web App,Private,Sharjah,278,1774,1022,69
+2025-04-01,Web App,Private,Northern Emirates,191,1315,1073,38
+2025-04-01,Web App,SME,Dubai,1747,17684,5184,150
+2025-04-01,Web App,SME,Abu Dhabi,1430,15613,4236,220
+2025-04-01,Web App,SME,Sharjah,899,6009,5302,60
+2025-04-01,Web App,SME,Northern Emirates,583,5864,3470,109
+2025-04-01,Website,Mass,Dubai,9683,94516,0,2022
+2025-04-01,Website,Mass,Abu Dhabi,8139,65349,0,439
+2025-04-01,Website,Mass,Sharjah,4712,41269,0,1099
+2025-04-01,Website,Mass,Northern Emirates,3046,37075,0,712
+2025-04-01,Website,Affluent,Dubai,4349,27636,0,811
+2025-04-01,Website,Affluent,Abu Dhabi,3586,26538,0,877
+2025-04-01,Website,Affluent,Sharjah,2010,23241,0,417
+2025-04-01,Website,Affluent,Northern Emirates,1434,9327,0,349
+2025-04-01,Website,Private,Dubai,892,7446,0,54
+2025-04-01,Website,Private,Abu Dhabi,634,4016,0,179
+2025-04-01,Website,Private,Sharjah,406,5648,0,75
+2025-04-01,Website,Private,Northern Emirates,256,3078,0,25
+2025-04-01,Website,SME,Dubai,2622,32110,0,698
+2025-04-01,Website,SME,Abu Dhabi,1956,13683,0,277
+2025-04-01,Website,SME,Sharjah,1309,15637,0,358
+2025-04-01,Website,SME,Northern Emirates,791,10907,0,137
+2025-04-01,WhatsApp,Mass,Dubai,2836,37986,11562,709
+2025-04-01,WhatsApp,Mass,Abu Dhabi,2225,14754,9811,568
+2025-04-01,WhatsApp,Mass,Sharjah,1288,11037,2988,277
+2025-04-01,WhatsApp,Mass,Northern Emirates,818,8851,3030,181
+2025-04-01,WhatsApp,Affluent,Dubai,1251,7929,6855,172
+2025-04-01,WhatsApp,Affluent,Abu Dhabi,1063,8712,6293,305
+2025-04-01,WhatsApp,Affluent,Sharjah,531,5894,1833,132
+2025-04-01,WhatsApp,Affluent,Northern Emirates,400,5448,1028,80
+2025-04-01,WhatsApp,Private,Dubai,272,1707,617,66
+2025-04-01,WhatsApp,Private,Abu Dhabi,188,1703,802,37
+2025-04-01,WhatsApp,Private,Sharjah,120,1630,418,28
+2025-04-01,WhatsApp,Private,Northern Emirates,78,798,280,16
+2025-04-01,WhatsApp,SME,Dubai,735,5077,3632,128
+2025-04-01,WhatsApp,SME,Abu Dhabi,567,5949,1727,65
+2025-04-01,WhatsApp,SME,Sharjah,344,4805,1080,96
+2025-04-01,WhatsApp,SME,Northern Emirates,231,1612,1250,37
+2025-04-01,IVR / Call Centre,Mass,Dubai,5938,56772,13961,1309
+2025-04-01,IVR / Call Centre,Mass,Abu Dhabi,4410,37735,14948,292
+2025-04-01,IVR / Call Centre,Mass,Sharjah,2495,32760,13486,568
+2025-04-01,IVR / Call Centre,Mass,Northern Emirates,1791,19882,9268,317
+2025-04-01,IVR / Call Centre,Affluent,Dubai,2310,17574,5903,571
+2025-04-01,IVR / Call Centre,Affluent,Abu Dhabi,1697,17703,5898,425
+2025-04-01,IVR / Call Centre,Affluent,Sharjah,1136,12377,2663,144
+2025-04-01,IVR / Call Centre,Affluent,Northern Emirates,824,9682,3380,199
+2025-04-01,IVR / Call Centre,Private,Dubai,532,3505,3133,112
+2025-04-01,IVR / Call Centre,Private,Abu Dhabi,371,4244,1253,99
+2025-04-01,IVR / Call Centre,Private,Sharjah,237,2635,646,69
+2025-04-01,IVR / Call Centre,Private,Northern Emirates,147,1952,326,11
+2025-04-01,IVR / Call Centre,SME,Dubai,1395,10207,4590,317
+2025-04-01,IVR / Call Centre,SME,Abu Dhabi,1090,14744,6081,285
+2025-04-01,IVR / Call Centre,SME,Sharjah,641,7102,2694,52
+2025-04-01,IVR / Call Centre,SME,Northern Emirates,432,4435,1732,39
+2025-04-01,Tablet Banking,Mass,Dubai,957,6922,4435,220
+2025-04-01,Tablet Banking,Mass,Abu Dhabi,673,8574,2863,172
+2025-04-01,Tablet Banking,Mass,Sharjah,358,2278,1634,69
+2025-04-01,Tablet Banking,Mass,Northern Emirates,271,3288,993,56
+2025-04-01,Tablet Banking,Affluent,Dubai,399,4395,1260,115
+2025-04-01,Tablet Banking,Affluent,Abu Dhabi,298,3706,1412,37
+2025-04-01,Tablet Banking,Affluent,Sharjah,164,1062,616,28
+2025-04-01,Tablet Banking,Affluent,Northern Emirates,112,1215,364,25
+2025-04-01,Tablet Banking,Private,Dubai,83,1069,489,6
+2025-04-01,Tablet Banking,Private,Abu Dhabi,58,608,190,9
+2025-04-01,Tablet Banking,Private,Sharjah,34,271,81,4
+2025-04-01,Tablet Banking,Private,Northern Emirates,23,251,68,6
+2025-04-01,Tablet Banking,SME,Dubai,223,1922,961,28
+2025-04-01,Tablet Banking,SME,Abu Dhabi,189,1887,767,33
+2025-04-01,Tablet Banking,SME,Sharjah,103,637,595,18
+2025-04-01,Tablet Banking,SME,Northern Emirates,78,602,266,4
+2025-04-01,Branch,Mass,Dubai,8316,108596,38395,1394
+2025-04-01,Branch,Mass,Abu Dhabi,6289,80356,23418,1701
+2025-04-01,Branch,Mass,Sharjah,3916,47426,13564,587
+2025-04-01,Branch,Mass,Northern Emirates,2532,19134,10667,173
+2025-04-01,Branch,Affluent,Dubai,3787,45880,11811,1125
+2025-04-01,Branch,Affluent,Abu Dhabi,2940,20434,17346,436
+2025-04-01,Branch,Affluent,Sharjah,1803,15708,10377,430
+2025-04-01,Branch,Affluent,Northern Emirates,1066,10737,4264,65
+2025-04-01,Branch,Private,Dubai,701,6073,2730,115
+2025-04-01,Branch,Private,Abu Dhabi,579,5861,1917,117
+2025-04-01,Branch,Private,Sharjah,317,4414,1571,39
+2025-04-01,Branch,Private,Northern Emirates,219,2765,904,49
+2025-04-01,Branch,SME,Dubai,2179,27294,7568,476
+2025-04-01,Branch,SME,Abu Dhabi,1866,19909,9678,431
+2025-04-01,Branch,SME,Sharjah,1060,6585,4132,309
+2025-04-01,Branch,SME,Northern Emirates,719,8778,3099,165
+2025-05-01,Mobile App,Mass,Dubai,22143,163063,100000,4537
+2025-05-01,Mobile App,Mass,Abu Dhabi,17449,125322,82410,1010
+2025-05-01,Mobile App,Mass,Sharjah,10679,73462,22166,1371
+2025-05-01,Mobile App,Mass,Northern Emirates,6078,70042,22133,1481
+2025-05-01,Mobile App,Affluent,Dubai,10732,139328,53052,703
+2025-05-01,Mobile App,Affluent,Abu Dhabi,6887,52745,22728,1484
+2025-05-01,Mobile App,Affluent,Sharjah,4477,38099,12055,1244
+2025-05-01,Mobile App,Affluent,Northern Emirates,2876,25407,14632,662
+2025-05-01,Mobile App,Private,Dubai,2036,23508,9040,199
+2025-05-01,Mobile App,Private,Abu Dhabi,1409,14744,4085,413
+2025-05-01,Mobile App,Private,Sharjah,854,7098,2416,193
+2025-05-01,Mobile App,Private,Northern Emirates,572,5028,3280,142
+2025-05-01,Mobile App,SME,Dubai,5670,39548,26685,821
+2025-05-01,Mobile App,SME,Abu Dhabi,4882,61254,28405,1226
+2025-05-01,Mobile App,SME,Sharjah,2560,21250,12432,349
+2025-05-01,Mobile App,SME,Northern Emirates,1761,14178,6896,177
+2025-05-01,Web App,Mass,Dubai,7316,98504,35004,616
+2025-05-01,Web App,Mass,Abu Dhabi,5570,59569,16541,1211
+2025-05-01,Web App,Mass,Sharjah,3287,36497,7264,503
+2025-05-01,Web App,Mass,Northern Emirates,2272,15459,11548,116
+2025-05-01,Web App,Affluent,Dubai,3333,44771,12090,945
+2025-05-01,Web App,Affluent,Abu Dhabi,2662,26139,7447,774
+2025-05-01,Web App,Affluent,Sharjah,1431,15980,8059,103
+2025-05-01,Web App,Affluent,Northern Emirates,1004,10322,4912,285
+2025-05-01,Web App,Private,Dubai,714,5283,3947,67
+2025-05-01,Web App,Private,Abu Dhabi,536,7491,1923,93
+2025-05-01,Web App,Private,Sharjah,322,4410,1836,86
+2025-05-01,Web App,Private,Northern Emirates,178,1876,432,52
+2025-05-01,Web App,SME,Dubai,1894,26350,7904,328
+2025-05-01,Web App,SME,Abu Dhabi,1615,20685,6253,158
+2025-05-01,Web App,SME,Sharjah,821,5993,3149,93
+2025-05-01,Web App,SME,Northern Emirates,556,6612,2870,106
+2025-05-01,Website,Mass,Dubai,10409,77067,0,2748
+2025-05-01,Website,Mass,Abu Dhabi,8014,101103,0,1433
+2025-05-01,Website,Mass,Sharjah,4086,46392,0,393
+2025-05-01,Website,Mass,Northern Emirates,2756,23670,0,308
+2025-05-01,Website,Affluent,Dubai,4284,33775,0,1021
+2025-05-01,Website,Affluent,Abu Dhabi,3681,30977,0,849
+2025-05-01,Website,Affluent,Sharjah,1827,20516,0,407
+2025-05-01,Website,Affluent,Northern Emirates,1231,8550,0,155
+2025-05-01,Website,Private,Dubai,882,8837,0,241
+2025-05-01,Website,Private,Abu Dhabi,702,5958,0,55
+2025-05-01,Website,Private,Sharjah,438,3661,0,89
+2025-05-01,Website,Private,Northern Emirates,254,1795,0,22
+2025-05-01,Website,SME,Dubai,2833,30726,0,436
+2025-05-01,Website,SME,Abu Dhabi,2044,19962,0,376
+2025-05-01,Website,SME,Sharjah,1254,9715,0,140
+2025-05-01,Website,SME,Northern Emirates,851,11050,0,59
+2025-05-01,WhatsApp,Mass,Dubai,2873,33413,6643,548
+2025-05-01,WhatsApp,Mass,Abu Dhabi,1987,20627,7991,383
+2025-05-01,WhatsApp,Mass,Sharjah,1215,10479,4958,96
+2025-05-01,WhatsApp,Mass,Northern Emirates,819,8734,1935,145
+2025-05-01,WhatsApp,Affluent,Dubai,1401,13488,5678,230
+2025-05-01,WhatsApp,Affluent,Abu Dhabi,902,8748,4715,208
+2025-05-01,WhatsApp,Affluent,Sharjah,581,7280,2895,113
+2025-05-01,WhatsApp,Affluent,Northern Emirates,359,3143,809,107
+2025-05-01,WhatsApp,Private,Dubai,286,1873,1640,16
+2025-05-01,WhatsApp,Private,Abu Dhabi,194,2357,982,57
+2025-05-01,WhatsApp,Private,Sharjah,122,1142,728,17
+2025-05-01,WhatsApp,Private,Northern Emirates,85,1126,297,18
+2025-05-01,WhatsApp,SME,Dubai,817,8426,3769,111
+2025-05-01,WhatsApp,SME,Abu Dhabi,555,5715,2284,128
+2025-05-01,WhatsApp,SME,Sharjah,336,2025,702,41
+2025-05-01,WhatsApp,SME,Northern Emirates,245,2537,1011,62
+2025-05-01,IVR / Call Centre,Mass,Dubai,5222,45793,16201,1484
+2025-05-01,IVR / Call Centre,Mass,Abu Dhabi,4310,29750,22575,667
+2025-05-01,IVR / Call Centre,Mass,Sharjah,2606,34060,5375,264
+2025-05-01,IVR / Call Centre,Mass,Northern Emirates,1518,9515,6665,342
+2025-05-01,IVR / Call Centre,Affluent,Dubai,2274,27115,8207,246
+2025-05-01,IVR / Call Centre,Affluent,Abu Dhabi,1768,22824,3935,311
+2025-05-01,IVR / Call Centre,Affluent,Sharjah,1077,13490,5305,139
+2025-05-01,IVR / Call Centre,Affluent,Northern Emirates,764,8694,2507,95
+2025-05-01,IVR / Call Centre,Private,Dubai,464,5234,1338,58
+2025-05-01,IVR / Call Centre,Private,Abu Dhabi,342,4647,1887,95
+2025-05-01,IVR / Call Centre,Private,Sharjah,230,2166,915,67
+2025-05-01,IVR / Call Centre,Private,Northern Emirates,163,1853,838,21
+2025-05-01,IVR / Call Centre,SME,Dubai,1474,10603,5167,351
+2025-05-01,IVR / Call Centre,SME,Abu Dhabi,1119,14317,3584,253
+2025-05-01,IVR / Call Centre,SME,Sharjah,716,9535,3042,209
+2025-05-01,IVR / Call Centre,SME,Northern Emirates,455,3218,1352,45
+2025-05-01,Tablet Banking,Mass,Dubai,905,12106,4876,66
+2025-05-01,Tablet Banking,Mass,Abu Dhabi,689,5183,2117,150
+2025-05-01,Tablet Banking,Mass,Sharjah,404,5247,1112,97
+2025-05-01,Tablet Banking,Mass,Northern Emirates,275,2879,1077,73
+2025-05-01,Tablet Banking,Affluent,Dubai,386,5271,795,109
+2025-05-01,Tablet Banking,Affluent,Abu Dhabi,327,2268,1961,55
+2025-05-01,Tablet Banking,Affluent,Sharjah,170,1841,479,47
+2025-05-01,Tablet Banking,Affluent,Northern Emirates,121,1476,426,22
+2025-05-01,Tablet Banking,Private,Dubai,77,623,311,13
+2025-05-01,Tablet Banking,Private,Abu Dhabi,55,761,213,14
+2025-05-01,Tablet Banking,Private,Sharjah,38,340,138,7
+2025-05-01,Tablet Banking,Private,Northern Emirates,22,157,66,6
+2025-05-01,Tablet Banking,SME,Dubai,243,2269,634,32
+2025-05-01,Tablet Banking,SME,Abu Dhabi,175,2216,699,37
+2025-05-01,Tablet Banking,SME,Sharjah,111,894,586,32
+2025-05-01,Tablet Banking,SME,Northern Emirates,74,734,197,18
+2025-05-01,Branch,Mass,Dubai,7626,89700,30147,2129
+2025-05-01,Branch,Mass,Abu Dhabi,6176,68766,13802,361
+2025-05-01,Branch,Mass,Sharjah,3929,53283,18359,947
+2025-05-01,Branch,Mass,Northern Emirates,2406,30653,7039,545
+2025-05-01,Branch,Affluent,Dubai,3347,33623,11690,684
+2025-05-01,Branch,Affluent,Abu Dhabi,2876,31440,11310,494
+2025-05-01,Branch,Affluent,Sharjah,1505,15671,3081,274
+2025-05-01,Branch,Affluent,Northern Emirates,1063,14690,2198,269
+2025-05-01,Branch,Private,Dubai,768,9561,4330,58
+2025-05-01,Branch,Private,Abu Dhabi,511,3674,1414,92
+2025-05-01,Branch,Private,Sharjah,355,2889,1273,50
+2025-05-01,Branch,Private,Northern Emirates,218,2293,1299,23
+2025-05-01,Branch,SME,Dubai,2309,29515,10655,610
+2025-05-01,Branch,SME,Abu Dhabi,1757,11856,6179,330
+2025-05-01,Branch,SME,Sharjah,913,5547,2451,159
+2025-05-01,Branch,SME,Northern Emirates,659,8089,2809,174
+2025-06-01,Mobile App,Mass,Dubai,20472,209331,44428,2105
+2025-06-01,Mobile App,Mass,Abu Dhabi,17936,234969,69986,1105
+2025-06-01,Mobile App,Mass,Sharjah,9170,122920,51326,1750
+2025-06-01,Mobile App,Mass,Northern Emirates,6058,81359,19736,1759
+2025-06-01,Mobile App,Affluent,Dubai,10301,123797,49968,1540
+2025-06-01,Mobile App,Affluent,Abu Dhabi,6951,50739,20588,1797
+2025-06-01,Mobile App,Affluent,Sharjah,4455,58682,14821,1064
+2025-06-01,Mobile App,Affluent,Northern Emirates,2818,39192,13798,493
+2025-06-01,Mobile App,Private,Dubai,2217,14254,8310,575
+2025-06-01,Mobile App,Private,Abu Dhabi,1470,17863,8554,219
+2025-06-01,Mobile App,Private,Sharjah,961,5993,2972,286
+2025-06-01,Mobile App,Private,Northern Emirates,606,5360,3493,95
+2025-06-01,Mobile App,SME,Dubai,6293,71018,14743,1287
+2025-06-01,Mobile App,SME,Abu Dhabi,4827,56499,11237,427
+2025-06-01,Mobile App,SME,Sharjah,2849,31541,14127,368
+2025-06-01,Mobile App,SME,Northern Emirates,1679,10143,5428,235
+2025-06-01,Web App,Mass,Dubai,7083,50006,19475,1148
+2025-06-01,Web App,Mass,Abu Dhabi,5629,52149,11849,779
+2025-06-01,Web App,Mass,Sharjah,3069,33097,10120,449
+2025-06-01,Web App,Mass,Northern Emirates,2134,19424,4990,587
+2025-06-01,Web App,Affluent,Dubai,3648,50435,15642,337
+2025-06-01,Web App,Affluent,Abu Dhabi,2470,17563,7915,428
+2025-06-01,Web App,Affluent,Sharjah,1386,13135,5106,237
+2025-06-01,Web App,Affluent,Northern Emirates,926,7420,2765,190
+2025-06-01,Web App,Private,Dubai,687,5196,1667,86
+2025-06-01,Web App,Private,Abu Dhabi,551,4770,2468,138
+2025-06-01,Web App,Private,Sharjah,293,2542,1541,77
+2025-06-01,Web App,Private,Northern Emirates,221,1566,725,63
+2025-06-01,Web App,SME,Dubai,1903,16201,11148,556
+2025-06-01,Web App,SME,Abu Dhabi,1455,16819,5767,282
+2025-06-01,Web App,SME,Sharjah,864,7783,4549,128
+2025-06-01,Web App,SME,Northern Emirates,560,5886,2446,104
+2025-06-01,Website,Mass,Dubai,10259,106701,0,2957
+2025-06-01,Website,Mass,Abu Dhabi,7368,85961,0,1176
+2025-06-01,Website,Mass,Sharjah,4269,49275,0,1087
+2025-06-01,Website,Mass,Northern Emirates,3145,29164,0,549
+2025-06-01,Website,Affluent,Dubai,4620,36665,0,991
+2025-06-01,Website,Affluent,Abu Dhabi,3520,43340,0,241
+2025-06-01,Website,Affluent,Sharjah,2223,21860,0,333
+2025-06-01,Website,Affluent,Northern Emirates,1351,18053,0,301
+2025-06-01,Website,Private,Dubai,907,11179,0,126
+2025-06-01,Website,Private,Abu Dhabi,728,7494,0,152
+2025-06-01,Website,Private,Sharjah,371,4508,0,79
+2025-06-01,Website,Private,Northern Emirates,262,2928,0,16
+2025-06-01,Website,SME,Dubai,2961,33813,0,443
+2025-06-01,Website,SME,Abu Dhabi,2127,29194,0,335
+2025-06-01,Website,SME,Sharjah,1096,8844,0,194
+2025-06-01,Website,SME,Northern Emirates,813,8653,0,157
+2025-06-01,WhatsApp,Mass,Dubai,2937,26812,14947,579
+2025-06-01,WhatsApp,Mass,Abu Dhabi,2227,19507,4672,169
+2025-06-01,WhatsApp,Mass,Sharjah,1314,17993,3238,374
+2025-06-01,WhatsApp,Mass,Northern Emirates,827,7025,3160,84
+2025-06-01,WhatsApp,Affluent,Dubai,1345,13193,5047,301
+2025-06-01,WhatsApp,Affluent,Abu Dhabi,975,8192,5109,76
+2025-06-01,WhatsApp,Affluent,Sharjah,649,7258,3055,59
+2025-06-01,WhatsApp,Affluent,Northern Emirates,444,3530,1197,39
+2025-06-01,WhatsApp,Private,Dubai,273,3731,799,41
+2025-06-01,WhatsApp,Private,Abu Dhabi,189,2102,704,10
+2025-06-01,WhatsApp,Private,Sharjah,124,939,541,18
+2025-06-01,WhatsApp,Private,Northern Emirates,84,642,420,21
+2025-06-01,WhatsApp,SME,Dubai,739,5035,4055,71
+2025-06-01,WhatsApp,SME,Abu Dhabi,586,5660,1786,155
+2025-06-01,WhatsApp,SME,Sharjah,366,4067,1605,74
+2025-06-01,WhatsApp,SME,Northern Emirates,247,2169,1329,50
+2025-06-01,IVR / Call Centre,Mass,Dubai,5845,68082,18644,1190
+2025-06-01,IVR / Call Centre,Mass,Abu Dhabi,3782,26744,9347,477
+2025-06-01,IVR / Call Centre,Mass,Sharjah,2318,26767,9372,358
+2025-06-01,IVR / Call Centre,Mass,Northern Emirates,1530,13876,4196,319
+2025-06-01,IVR / Call Centre,Affluent,Dubai,2596,28976,15574,489
+2025-06-01,IVR / Call Centre,Affluent,Abu Dhabi,1871,13325,6096,304
+2025-06-01,IVR / Call Centre,Affluent,Sharjah,1024,9085,2087,86
+2025-06-01,IVR / Call Centre,Affluent,Northern Emirates,797,10927,3205,138
+2025-06-01,IVR / Call Centre,Private,Dubai,518,4830,2776,89
+2025-06-01,IVR / Call Centre,Private,Abu Dhabi,343,2142,1730,42
+2025-06-01,IVR / Call Centre,Private,Sharjah,214,2204,571,35
+2025-06-01,IVR / Call Centre,Private,Northern Emirates,157,1903,659,12
+2025-06-01,IVR / Call Centre,SME,Dubai,1384,16886,7325,196
+2025-06-01,IVR / Call Centre,SME,Abu Dhabi,1197,7580,5836,223
+2025-06-01,IVR / Call Centre,SME,Sharjah,741,5053,3942,176
+2025-06-01,IVR / Call Centre,SME,Northern Emirates,431,6031,1637,59
+2025-06-01,Tablet Banking,Mass,Dubai,935,8894,5587,228
+2025-06-01,Tablet Banking,Mass,Abu Dhabi,625,7803,2719,86
+2025-06-01,Tablet Banking,Mass,Sharjah,412,4557,1097,34
+2025-06-01,Tablet Banking,Mass,Northern Emirates,248,1898,554,34
+2025-06-01,Tablet Banking,Affluent,Dubai,382,3938,1258,86
+2025-06-01,Tablet Banking,Affluent,Abu Dhabi,287,2335,1559,85
+2025-06-01,Tablet Banking,Affluent,Sharjah,186,1257,1088,45
+2025-06-01,Tablet Banking,Affluent,Northern Emirates,130,1812,710,10
+2025-06-01,Tablet Banking,Private,Dubai,85,679,411,21
+2025-06-01,Tablet Banking,Private,Abu Dhabi,63,718,249,12
+2025-06-01,Tablet Banking,Private,Sharjah,34,316,129,7
+2025-06-01,Tablet Banking,Private,Northern Emirates,25,168,101,2
+2025-06-01,Tablet Banking,SME,Dubai,260,2327,1508,34
+2025-06-01,Tablet Banking,SME,Abu Dhabi,162,1975,798,37
+2025-06-01,Tablet Banking,SME,Sharjah,107,1210,367,7
+2025-06-01,Tablet Banking,SME,Northern Emirates,72,557,267,7
+2025-06-01,Branch,Mass,Dubai,7637,96430,25591,1485
+2025-06-01,Branch,Mass,Abu Dhabi,6085,60136,20536,1342
+2025-06-01,Branch,Mass,Sharjah,3278,22279,16834,540
+2025-06-01,Branch,Mass,Northern Emirates,2221,28564,8362,111
+2025-06-01,Branch,Affluent,Dubai,3973,30268,18889,329
+2025-06-01,Branch,Affluent,Abu Dhabi,2811,20441,16109,333
+2025-06-01,Branch,Affluent,Sharjah,1688,13509,5886,465
+2025-06-01,Branch,Affluent,Northern Emirates,1018,9335,3280,228
+2025-06-01,Branch,Private,Dubai,689,7747,3317,34
+2025-06-01,Branch,Private,Abu Dhabi,543,3834,1577,119
+2025-06-01,Branch,Private,Sharjah,295,3411,1554,87
+2025-06-01,Branch,Private,Northern Emirates,215,1517,490,31
+2025-06-01,Branch,SME,Dubai,2284,15575,7430,617
+2025-06-01,Branch,SME,Abu Dhabi,1519,18513,7614,126
+2025-06-01,Branch,SME,Sharjah,1079,7707,4447,56
+2025-06-01,Branch,SME,Northern Emirates,674,6417,3295,139
+2025-07-01,Mobile App,Mass,Dubai,21182,196858,100535,5613
+2025-07-01,Mobile App,Mass,Abu Dhabi,15665,106580,78478,3092
+2025-07-01,Mobile App,Mass,Sharjah,10008,137169,32606,850
+2025-07-01,Mobile App,Mass,Northern Emirates,6526,43554,27497,1305
+2025-07-01,Mobile App,Affluent,Dubai,10572,129314,50342,2769
+2025-07-01,Mobile App,Affluent,Abu Dhabi,8008,67372,32600,1420
+2025-07-01,Mobile App,Affluent,Sharjah,4888,40884,10842,1341
+2025-07-01,Mobile App,Affluent,Northern Emirates,3387,33731,8301,592
+2025-07-01,Mobile App,Private,Dubai,2108,21557,12459,625
+2025-07-01,Mobile App,Private,Abu Dhabi,1687,11903,9182,324
+2025-07-01,Mobile App,Private,Sharjah,906,10385,4576,261
+2025-07-01,Mobile App,Private,Northern Emirates,654,4011,1484,75
+2025-07-01,Mobile App,SME,Dubai,5638,36555,29076,995
+2025-07-01,Mobile App,SME,Abu Dhabi,4777,47810,17492,1076
+2025-07-01,Mobile App,SME,Sharjah,2561,26359,11432,305
+2025-07-01,Mobile App,SME,Northern Emirates,1792,18082,5040,451
+2025-07-01,Web App,Mass,Dubai,7645,69767,34686,1977
+2025-07-01,Web App,Mass,Abu Dhabi,5898,38507,28279,1371
+2025-07-01,Web App,Mass,Sharjah,3652,23603,8563,579
+2025-07-01,Web App,Mass,Northern Emirates,2255,24513,7299,530
+2025-07-01,Web App,Affluent,Dubai,3616,25151,17471,814
+2025-07-01,Web App,Affluent,Abu Dhabi,2413,32875,9874,592
+2025-07-01,Web App,Affluent,Sharjah,1621,11891,4065,397
+2025-07-01,Web App,Affluent,Northern Emirates,987,12921,5019,56
+2025-07-01,Web App,Private,Dubai,732,5984,1651,166
+2025-07-01,Web App,Private,Abu Dhabi,525,3473,2005,73
+2025-07-01,Web App,Private,Sharjah,310,3265,1075,35
+2025-07-01,Web App,Private,Northern Emirates,190,2012,929,20
+2025-07-01,Web App,SME,Dubai,2073,13168,11301,230
+2025-07-01,Web App,SME,Abu Dhabi,1543,13985,4012,436
+2025-07-01,Web App,SME,Sharjah,998,10402,5644,234
+2025-07-01,Web App,SME,Northern Emirates,610,5230,2235,140
+2025-07-01,Website,Mass,Dubai,9447,62568,0,1352
+2025-07-01,Website,Mass,Abu Dhabi,7428,98164,0,704
+2025-07-01,Website,Mass,Sharjah,4726,65461,0,1363
+2025-07-01,Website,Mass,Northern Emirates,2713,26372,0,327
+2025-07-01,Website,Affluent,Dubai,4810,41454,0,905
+2025-07-01,Website,Affluent,Abu Dhabi,3042,23135,0,580
+2025-07-01,Website,Affluent,Sharjah,1945,21359,0,322
+2025-07-01,Website,Affluent,Northern Emirates,1374,13667,0,334
+2025-07-01,Website,Private,Dubai,845,11156,0,202
+2025-07-01,Website,Private,Abu Dhabi,640,3872,0,97
+2025-07-01,Website,Private,Sharjah,383,3359,0,99
+2025-07-01,Website,Private,Northern Emirates,290,3946,0,14
+2025-07-01,Website,SME,Dubai,2784,35613,0,645
+2025-07-01,Website,SME,Abu Dhabi,1864,19084,0,204
+2025-07-01,Website,SME,Sharjah,1213,7859,0,362
+2025-07-01,Website,SME,Northern Emirates,844,5692,0,236
+2025-07-01,WhatsApp,Mass,Dubai,3277,33288,15740,469
+2025-07-01,WhatsApp,Mass,Abu Dhabi,2493,16651,5939,207
+2025-07-01,WhatsApp,Mass,Sharjah,1453,9587,6206,230
+2025-07-01,WhatsApp,Mass,Northern Emirates,995,7854,3028,128
+2025-07-01,WhatsApp,Affluent,Dubai,1463,16979,7229,189
+2025-07-01,WhatsApp,Affluent,Abu Dhabi,987,6511,2774,241
+2025-07-01,WhatsApp,Affluent,Sharjah,631,4570,1676,105
+2025-07-01,WhatsApp,Affluent,Northern Emirates,406,4176,2378,41
+2025-07-01,WhatsApp,Private,Dubai,265,2151,657,23
+2025-07-01,WhatsApp,Private,Abu Dhabi,214,2698,1024,12
+2025-07-01,WhatsApp,Private,Sharjah,132,1138,312,14
+2025-07-01,WhatsApp,Private,Northern Emirates,80,808,376,9
+2025-07-01,WhatsApp,SME,Dubai,909,5680,3288,148
+2025-07-01,WhatsApp,SME,Abu Dhabi,651,5207,2505,163
+2025-07-01,WhatsApp,SME,Sharjah,345,2103,1835,101
+2025-07-01,WhatsApp,SME,Northern Emirates,230,2895,802,47
+2025-07-01,IVR / Call Centre,Mass,Dubai,5659,60316,17176,1432
+2025-07-01,IVR / Call Centre,Mass,Abu Dhabi,3730,24303,20925,599
+2025-07-01,IVR / Call Centre,Mass,Sharjah,2291,30334,12182,304
+2025-07-01,IVR / Call Centre,Mass,Northern Emirates,1499,14522,4005,290
+2025-07-01,IVR / Call Centre,Affluent,Dubai,2660,24365,5633,587
+2025-07-01,IVR / Call Centre,Affluent,Abu Dhabi,1752,13521,4815,210
+2025-07-01,IVR / Call Centre,Affluent,Sharjah,1211,7601,5421,134
+2025-07-01,IVR / Call Centre,Affluent,Northern Emirates,719,6683,3021,46
+2025-07-01,IVR / Call Centre,Private,Dubai,477,3385,1334,129
+2025-07-01,IVR / Call Centre,Private,Abu Dhabi,376,4153,1958,93
+2025-07-01,IVR / Call Centre,Private,Sharjah,247,3027,848,45
+2025-07-01,IVR / Call Centre,Private,Northern Emirates,149,1981,597,21
+2025-07-01,IVR / Call Centre,SME,Dubai,1403,11997,4035,384
+2025-07-01,IVR / Call Centre,SME,Abu Dhabi,1187,7678,7081,216
+2025-07-01,IVR / Call Centre,SME,Sharjah,711,9951,4191,53
+2025-07-01,IVR / Call Centre,SME,Northern Emirates,464,3773,2443,129
+2025-07-01,Tablet Banking,Mass,Dubai,801,11190,2304,209
+2025-07-01,Tablet Banking,Mass,Abu Dhabi,699,6178,3744,182
+2025-07-01,Tablet Banking,Mass,Sharjah,370,3973,1933,83
+2025-07-01,Tablet Banking,Mass,Northern Emirates,285,1774,1368,81
+2025-07-01,Tablet Banking,Affluent,Dubai,405,4254,1114,120
+2025-07-01,Tablet Banking,Affluent,Abu Dhabi,322,3199,1042,55
+2025-07-01,Tablet Banking,Affluent,Sharjah,165,1297,474,29
+2025-07-01,Tablet Banking,Affluent,Northern Emirates,108,1441,303,8
+2025-07-01,Tablet Banking,Private,Dubai,83,1108,446,10
+2025-07-01,Tablet Banking,Private,Abu Dhabi,54,577,306,13
+2025-07-01,Tablet Banking,Private,Sharjah,38,489,222,5
+2025-07-01,Tablet Banking,Private,Northern Emirates,26,238,62,3
+2025-07-01,Tablet Banking,SME,Dubai,222,1611,1286,55
+2025-07-01,Tablet Banking,SME,Abu Dhabi,196,2193,528,57
+2025-07-01,Tablet Banking,SME,Sharjah,112,1504,576,11
+2025-07-01,Tablet Banking,SME,Northern Emirates,73,540,235,16
+2025-07-01,Branch,Mass,Dubai,7264,85937,42095,2086
+2025-07-01,Branch,Mass,Abu Dhabi,5759,80362,33751,334
+2025-07-01,Branch,Mass,Sharjah,3604,48179,21155,379
+2025-07-01,Branch,Mass,Northern Emirates,2385,32182,6111,563
+2025-07-01,Branch,Affluent,Dubai,3381,46857,9032,917
+2025-07-01,Branch,Affluent,Abu Dhabi,2455,28654,11185,666
+2025-07-01,Branch,Affluent,Sharjah,1588,12897,4761,106
+2025-07-01,Branch,Affluent,Northern Emirates,1018,6987,2041,149
+2025-07-01,Branch,Private,Dubai,746,10259,4131,129
+2025-07-01,Branch,Private,Abu Dhabi,522,5412,1255,88
+2025-07-01,Branch,Private,Sharjah,344,3855,1633,31
+2025-07-01,Branch,Private,Northern Emirates,195,2489,620,25
+2025-07-01,Branch,SME,Dubai,2334,15389,6256,335
+2025-07-01,Branch,SME,Abu Dhabi,1680,17432,9395,123
+2025-07-01,Branch,SME,Sharjah,981,10701,3856,56
+2025-07-01,Branch,SME,Northern Emirates,699,5116,3885,62
+2025-08-01,Mobile App,Mass,Dubai,21409,163659,59087,4802
+2025-08-01,Mobile App,Mass,Abu Dhabi,18223,215756,55781,2193
+2025-08-01,Mobile App,Mass,Sharjah,9919,63452,42523,2578
+2025-08-01,Mobile App,Mass,Northern Emirates,6495,57718,24099,803
+2025-08-01,Mobile App,Affluent,Dubai,10917,117922,30553,616
+2025-08-01,Mobile App,Affluent,Abu Dhabi,7409,61750,17246,1933
+2025-08-01,Mobile App,Affluent,Sharjah,4576,42006,18104,985
+2025-08-01,Mobile App,Affluent,Northern Emirates,2913,30158,7980,790
+2025-08-01,Mobile App,Private,Dubai,2059,19696,6286,342
+2025-08-01,Mobile App,Private,Abu Dhabi,1499,12214,3367,356
+2025-08-01,Mobile App,Private,Sharjah,983,6572,3317,182
+2025-08-01,Mobile App,Private,Northern Emirates,694,7438,2924,180
+2025-08-01,Mobile App,SME,Dubai,6749,63096,27954,1800
+2025-08-01,Mobile App,SME,Abu Dhabi,4734,61793,18486,330
+2025-08-01,Mobile App,SME,Sharjah,3085,36139,12365,848
+2025-08-01,Mobile App,SME,Northern Emirates,2017,23034,9038,161
+2025-08-01,Web App,Mass,Dubai,8153,60193,48408,2389
+2025-08-01,Web App,Mass,Abu Dhabi,6175,43283,22807,1834
+2025-08-01,Web App,Mass,Sharjah,3444,48140,15528,890
+2025-08-01,Web App,Mass,Northern Emirates,2213,29402,12518,147
+2025-08-01,Web App,Affluent,Dubai,3446,31630,11387,410
+2025-08-01,Web App,Affluent,Abu Dhabi,2621,34040,13488,539
+2025-08-01,Web App,Affluent,Sharjah,1593,14905,5826,138
+2025-08-01,Web App,Affluent,Northern Emirates,1076,12984,6196,302
+2025-08-01,Web App,Private,Dubai,713,4854,2241,131
+2025-08-01,Web App,Private,Abu Dhabi,512,4755,1808,87
+2025-08-01,Web App,Private,Sharjah,324,2041,1004,27
+2025-08-01,Web App,Private,Northern Emirates,216,2494,465,58
+2025-08-01,Web App,SME,Dubai,2043,16140,10180,572
+2025-08-01,Web App,SME,Abu Dhabi,1712,10549,9021,215
+2025-08-01,Web App,SME,Sharjah,909,9029,4349,67
+2025-08-01,Web App,SME,Northern Emirates,681,4818,4015,109
+2025-08-01,Website,Mass,Dubai,10545,85998,0,1625
+2025-08-01,Website,Mass,Abu Dhabi,7641,57334,0,785
+2025-08-01,Website,Mass,Sharjah,4743,56572,0,1137
+2025-08-01,Website,Mass,Northern Emirates,3188,40067,0,570
+2025-08-01,Website,Affluent,Dubai,4193,35594,0,740
+2025-08-01,Website,Affluent,Abu Dhabi,3129,40083,0,844
+2025-08-01,Website,Affluent,Sharjah,1834,13832,0,473
+2025-08-01,Website,Affluent,Northern Emirates,1440,11514,0,236
+2025-08-01,Website,Private,Dubai,975,11346,0,115
+2025-08-01,Website,Private,Abu Dhabi,718,7209,0,149
+2025-08-01,Website,Private,Sharjah,374,2335,0,53
+2025-08-01,Website,Private,Northern Emirates,275,2040,0,73
+2025-08-01,Website,SME,Dubai,2746,24159,0,249
+2025-08-01,Website,SME,Abu Dhabi,2184,26189,0,485
+2025-08-01,Website,SME,Sharjah,1162,10565,0,105
+2025-08-01,Website,SME,Northern Emirates,821,11263,0,216
+2025-08-01,WhatsApp,Mass,Dubai,3193,36469,9822,486
+2025-08-01,WhatsApp,Mass,Abu Dhabi,2103,25745,10662,109
+2025-08-01,WhatsApp,Mass,Sharjah,1510,16880,6650,78
+2025-08-01,WhatsApp,Mass,Northern Emirates,884,10997,2848,257
+2025-08-01,WhatsApp,Affluent,Dubai,1450,13616,5083,198
+2025-08-01,WhatsApp,Affluent,Abu Dhabi,1005,9782,4732,257
+2025-08-01,WhatsApp,Affluent,Sharjah,621,4234,2512,133
+2025-08-01,WhatsApp,Affluent,Northern Emirates,452,4065,2074,91
+2025-08-01,WhatsApp,Private,Dubai,270,1853,608,80
+2025-08-01,WhatsApp,Private,Abu Dhabi,217,2797,660,49
+2025-08-01,WhatsApp,Private,Sharjah,136,1141,353,32
+2025-08-01,WhatsApp,Private,Northern Emirates,91,1132,474,18
+2025-08-01,WhatsApp,SME,Dubai,873,9992,4264,186
+2025-08-01,WhatsApp,SME,Abu Dhabi,697,5628,2560,102
+2025-08-01,WhatsApp,SME,Sharjah,345,4024,1479,33
+2025-08-01,WhatsApp,SME,Northern Emirates,265,2061,1096,65
+2025-08-01,IVR / Call Centre,Mass,Dubai,5947,67646,23962,1554
+2025-08-01,IVR / Call Centre,Mass,Abu Dhabi,4406,57330,12004,327
+2025-08-01,IVR / Call Centre,Mass,Sharjah,2290,18478,11984,551
+2025-08-01,IVR / Call Centre,Mass,Northern Emirates,1545,17671,5164,111
+2025-08-01,IVR / Call Centre,Affluent,Dubai,2427,29011,7835,599
+2025-08-01,IVR / Call Centre,Affluent,Abu Dhabi,1811,14640,5752,475
+2025-08-01,IVR / Call Centre,Affluent,Sharjah,1118,14457,4845,319
+2025-08-01,IVR / Call Centre,Affluent,Northern Emirates,685,8984,2741,182
+2025-08-01,IVR / Call Centre,Private,Dubai,488,4092,1081,128
+2025-08-01,IVR / Call Centre,Private,Abu Dhabi,347,2638,1261,66
+2025-08-01,IVR / Call Centre,Private,Sharjah,243,2347,793,55
+2025-08-01,IVR / Call Centre,Private,Northern Emirates,158,1564,714,14
+2025-08-01,IVR / Call Centre,SME,Dubai,1540,9298,4764,370
+2025-08-01,IVR / Call Centre,SME,Abu Dhabi,1050,12721,4156,252
+2025-08-01,IVR / Call Centre,SME,Sharjah,619,6756,2806,93
+2025-08-01,IVR / Call Centre,SME,Northern Emirates,491,4451,1056,49
+2025-08-01,Tablet Banking,Mass,Dubai,857,5238,2818,221
+2025-08-01,Tablet Banking,Mass,Abu Dhabi,619,7065,2789,69
+2025-08-01,Tablet Banking,Mass,Sharjah,411,3598,1033,59
+2025-08-01,Tablet Banking,Mass,Northern Emirates,268,1966,1419,33
+2025-08-01,Tablet Banking,Affluent,Dubai,383,4528,1679,51
+2025-08-01,Tablet Banking,Affluent,Abu Dhabi,323,4510,1088,88
+2025-08-01,Tablet Banking,Affluent,Sharjah,174,1306,1007,48
+2025-08-01,Tablet Banking,Affluent,Northern Emirates,117,915,574,9
+2025-08-01,Tablet Banking,Private,Dubai,83,889,222,11
+2025-08-01,Tablet Banking,Private,Abu Dhabi,61,384,335,6
+2025-08-01,Tablet Banking,Private,Sharjah,36,229,215,7
+2025-08-01,Tablet Banking,Private,Northern Emirates,24,147,114,3
+2025-08-01,Tablet Banking,SME,Dubai,234,2428,912,20
+2025-08-01,Tablet Banking,SME,Abu Dhabi,187,2064,599,40
+2025-08-01,Tablet Banking,SME,Sharjah,111,905,490,9
+2025-08-01,Tablet Banking,SME,Northern Emirates,76,519,370,6
+2025-08-01,Branch,Mass,Dubai,7097,48615,19833,709
+2025-08-01,Branch,Mass,Abu Dhabi,5494,55957,15419,1240
+2025-08-01,Branch,Mass,Sharjah,3319,20960,13227,338
+2025-08-01,Branch,Mass,Northern Emirates,2507,21672,5041,546
+2025-08-01,Branch,Affluent,Dubai,3780,47937,17675,329
+2025-08-01,Branch,Affluent,Abu Dhabi,2407,24295,11780,181
+2025-08-01,Branch,Affluent,Sharjah,1496,11742,8908,185
+2025-08-01,Branch,Affluent,Northern Emirates,1041,7077,2809,62
+2025-08-01,Branch,Private,Dubai,669,8304,2174,156
+2025-08-01,Branch,Private,Abu Dhabi,481,5803,1050,126
+2025-08-01,Branch,Private,Sharjah,324,2385,1111,51
+2025-08-01,Branch,Private,Northern Emirates,214,2787,507,54
+2025-08-01,Branch,SME,Dubai,1964,18081,11487,231
+2025-08-01,Branch,SME,Abu Dhabi,1537,19681,7991,326
+2025-08-01,Branch,SME,Sharjah,999,6897,4779,64
+2025-08-01,Branch,SME,Northern Emirates,684,4976,2506,135
+2025-09-01,Mobile App,Mass,Dubai,25196,287918,68660,3651
+2025-09-01,Mobile App,Mass,Abu Dhabi,17316,107887,82040,4495
+2025-09-01,Mobile App,Mass,Sharjah,11704,82457,66497,915
+2025-09-01,Mobile App,Mass,Northern Emirates,7001,44580,21328,900
+2025-09-01,Mobile App,Affluent,Dubai,11241,128410,56993,2182
+2025-09-01,Mobile App,Affluent,Abu Dhabi,8205,113419,38394,1104
+2025-09-01,Mobile App,Affluent,Sharjah,4882,56653,11623,1051
+2025-09-01,Mobile App,Affluent,Northern Emirates,3077,26972,14477,449
+2025-09-01,Mobile App,Private,Dubai,2306,24136,13723,146
+2025-09-01,Mobile App,Private,Abu Dhabi,1666,12087,8988,438
+2025-09-01,Mobile App,Private,Sharjah,1043,6882,4137,114
+2025-09-01,Mobile App,Private,Northern Emirates,708,4533,2046,149
+2025-09-01,Mobile App,SME,Dubai,6354,50069,24376,1590
+2025-09-01,Mobile App,SME,Abu Dhabi,4809,61808,18217,383
+2025-09-01,Mobile App,SME,Sharjah,2914,32715,7024,446
+2025-09-01,Mobile App,SME,Northern Emirates,1966,11798,4646,395
+2025-09-01,Web App,Mass,Dubai,8108,68405,32702,824
+2025-09-01,Web App,Mass,Abu Dhabi,6143,83562,21214,390
+2025-09-01,Web App,Mass,Sharjah,3366,32433,14273,689
+2025-09-01,Web App,Mass,Northern Emirates,2363,26601,11492,185
+2025-09-01,Web App,Affluent,Dubai,3786,29432,12741,974
+2025-09-01,Web App,Affluent,Abu Dhabi,2950,24590,12059,665
+2025-09-01,Web App,Affluent,Sharjah,1472,10765,3770,337
+2025-09-01,Web App,Affluent,Northern Emirates,1127,7726,5007,109
+2025-09-01,Web App,Private,Dubai,781,7140,2989,191
+2025-09-01,Web App,Private,Abu Dhabi,563,3863,2059,158
+2025-09-01,Web App,Private,Sharjah,345,3695,1755,56
+2025-09-01,Web App,Private,Northern Emirates,222,3030,563,38
+2025-09-01,Web App,SME,Dubai,2173,13882,12475,564
+2025-09-01,Web App,SME,Abu Dhabi,1614,16247,9175,152
+2025-09-01,Web App,SME,Sharjah,987,11689,2480,144
+2025-09-01,Web App,SME,Northern Emirates,661,8633,2654,96
+2025-09-01,Website,Mass,Dubai,10849,144587,0,2610
+2025-09-01,Website,Mass,Abu Dhabi,7088,97167,0,2074
+2025-09-01,Website,Mass,Sharjah,4412,31179,0,675
+2025-09-01,Website,Mass,Northern Emirates,3088,37017,0,385
+2025-09-01,Website,Affluent,Dubai,4681,60317,0,1067
+2025-09-01,Website,Affluent,Abu Dhabi,3668,40570,0,367
+2025-09-01,Website,Affluent,Sharjah,2075,17273,0,282
+2025-09-01,Website,Affluent,Northern Emirates,1396,19335,0,296
+2025-09-01,Website,Private,Dubai,982,9850,0,219
+2025-09-01,Website,Private,Abu Dhabi,651,4507,0,89
+2025-09-01,Website,Private,Sharjah,403,4257,0,87
+2025-09-01,Website,Private,Northern Emirates,265,3175,0,68
+2025-09-01,Website,SME,Dubai,2584,33019,0,651
+2025-09-01,Website,SME,Abu Dhabi,2034,12615,0,175
+2025-09-01,Website,SME,Sharjah,1256,9544,0,298
+2025-09-01,Website,SME,Northern Emirates,755,6261,0,85
+2025-09-01,WhatsApp,Mass,Dubai,3383,38988,10759,806
+2025-09-01,WhatsApp,Mass,Abu Dhabi,2153,26938,5188,574
+2025-09-01,WhatsApp,Mass,Sharjah,1493,19287,7419,284
+2025-09-01,WhatsApp,Mass,Northern Emirates,900,11047,4675,109
+2025-09-01,WhatsApp,Affluent,Dubai,1487,19943,5279,430
+2025-09-01,WhatsApp,Affluent,Abu Dhabi,1182,10048,4974,62
+2025-09-01,WhatsApp,Affluent,Sharjah,615,6743,3151,164
+2025-09-01,WhatsApp,Affluent,Northern Emirates,460,6114,2216,97
+2025-09-01,WhatsApp,Private,Dubai,302,3132,1332,73
+2025-09-01,WhatsApp,Private,Abu Dhabi,236,1971,639,52
+2025-09-01,WhatsApp,Private,Sharjah,121,894,490,17
+2025-09-01,WhatsApp,Private,Northern Emirates,85,888,214,16
+2025-09-01,WhatsApp,SME,Dubai,821,7097,3972,72
+2025-09-01,WhatsApp,SME,Abu Dhabi,603,5174,1328,170
+2025-09-01,WhatsApp,SME,Sharjah,397,4484,1572,76
+2025-09-01,WhatsApp,SME,Northern Emirates,251,3080,821,26
+2025-09-01,IVR / Call Centre,Mass,Dubai,5152,33721,20713,793
+2025-09-01,IVR / Call Centre,Mass,Abu Dhabi,4155,27986,11986,429
+2025-09-01,IVR / Call Centre,Mass,Sharjah,2391,21247,6871,569
+2025-09-01,IVR / Call Centre,Mass,Northern Emirates,1660,23195,8789,490
+2025-09-01,IVR / Call Centre,Affluent,Dubai,2254,25586,8526,622
+2025-09-01,IVR / Call Centre,Affluent,Abu Dhabi,1917,21027,11186,422
+2025-09-01,IVR / Call Centre,Affluent,Sharjah,1084,14446,6265,158
+2025-09-01,IVR / Call Centre,Affluent,Northern Emirates,756,6246,4267,193
+2025-09-01,IVR / Call Centre,Private,Dubai,487,6049,1841,29
+2025-09-01,IVR / Call Centre,Private,Abu Dhabi,404,3046,1638,115
+2025-09-01,IVR / Call Centre,Private,Sharjah,210,2866,871,10
+2025-09-01,IVR / Call Centre,Private,Northern Emirates,136,1545,692,36
+2025-09-01,IVR / Call Centre,SME,Dubai,1477,10089,6131,333
+2025-09-01,IVR / Call Centre,SME,Abu Dhabi,1232,15032,5650,351
+2025-09-01,IVR / Call Centre,SME,Sharjah,708,5118,2716,94
+2025-09-01,IVR / Call Centre,SME,Northern Emirates,412,2650,2132,78
+2025-09-01,Tablet Banking,Mass,Dubai,893,6984,2709,131
+2025-09-01,Tablet Banking,Mass,Abu Dhabi,677,6407,1399,147
+2025-09-01,Tablet Banking,Mass,Sharjah,398,4430,1780,95
+2025-09-01,Tablet Banking,Mass,Northern Emirates,268,3110,613,75
+2025-09-01,Tablet Banking,Affluent,Dubai,368,4524,1179,26
+2025-09-01,Tablet Banking,Affluent,Abu Dhabi,315,2992,1127,67
+2025-09-01,Tablet Banking,Affluent,Sharjah,179,1837,455,26
+2025-09-01,Tablet Banking,Affluent,Northern Emirates,127,1316,741,10
+2025-09-01,Tablet Banking,Private,Dubai,82,1091,424,19
+2025-09-01,Tablet Banking,Private,Abu Dhabi,58,788,244,10
+2025-09-01,Tablet Banking,Private,Sharjah,33,199,144,6
+2025-09-01,Tablet Banking,Private,Northern Emirates,26,219,129,7
+2025-09-01,Tablet Banking,SME,Dubai,232,2157,1063,41
+2025-09-01,Tablet Banking,SME,Abu Dhabi,167,1296,891,16
+2025-09-01,Tablet Banking,SME,Sharjah,101,1252,546,26
+2025-09-01,Tablet Banking,SME,Northern Emirates,78,1088,299,14
+2025-09-01,Branch,Mass,Dubai,7217,47191,17268,1669
+2025-09-01,Branch,Mass,Abu Dhabi,5635,48724,14159,1205
+2025-09-01,Branch,Mass,Sharjah,3118,34161,17462,403
+2025-09-01,Branch,Mass,Northern Emirates,2237,24452,7209,438
+2025-09-01,Branch,Affluent,Dubai,3468,30920,11324,544
+2025-09-01,Branch,Affluent,Abu Dhabi,2313,18433,6675,543
+2025-09-01,Branch,Affluent,Sharjah,1521,19348,3859,354
+2025-09-01,Branch,Affluent,Northern Emirates,1104,10711,3792,139
+2025-09-01,Branch,Private,Dubai,691,5117,3058,179
+2025-09-01,Branch,Private,Abu Dhabi,550,3916,2284,63
+2025-09-01,Branch,Private,Sharjah,331,2188,761,18
+2025-09-01,Branch,Private,Northern Emirates,205,1281,887,31
+2025-09-01,Branch,SME,Dubai,2091,27706,8795,388
+2025-09-01,Branch,SME,Abu Dhabi,1694,16561,8640,239
+2025-09-01,Branch,SME,Sharjah,873,10630,4306,107
+2025-09-01,Branch,SME,Northern Emirates,611,6160,2191,107
+2025-10-01,Mobile App,Mass,Dubai,25044,320158,130883,5096
+2025-10-01,Mobile App,Mass,Abu Dhabi,16975,171669,64248,1608
+2025-10-01,Mobile App,Mass,Sharjah,11894,134108,69828,2782
+2025-10-01,Mobile App,Mass,Northern Emirates,7252,64327,20851,1246
+2025-10-01,Mobile App,Affluent,Dubai,10061,90101,21844,1023
+2025-10-01,Mobile App,Affluent,Abu Dhabi,8943,79503,34687,1463
+2025-10-01,Mobile App,Affluent,Sharjah,4511,62453,14869,1019
+2025-10-01,Mobile App,Affluent,Northern Emirates,3321,41968,17732,384
+2025-10-01,Mobile App,Private,Dubai,2224,16437,10263,314
+2025-10-01,Mobile App,Private,Abu Dhabi,1704,21613,6929,245
+2025-10-01,Mobile App,Private,Sharjah,1073,10870,3660,286
+2025-10-01,Mobile App,Private,Northern Emirates,659,6495,2910,115
+2025-10-01,Mobile App,SME,Dubai,6137,44952,14166,1294
+2025-10-01,Mobile App,SME,Abu Dhabi,4675,35040,16123,1072
+2025-10-01,Mobile App,SME,Sharjah,2749,21559,14417,632
+2025-10-01,Mobile App,SME,Northern Emirates,1977,19434,5620,178
+2025-10-01,Web App,Mass,Dubai,8624,53292,18736,1667
+2025-10-01,Web App,Mass,Abu Dhabi,5652,62377,12190,1091
+2025-10-01,Web App,Mass,Sharjah,3315,26739,9017,959
+2025-10-01,Web App,Mass,Northern Emirates,2473,25988,5130,568
+2025-10-01,Web App,Affluent,Dubai,3793,31359,8886,615
+2025-10-01,Web App,Affluent,Abu Dhabi,3027,39164,8119,779
+2025-10-01,Web App,Affluent,Sharjah,1687,20846,8910,161
+2025-10-01,Web App,Affluent,Northern Emirates,1137,9228,5567,154
+2025-10-01,Web App,Private,Dubai,728,7807,2125,106
+2025-10-01,Web App,Private,Abu Dhabi,508,3870,2762,89
+2025-10-01,Web App,Private,Sharjah,325,2338,775,54
+2025-10-01,Web App,Private,Northern Emirates,225,1420,1155,39
+2025-10-01,Web App,SME,Dubai,2036,20070,5133,408
+2025-10-01,Web App,SME,Abu Dhabi,1762,23215,8985,374
+2025-10-01,Web App,SME,Sharjah,996,8927,2165,181
+2025-10-01,Web App,SME,Northern Emirates,625,7761,3223,90
+2025-10-01,Website,Mass,Dubai,10076,120218,0,2422
+2025-10-01,Website,Mass,Abu Dhabi,7717,52334,0,644
+2025-10-01,Website,Mass,Sharjah,4434,34851,0,1173
+2025-10-01,Website,Mass,Northern Emirates,2841,36973,0,432
+2025-10-01,Website,Affluent,Dubai,4220,49260,0,1043
+2025-10-01,Website,Affluent,Abu Dhabi,3427,23792,0,177
+2025-10-01,Website,Affluent,Sharjah,2087,24004,0,269
+2025-10-01,Website,Affluent,Northern Emirates,1312,9496,0,279
+2025-10-01,Website,Private,Dubai,855,10978,0,133
+2025-10-01,Website,Private,Abu Dhabi,656,5382,0,144
+2025-10-01,Website,Private,Sharjah,425,3954,0,104
+2025-10-01,Website,Private,Northern Emirates,269,2410,0,50
+2025-10-01,Website,SME,Dubai,2567,21699,0,349
+2025-10-01,Website,SME,Abu Dhabi,2108,25056,0,555
+2025-10-01,Website,SME,Sharjah,1253,15014,0,202
+2025-10-01,Website,SME,Northern Emirates,842,6141,0,87
+2025-10-01,WhatsApp,Mass,Dubai,3169,27594,13317,710
+2025-10-01,WhatsApp,Mass,Abu Dhabi,2525,18396,14792,129
+2025-10-01,WhatsApp,Mass,Sharjah,1336,9569,7619,212
+2025-10-01,WhatsApp,Mass,Northern Emirates,885,6880,2053,52
+2025-10-01,WhatsApp,Affluent,Dubai,1435,19911,6394,258
+2025-10-01,WhatsApp,Affluent,Abu Dhabi,1149,12385,6644,293
+2025-10-01,WhatsApp,Affluent,Sharjah,680,6468,1908,145
+2025-10-01,WhatsApp,Affluent,Northern Emirates,467,3870,996,93
+2025-10-01,WhatsApp,Private,Dubai,294,2308,787,17
+2025-10-01,WhatsApp,Private,Abu Dhabi,209,1254,549,62
+2025-10-01,WhatsApp,Private,Sharjah,139,1226,497,27
+2025-10-01,WhatsApp,Private,Northern Emirates,88,1046,200,6
+2025-10-01,WhatsApp,SME,Dubai,843,10653,4771,115
+2025-10-01,WhatsApp,SME,Abu Dhabi,722,5929,3195,71
+2025-10-01,WhatsApp,SME,Sharjah,431,4568,1312,65
+2025-10-01,WhatsApp,SME,Northern Emirates,243,1598,772,69
+2025-10-01,IVR / Call Centre,Mass,Dubai,5833,79641,32107,1477
+2025-10-01,IVR / Call Centre,Mass,Abu Dhabi,4186,48363,24547,798
+2025-10-01,IVR / Call Centre,Mass,Sharjah,2608,31451,15243,429
+2025-10-01,IVR / Call Centre,Mass,Northern Emirates,1637,17507,3453,129
+2025-10-01,IVR / Call Centre,Affluent,Dubai,2283,25271,13645,500
+2025-10-01,IVR / Call Centre,Affluent,Abu Dhabi,1773,15116,10322,317
+2025-10-01,IVR / Call Centre,Affluent,Sharjah,1014,12834,3034,74
+2025-10-01,IVR / Call Centre,Affluent,Northern Emirates,776,9753,1787,219
+2025-10-01,IVR / Call Centre,Private,Dubai,497,4387,2771,58
+2025-10-01,IVR / Call Centre,Private,Abu Dhabi,408,4677,2301,71
+2025-10-01,IVR / Call Centre,Private,Sharjah,211,2507,1158,21
+2025-10-01,IVR / Call Centre,Private,Northern Emirates,141,1127,630,12
+2025-10-01,IVR / Call Centre,SME,Dubai,1382,18465,6499,298
+2025-10-01,IVR / Call Centre,SME,Abu Dhabi,1150,13931,4790,69
+2025-10-01,IVR / Call Centre,SME,Sharjah,672,7368,2667,199
+2025-10-01,IVR / Call Centre,SME,Northern Emirates,485,6280,1922,143
+2025-10-01,Tablet Banking,Mass,Dubai,953,7854,2752,185
+2025-10-01,Tablet Banking,Mass,Abu Dhabi,601,7448,2351,111
+2025-10-01,Tablet Banking,Mass,Sharjah,396,3623,1879,37
+2025-10-01,Tablet Banking,Mass,Northern Emirates,289,3348,1109,64
+2025-10-01,Tablet Banking,Affluent,Dubai,360,2766,1556,47
+2025-10-01,Tablet Banking,Affluent,Abu Dhabi,306,2471,1283,33
+2025-10-01,Tablet Banking,Affluent,Sharjah,178,1941,616,31
+2025-10-01,Tablet Banking,Affluent,Northern Emirates,113,1311,394,29
+2025-10-01,Tablet Banking,Private,Dubai,76,565,191,14
+2025-10-01,Tablet Banking,Private,Abu Dhabi,56,380,172,6
+2025-10-01,Tablet Banking,Private,Sharjah,35,316,90,10
+2025-10-01,Tablet Banking,Private,Northern Emirates,22,273,59,3
+2025-10-01,Tablet Banking,SME,Dubai,263,3365,1069,60
+2025-10-01,Tablet Banking,SME,Abu Dhabi,190,1596,807,36
+2025-10-01,Tablet Banking,SME,Sharjah,105,1210,235,26
+2025-10-01,Tablet Banking,SME,Northern Emirates,71,783,269,9
+2025-10-01,Branch,Mass,Dubai,7169,75151,41059,820
+2025-10-01,Branch,Mass,Abu Dhabi,4999,34842,27341,1453
+2025-10-01,Branch,Mass,Sharjah,3118,33073,14331,291
+2025-10-01,Branch,Mass,Northern Emirates,2336,20652,10962,401
+2025-10-01,Branch,Affluent,Dubai,3510,46040,12370,426
+2025-10-01,Branch,Affluent,Abu Dhabi,2580,18469,6889,649
+2025-10-01,Branch,Affluent,Sharjah,1459,16122,6254,382
+2025-10-01,Branch,Affluent,Northern Emirates,919,6705,2676,118
+2025-10-01,Branch,Private,Dubai,642,5225,2939,75
+2025-10-01,Branch,Private,Abu Dhabi,497,6412,1715,97
+2025-10-01,Branch,Private,Sharjah,329,3063,899,18
+2025-10-01,Branch,Private,Northern Emirates,210,2372,1209,47
+2025-10-01,Branch,SME,Dubai,1842,13511,4442,121
+2025-10-01,Branch,SME,Abu Dhabi,1622,16848,3415,242
+2025-10-01,Branch,SME,Sharjah,953,6352,2906,84
+2025-10-01,Branch,SME,Northern Emirates,622,8138,2013,69
+2025-11-01,Mobile App,Mass,Dubai,23681,260771,59797,6148
+2025-11-01,Mobile App,Mass,Abu Dhabi,16812,190116,91482,2207
+2025-11-01,Mobile App,Mass,Sharjah,11084,152957,46135,1309
+2025-11-01,Mobile App,Mass,Northern Emirates,7343,101012,35176,692
+2025-11-01,Mobile App,Affluent,Dubai,11469,126713,52108,2190
+2025-11-01,Mobile App,Affluent,Abu Dhabi,8477,94232,27453,1159
+2025-11-01,Mobile App,Affluent,Sharjah,5102,63456,19221,721
+2025-11-01,Mobile App,Affluent,Northern Emirates,3212,27072,6425,815
+2025-11-01,Mobile App,Private,Dubai,2406,21055,9327,125
+2025-11-01,Mobile App,Private,Abu Dhabi,1829,24829,7148,95
+2025-11-01,Mobile App,Private,Sharjah,998,8326,2919,51
+2025-11-01,Mobile App,Private,Northern Emirates,657,6106,2787,97
+2025-11-01,Mobile App,SME,Dubai,6295,74891,22403,910
+2025-11-01,Mobile App,SME,Abu Dhabi,4822,45220,14264,1162
+2025-11-01,Mobile App,SME,Sharjah,3286,40945,15570,398
+2025-11-01,Mobile App,SME,Northern Emirates,2123,26474,7752,559
+2025-11-01,Web App,Mass,Dubai,7725,64246,35129,1579
+2025-11-01,Web App,Mass,Abu Dhabi,5905,64848,16245,323
+2025-11-01,Web App,Mass,Sharjah,3378,34725,9268,255
+2025-11-01,Web App,Mass,Northern Emirates,2360,27662,11583,255
+2025-11-01,Web App,Affluent,Dubai,3488,34700,11746,446
+2025-11-01,Web App,Affluent,Abu Dhabi,2980,41671,11487,738
+2025-11-01,Web App,Affluent,Sharjah,1630,20779,9464,104
+2025-11-01,Web App,Affluent,Northern Emirates,1187,7799,4606,116
+2025-11-01,Web App,Private,Dubai,801,10042,4255,64
+2025-11-01,Web App,Private,Abu Dhabi,592,4731,3010,95
+2025-11-01,Web App,Private,Sharjah,353,2212,1356,85
+2025-11-01,Web App,Private,Northern Emirates,225,3117,875,49
+2025-11-01,Web App,SME,Dubai,2165,18585,9778,131
+2025-11-01,Web App,SME,Abu Dhabi,1835,18657,5529,384
+2025-11-01,Web App,SME,Sharjah,951,12458,5187,99
+2025-11-01,Web App,SME,Northern Emirates,622,6881,2051,57
+2025-11-01,Website,Mass,Dubai,9456,65787,0,2338
+2025-11-01,Website,Mass,Abu Dhabi,6695,42419,0,1646
+2025-11-01,Website,Mass,Sharjah,4432,47731,0,633
+2025-11-01,Website,Mass,Northern Emirates,2726,19795,0,198
+2025-11-01,Website,Affluent,Dubai,4606,61935,0,1378
+2025-11-01,Website,Affluent,Abu Dhabi,3459,22408,0,730
+2025-11-01,Website,Affluent,Sharjah,2106,25970,0,171
+2025-11-01,Website,Affluent,Northern Emirates,1277,17690,0,315
+2025-11-01,Website,Private,Dubai,946,11772,0,151
+2025-11-01,Website,Private,Abu Dhabi,633,7288,0,88
+2025-11-01,Website,Private,Sharjah,375,4945,0,64
+2025-11-01,Website,Private,Northern Emirates,266,2223,0,59
+2025-11-01,Website,SME,Dubai,2532,18972,0,346
+2025-11-01,Website,SME,Abu Dhabi,2119,17381,0,546
+2025-11-01,Website,SME,Sharjah,1315,13723,0,88
+2025-11-01,Website,SME,Northern Emirates,754,6307,0,87
+2025-11-01,WhatsApp,Mass,Dubai,3212,19290,14621,464
+2025-11-01,WhatsApp,Mass,Abu Dhabi,2319,14261,12585,565
+2025-11-01,WhatsApp,Mass,Sharjah,1407,16557,6518,259
+2025-11-01,WhatsApp,Mass,Northern Emirates,967,9856,3858,181
+2025-11-01,WhatsApp,Affluent,Dubai,1533,13154,6996,118
+2025-11-01,WhatsApp,Affluent,Abu Dhabi,1130,7382,6035,93
+2025-11-01,WhatsApp,Affluent,Sharjah,725,5522,2857,54
+2025-11-01,WhatsApp,Affluent,Northern Emirates,456,5786,2112,82
+2025-11-01,WhatsApp,Private,Dubai,312,2510,1081,62
+2025-11-01,WhatsApp,Private,Abu Dhabi,205,2755,581,35
+2025-11-01,WhatsApp,Private,Sharjah,145,962,754,9
+2025-11-01,WhatsApp,Private,Northern Emirates,91,1229,333,12
+2025-11-01,WhatsApp,SME,Dubai,937,11796,2870,56
+2025-11-01,WhatsApp,SME,Abu Dhabi,617,5202,3565,179
+2025-11-01,WhatsApp,SME,Sharjah,372,4390,1535,36
+2025-11-01,WhatsApp,SME,Northern Emirates,271,2165,1219,25
+2025-11-01,IVR / Call Centre,Mass,Dubai,5774,53822,13984,1210
+2025-11-01,IVR / Call Centre,Mass,Abu Dhabi,4007,38746,18676,1084
+2025-11-01,IVR / Call Centre,Mass,Sharjah,2310,17193,8330,310
+2025-11-01,IVR / Call Centre,Mass,Northern Emirates,1537,21498,5797,212
+2025-11-01,IVR / Call Centre,Affluent,Dubai,2407,33533,7939,344
+2025-11-01,IVR / Call Centre,Affluent,Abu Dhabi,1974,18643,9679,398
+2025-11-01,IVR / Call Centre,Affluent,Sharjah,1139,8783,5766,320
+2025-11-01,IVR / Call Centre,Affluent,Northern Emirates,713,9763,2702,106
+2025-11-01,IVR / Call Centre,Private,Dubai,522,7236,2287,93
+2025-11-01,IVR / Call Centre,Private,Abu Dhabi,412,3466,1318,43
+2025-11-01,IVR / Call Centre,Private,Sharjah,241,1487,1274,53
+2025-11-01,IVR / Call Centre,Private,Northern Emirates,143,1491,604,40
+2025-11-01,IVR / Call Centre,SME,Dubai,1396,8797,4777,118
+2025-11-01,IVR / Call Centre,SME,Abu Dhabi,1095,11669,3210,276
+2025-11-01,IVR / Call Centre,SME,Sharjah,619,5693,3510,144
+2025-11-01,IVR / Call Centre,SME,Northern Emirates,470,5801,1265,120
+2025-11-01,Tablet Banking,Mass,Dubai,913,9686,5140,181
+2025-11-01,Tablet Banking,Mass,Abu Dhabi,633,7498,2725,44
+2025-11-01,Tablet Banking,Mass,Sharjah,360,4380,1221,91
+2025-11-01,Tablet Banking,Mass,Northern Emirates,259,3352,1419,27
+2025-11-01,Tablet Banking,Affluent,Dubai,412,4457,842,100
+2025-11-01,Tablet Banking,Affluent,Abu Dhabi,292,2463,632,54
+2025-11-01,Tablet Banking,Affluent,Sharjah,167,1673,481,10
+2025-11-01,Tablet Banking,Affluent,Northern Emirates,125,1142,472,24
+2025-11-01,Tablet Banking,Private,Dubai,80,622,252,11
+2025-11-01,Tablet Banking,Private,Abu Dhabi,55,366,235,3
+2025-11-01,Tablet Banking,Private,Sharjah,35,233,140,8
+2025-11-01,Tablet Banking,Private,Northern Emirates,22,155,93,3
+2025-11-01,Tablet Banking,SME,Dubai,247,1869,1102,57
+2025-11-01,Tablet Banking,SME,Abu Dhabi,170,1117,868,22
+2025-11-01,Tablet Banking,SME,Sharjah,117,785,548,18
+2025-11-01,Tablet Banking,SME,Northern Emirates,69,591,301,3
+2025-11-01,Branch,Mass,Dubai,6934,96391,30959,2063
+2025-11-01,Branch,Mass,Abu Dhabi,5349,38333,11658,1361
+2025-11-01,Branch,Mass,Sharjah,3052,27439,15354,803
+2025-11-01,Branch,Mass,Northern Emirates,1996,12846,11568,562
+2025-11-01,Branch,Affluent,Dubai,3521,44227,7235,786
+2025-11-01,Branch,Affluent,Abu Dhabi,2268,21773,4742,231
+2025-11-01,Branch,Affluent,Sharjah,1487,11346,6086,170
+2025-11-01,Branch,Affluent,Northern Emirates,980,11602,2514,220
+2025-11-01,Branch,Private,Dubai,592,6313,2755,36
+2025-11-01,Branch,Private,Abu Dhabi,459,3796,2366,93
+2025-11-01,Branch,Private,Sharjah,268,3011,544,39
+2025-11-01,Branch,Private,Northern Emirates,187,2396,867,49
+2025-11-01,Branch,SME,Dubai,1778,23006,8174,191
+2025-11-01,Branch,SME,Abu Dhabi,1440,19890,3453,185
+2025-11-01,Branch,SME,Sharjah,950,9739,2608,166
+2025-11-01,Branch,SME,Northern Emirates,585,7845,1220,65
+2025-12-01,Mobile App,Mass,Dubai,25393,220120,90744,2266
+2025-12-01,Mobile App,Mass,Abu Dhabi,18353,161787,82605,2001
+2025-12-01,Mobile App,Mass,Sharjah,12446,124584,65311,2569
+2025-12-01,Mobile App,Mass,Northern Emirates,8147,106914,42848,467
+2025-12-01,Mobile App,Affluent,Dubai,11601,95610,30241,3182
+2025-12-01,Mobile App,Affluent,Abu Dhabi,8876,59490,31321,2575
+2025-12-01,Mobile App,Affluent,Sharjah,5279,58091,15360,581
+2025-12-01,Mobile App,Affluent,Northern Emirates,3203,44087,18061,423
+2025-12-01,Mobile App,Private,Dubai,2314,17711,5910,428
+2025-12-01,Mobile App,Private,Abu Dhabi,1824,23530,5902,412
+2025-12-01,Mobile App,Private,Sharjah,1037,7344,6204,304
+2025-12-01,Mobile App,Private,Northern Emirates,639,8603,3622,82
+2025-12-01,Mobile App,SME,Dubai,6963,94618,17223,901
+2025-12-01,Mobile App,SME,Abu Dhabi,5555,65641,28117,1500
+2025-12-01,Mobile App,SME,Sharjah,3044,28278,11482,862
+2025-12-01,Mobile App,SME,Northern Emirates,2228,30002,6896,545
+2025-12-01,Web App,Mass,Dubai,7753,57976,39151,1573
+2025-12-01,Web App,Mass,Abu Dhabi,6016,63386,17588,650
+2025-12-01,Web App,Mass,Sharjah,3928,34857,18668,664
+2025-12-01,Web App,Mass,Northern Emirates,2525,27365,12241,362
+2025-12-01,Web App,Affluent,Dubai,4094,40659,10439,402
+2025-12-01,Web App,Affluent,Abu Dhabi,2600,31502,5356,305
+2025-12-01,Web App,Affluent,Sharjah,1691,20188,10066,404
+2025-12-01,Web App,Affluent,Northern Emirates,1047,14047,6221,279
+2025-12-01,Web App,Private,Dubai,763,6561,2922,85
+2025-12-01,Web App,Private,Abu Dhabi,562,3560,2777,81
+2025-12-01,Web App,Private,Sharjah,331,3605,1645,65
+2025-12-01,Web App,Private,Northern Emirates,230,2991,1183,41
+2025-12-01,Web App,SME,Dubai,2272,28663,4929,679
+2025-12-01,Web App,SME,Abu Dhabi,1727,15827,8532,327
+2025-12-01,Web App,SME,Sharjah,1036,11442,2276,127
+2025-12-01,Web App,SME,Northern Emirates,674,5686,3579,111
+2025-12-01,Website,Mass,Dubai,9746,106280,0,620
+2025-12-01,Website,Mass,Abu Dhabi,7450,53177,0,1918
+2025-12-01,Website,Mass,Sharjah,4411,51966,0,345
+2025-12-01,Website,Mass,Northern Emirates,3135,42331,0,702
+2025-12-01,Website,Affluent,Dubai,4171,38825,0,678
+2025-12-01,Website,Affluent,Abu Dhabi,3158,33861,0,720
+2025-12-01,Website,Affluent,Sharjah,1904,18349,0,214
+2025-12-01,Website,Affluent,Northern Emirates,1401,18573,0,349
+2025-12-01,Website,Private,Dubai,939,6562,0,73
+2025-12-01,Website,Private,Abu Dhabi,668,5947,0,120
+2025-12-01,Website,Private,Sharjah,395,4869,0,70
+2025-12-01,Website,Private,Northern Emirates,294,2654,0,42
+2025-12-01,Website,SME,Dubai,2844,37819,0,544
+2025-12-01,Website,SME,Abu Dhabi,2089,15042,0,558
+2025-12-01,Website,SME,Sharjah,1136,13287,0,175
+2025-12-01,Website,SME,Northern Emirates,779,9464,0,125
+2025-12-01,WhatsApp,Mass,Dubai,3451,23951,8718,347
+2025-12-01,WhatsApp,Mass,Abu Dhabi,2586,20752,9916,682
+2025-12-01,WhatsApp,Mass,Sharjah,1527,9232,8445,167
+2025-12-01,WhatsApp,Mass,Northern Emirates,1027,10070,3738,71
+2025-12-01,WhatsApp,Affluent,Dubai,1560,12414,6535,319
+2025-12-01,WhatsApp,Affluent,Abu Dhabi,1160,14618,2546,100
+2025-12-01,WhatsApp,Affluent,Sharjah,709,4462,3839,153
+2025-12-01,WhatsApp,Affluent,Northern Emirates,490,4109,2783,30
+2025-12-01,WhatsApp,Private,Dubai,300,2227,1406,60
+2025-12-01,WhatsApp,Private,Abu Dhabi,238,2560,1225,22
+2025-12-01,WhatsApp,Private,Sharjah,136,1445,778,9
+2025-12-01,WhatsApp,Private,Northern Emirates,88,787,309,5
+2025-12-01,WhatsApp,SME,Dubai,904,9405,2866,75
+2025-12-01,WhatsApp,SME,Abu Dhabi,715,5859,2937,129
+2025-12-01,WhatsApp,SME,Sharjah,429,4674,1045,99
+2025-12-01,WhatsApp,SME,Northern Emirates,282,3919,1109,62
+2025-12-01,IVR / Call Centre,Mass,Dubai,5977,83021,18820,1208
+2025-12-01,IVR / Call Centre,Mass,Abu Dhabi,3973,40537,23758,550
+2025-12-01,IVR / Call Centre,Mass,Sharjah,2291,24057,9344,476
+2025-12-01,IVR / Call Centre,Mass,Northern Emirates,1647,12252,7308,374
+2025-12-01,IVR / Call Centre,Affluent,Dubai,2739,16468,5740,565
+2025-12-01,IVR / Call Centre,Affluent,Abu Dhabi,1731,22130,8998,518
+2025-12-01,IVR / Call Centre,Affluent,Sharjah,1105,9580,4687,231
+2025-12-01,IVR / Call Centre,Affluent,Northern Emirates,676,5144,2113,167
+2025-12-01,IVR / Call Centre,Private,Dubai,480,4825,1581,24
+2025-12-01,IVR / Call Centre,Private,Abu Dhabi,388,3387,1900,79
+2025-12-01,IVR / Call Centre,Private,Sharjah,203,1503,674,27
+2025-12-01,IVR / Call Centre,Private,Northern Emirates,155,2066,804,32
+2025-12-01,IVR / Call Centre,SME,Dubai,1494,16460,8318,275
+2025-12-01,IVR / Call Centre,SME,Abu Dhabi,1087,13339,3973,256
+2025-12-01,IVR / Call Centre,SME,Sharjah,720,6044,3527,92
+2025-12-01,IVR / Call Centre,SME,Northern Emirates,453,3472,2148,113
+2025-12-01,Tablet Banking,Mass,Dubai,948,8369,5572,113
+2025-12-01,Tablet Banking,Mass,Abu Dhabi,598,8293,2694,155
+2025-12-01,Tablet Banking,Mass,Sharjah,401,3655,1756,106
+2025-12-01,Tablet Banking,Mass,Northern Emirates,277,3224,902,16
+2025-12-01,Tablet Banking,Affluent,Dubai,393,3920,1159,64
+2025-12-01,Tablet Banking,Affluent,Abu Dhabi,327,2527,1049,25
+2025-12-01,Tablet Banking,Affluent,Sharjah,190,2322,1074,30
+2025-12-01,Tablet Banking,Affluent,Northern Emirates,108,1065,432,10
+2025-12-01,Tablet Banking,Private,Dubai,86,1019,352,20
+2025-12-01,Tablet Banking,Private,Abu Dhabi,55,713,290,15
+2025-12-01,Tablet Banking,Private,Sharjah,37,261,181,6
+2025-12-01,Tablet Banking,Private,Northern Emirates,25,254,50,7
+2025-12-01,Tablet Banking,SME,Dubai,248,2667,582,41
+2025-12-01,Tablet Banking,SME,Abu Dhabi,163,1656,755,20
+2025-12-01,Tablet Banking,SME,Sharjah,109,926,606,14
+2025-12-01,Tablet Banking,SME,Northern Emirates,67,550,219,10
+2025-12-01,Branch,Mass,Dubai,6517,46886,20167,350
+2025-12-01,Branch,Mass,Abu Dhabi,5423,54840,15327,746
+2025-12-01,Branch,Mass,Sharjah,3060,21825,14741,369
+2025-12-01,Branch,Mass,Northern Emirates,2009,13199,8946,270
+2025-12-01,Branch,Affluent,Dubai,3171,22325,12312,694
+2025-12-01,Branch,Affluent,Abu Dhabi,2216,14249,8212,209
+2025-12-01,Branch,Affluent,Sharjah,1471,15801,7862,330
+2025-12-01,Branch,Affluent,Northern Emirates,984,8363,5185,224
+2025-12-01,Branch,Private,Dubai,663,6807,3908,158
+2025-12-01,Branch,Private,Abu Dhabi,477,3364,2504,133
+2025-12-01,Branch,Private,Sharjah,286,2758,1355,65
+2025-12-01,Branch,Private,Northern Emirates,191,1500,552,50
+2025-12-01,Branch,SME,Dubai,1969,26193,7025,442
+2025-12-01,Branch,SME,Abu Dhabi,1491,18354,8244,243
+2025-12-01,Branch,SME,Sharjah,784,7685,2670,129
+2025-12-01,Branch,SME,Northern Emirates,539,6545,2381,44
+2026-01-01,Mobile App,Mass,Dubai,23695,297145,122906,3115
+2026-01-01,Mobile App,Mass,Abu Dhabi,19882,245332,82132,2986
+2026-01-01,Mobile App,Mass,Sharjah,11382,124826,47711,3340
+2026-01-01,Mobile App,Mass,Northern Emirates,7542,65809,39638,1491
+2026-01-01,Mobile App,Affluent,Dubai,12365,117255,63671,2301
+2026-01-01,Mobile App,Affluent,Abu Dhabi,8311,93921,19211,2349
+2026-01-01,Mobile App,Affluent,Sharjah,5343,52858,23341,885
+2026-01-01,Mobile App,Affluent,Northern Emirates,3548,44620,9596,1025
+2026-01-01,Mobile App,Private,Dubai,2138,14687,11237,519
+2026-01-01,Mobile App,Private,Abu Dhabi,1712,17041,7944,124
+2026-01-01,Mobile App,Private,Sharjah,1119,14656,6280,233
+2026-01-01,Mobile App,Private,Northern Emirates,631,4526,1638,115
+2026-01-01,Mobile App,SME,Dubai,6865,72929,19103,1512
+2026-01-01,Mobile App,SME,Abu Dhabi,5071,53560,28665,639
+2026-01-01,Mobile App,SME,Sharjah,3439,32594,20394,467
+2026-01-01,Mobile App,SME,Northern Emirates,1933,11723,11493,291
+2026-01-01,Web App,Mass,Dubai,7940,66326,27606,1486
+2026-01-01,Web App,Mass,Abu Dhabi,5859,68121,30953,819
+2026-01-01,Web App,Mass,Sharjah,4139,53498,12172,933
+2026-01-01,Web App,Mass,Northern Emirates,2519,21524,8894,366
+2026-01-01,Web App,Affluent,Dubai,3935,44465,15344,381
+2026-01-01,Web App,Affluent,Abu Dhabi,2857,38271,15313,253
+2026-01-01,Web App,Affluent,Sharjah,1929,21914,4894,131
+2026-01-01,Web App,Affluent,Northern Emirates,1056,12429,4167,168
+2026-01-01,Web App,Private,Dubai,856,5715,3911,131
+2026-01-01,Web App,Private,Abu Dhabi,579,7128,2557,90
+2026-01-01,Web App,Private,Sharjah,328,3304,1380,53
+2026-01-01,Web App,Private,Northern Emirates,227,1699,1002,44
+2026-01-01,Web App,SME,Dubai,2502,19750,10025,382
+2026-01-01,Web App,SME,Abu Dhabi,1771,15825,10471,340
+2026-01-01,Web App,SME,Sharjah,1096,7568,4303,243
+2026-01-01,Web App,SME,Northern Emirates,651,7714,3863,192
+2026-01-01,Website,Mass,Dubai,10452,101588,0,727
+2026-01-01,Website,Mass,Abu Dhabi,8004,53687,0,1345
+2026-01-01,Website,Mass,Sharjah,4670,63900,0,324
+2026-01-01,Website,Mass,Northern Emirates,3049,37761,0,390
+2026-01-01,Website,Affluent,Dubai,4097,35842,0,1002
+2026-01-01,Website,Affluent,Abu Dhabi,3353,33869,0,560
+2026-01-01,Website,Affluent,Sharjah,2119,19851,0,614
+2026-01-01,Website,Affluent,Northern Emirates,1430,11888,0,84
+2026-01-01,Website,Private,Dubai,976,11707,0,226
+2026-01-01,Website,Private,Abu Dhabi,683,4433,0,114
+2026-01-01,Website,Private,Sharjah,378,2424,0,112
+2026-01-01,Website,Private,Northern Emirates,286,3144,0,34
+2026-01-01,Website,SME,Dubai,2474,24850,0,650
+2026-01-01,Website,SME,Abu Dhabi,1935,13661,0,232
+2026-01-01,Website,SME,Sharjah,1301,7953,0,101
+2026-01-01,Website,SME,Northern Emirates,757,8125,0,66
+2026-01-01,WhatsApp,Mass,Dubai,3395,42310,10337,764
+2026-01-01,WhatsApp,Mass,Abu Dhabi,2566,31805,13979,348
+2026-01-01,WhatsApp,Mass,Sharjah,1416,10139,8121,125
+2026-01-01,WhatsApp,Mass,Northern Emirates,1028,14339,5223,112
+2026-01-01,WhatsApp,Affluent,Dubai,1541,17106,4381,359
+2026-01-01,WhatsApp,Affluent,Abu Dhabi,1133,12619,5689,89
+2026-01-01,WhatsApp,Affluent,Sharjah,655,6019,2099,154
+2026-01-01,WhatsApp,Affluent,Northern Emirates,491,5037,1727,111
+2026-01-01,WhatsApp,Private,Dubai,310,2219,1699,16
+2026-01-01,WhatsApp,Private,Abu Dhabi,253,2426,1192,73
+2026-01-01,WhatsApp,Private,Sharjah,145,917,822,30
+2026-01-01,WhatsApp,Private,Northern Emirates,102,964,578,26
+2026-01-01,WhatsApp,SME,Dubai,905,7363,2165,193
+2026-01-01,WhatsApp,SME,Abu Dhabi,686,8359,3427,160
+2026-01-01,WhatsApp,SME,Sharjah,428,3235,1433,95
+2026-01-01,WhatsApp,SME,Northern Emirates,262,2719,1229,67
+2026-01-01,IVR / Call Centre,Mass,Dubai,4963,33657,11988,801
+2026-01-01,IVR / Call Centre,Mass,Abu Dhabi,3893,32181,10792,217
+2026-01-01,IVR / Call Centre,Mass,Sharjah,2273,30703,10515,588
+2026-01-01,IVR / Call Centre,Mass,Northern Emirates,1798,19966,8688,143
+2026-01-01,IVR / Call Centre,Affluent,Dubai,2678,18851,12387,736
+2026-01-01,IVR / Call Centre,Affluent,Abu Dhabi,1899,26087,10604,425
+2026-01-01,IVR / Call Centre,Affluent,Sharjah,1069,10407,6141,224
+2026-01-01,IVR / Call Centre,Affluent,Northern Emirates,813,6675,3014,224
+2026-01-01,IVR / Call Centre,Private,Dubai,526,4516,1392,36
+2026-01-01,IVR / Call Centre,Private,Abu Dhabi,395,3579,1315,25
+2026-01-01,IVR / Call Centre,Private,Sharjah,245,1988,921,42
+2026-01-01,IVR / Call Centre,Private,Northern Emirates,162,1762,439,28
+2026-01-01,IVR / Call Centre,SME,Dubai,1393,16924,4002,293
+2026-01-01,IVR / Call Centre,SME,Abu Dhabi,1217,14267,2936,83
+2026-01-01,IVR / Call Centre,SME,Sharjah,684,5475,2587,187
+2026-01-01,IVR / Call Centre,SME,Northern Emirates,418,4649,2395,90
+2026-01-01,Tablet Banking,Mass,Dubai,838,9721,4708,162
+2026-01-01,Tablet Banking,Mass,Abu Dhabi,662,8949,2623,105
+2026-01-01,Tablet Banking,Mass,Sharjah,423,5180,2174,78
+2026-01-01,Tablet Banking,Mass,Northern Emirates,237,3231,1249,40
+2026-01-01,Tablet Banking,Affluent,Dubai,405,5459,1391,89
+2026-01-01,Tablet Banking,Affluent,Abu Dhabi,294,3251,1715,21
+2026-01-01,Tablet Banking,Affluent,Sharjah,181,2477,420,29
+2026-01-01,Tablet Banking,Affluent,Northern Emirates,126,1408,341,7
+2026-01-01,Tablet Banking,Private,Dubai,78,587,373,21
+2026-01-01,Tablet Banking,Private,Abu Dhabi,61,541,142,12
+2026-01-01,Tablet Banking,Private,Sharjah,37,263,102,8
+2026-01-01,Tablet Banking,Private,Northern Emirates,24,237,54,4
+2026-01-01,Tablet Banking,SME,Dubai,230,2362,1227,37
+2026-01-01,Tablet Banking,SME,Abu Dhabi,197,1240,438,48
+2026-01-01,Tablet Banking,SME,Sharjah,98,680,512,21
+2026-01-01,Tablet Banking,SME,Northern Emirates,71,811,390,6
+2026-01-01,Branch,Mass,Dubai,7008,93896,15049,598
+2026-01-01,Branch,Mass,Abu Dhabi,5333,52102,30249,327
+2026-01-01,Branch,Mass,Sharjah,3229,22746,8682,201
+2026-01-01,Branch,Mass,Northern Emirates,1990,24575,7611,184
+2026-01-01,Branch,Affluent,Dubai,3193,40047,7744,556
+2026-01-01,Branch,Affluent,Abu Dhabi,2492,19349,13002,390
+2026-01-01,Branch,Affluent,Sharjah,1499,20772,7065,196
+2026-01-01,Branch,Affluent,Northern Emirates,1030,10925,2625,266
+2026-01-01,Branch,Private,Dubai,663,8031,2898,88
+2026-01-01,Branch,Private,Abu Dhabi,434,3094,1588,97
+2026-01-01,Branch,Private,Sharjah,285,2710,1625,17
+2026-01-01,Branch,Private,Northern Emirates,173,2210,769,42
+2026-01-01,Branch,SME,Dubai,1699,16812,3441,161
+2026-01-01,Branch,SME,Abu Dhabi,1295,14522,7184,199
+2026-01-01,Branch,SME,Sharjah,898,10938,4282,91
+2026-01-01,Branch,SME,Northern Emirates,580,5907,2115,165
+2026-02-01,Mobile App,Mass,Dubai,26814,168954,72934,4691
+2026-02-01,Mobile App,Mass,Abu Dhabi,21448,236304,110035,2937
+2026-02-01,Mobile App,Mass,Sharjah,10635,83858,26268,1941
+2026-02-01,Mobile App,Mass,Northern Emirates,7234,64347,36492,1337
+2026-02-01,Mobile App,Affluent,Dubai,11255,136890,52192,1340
+2026-02-01,Mobile App,Affluent,Abu Dhabi,8395,103870,39800,2452
+2026-02-01,Mobile App,Affluent,Sharjah,5338,39557,24984,324
+2026-02-01,Mobile App,Affluent,Northern Emirates,3681,30480,13762,491
+2026-02-01,Mobile App,Private,Dubai,2530,30530,5498,594
+2026-02-01,Mobile App,Private,Abu Dhabi,1940,14369,9975,332
+2026-02-01,Mobile App,Private,Sharjah,990,13029,4836,196
+2026-02-01,Mobile App,Private,Northern Emirates,690,5237,3248,90
+2026-02-01,Mobile App,SME,Dubai,7554,65032,18071,1770
+2026-02-01,Mobile App,SME,Abu Dhabi,5763,51891,16612,966
+2026-02-01,Mobile App,SME,Sharjah,3209,42114,8278,904
+2026-02-01,Mobile App,SME,Northern Emirates,2127,19352,5414,489
+2026-02-01,Web App,Mass,Dubai,8975,123894,25209,734
+2026-02-01,Web App,Mass,Abu Dhabi,6810,44109,17338,1790
+2026-02-01,Web App,Mass,Sharjah,3902,28756,13166,1059
+2026-02-01,Web App,Mass,Northern Emirates,2677,32970,12185,543
+2026-02-01,Web App,Affluent,Dubai,3712,51081,20119,265
+2026-02-01,Web App,Affluent,Abu Dhabi,3194,31664,19108,632
+2026-02-01,Web App,Affluent,Sharjah,1909,15717,9392,446
+2026-02-01,Web App,Affluent,Northern Emirates,1132,9755,4887,308
+2026-02-01,Web App,Private,Dubai,809,5818,3474,41
+2026-02-01,Web App,Private,Abu Dhabi,653,4127,2535,158
+2026-02-01,Web App,Private,Sharjah,324,3320,1269,80
+2026-02-01,Web App,Private,Northern Emirates,253,2433,749,47
+2026-02-01,Web App,SME,Dubai,2152,25510,12481,178
+2026-02-01,Web App,SME,Abu Dhabi,1715,19175,4052,291
+2026-02-01,Web App,SME,Sharjah,1031,11986,5600,244
+2026-02-01,Web App,SME,Northern Emirates,647,6236,3291,173
+2026-02-01,Website,Mass,Dubai,9712,119640,0,1384
+2026-02-01,Website,Mass,Abu Dhabi,7371,81576,0,1954
+2026-02-01,Website,Mass,Sharjah,4072,53536,0,542
+2026-02-01,Website,Mass,Northern Emirates,2692,25324,0,316
+2026-02-01,Website,Affluent,Dubai,4901,50673,0,1218
+2026-02-01,Website,Affluent,Abu Dhabi,3569,23725,0,964
+2026-02-01,Website,Affluent,Sharjah,2120,13649,0,607
+2026-02-01,Website,Affluent,Northern Emirates,1397,18306,0,108
+2026-02-01,Website,Private,Dubai,875,9583,0,123
+2026-02-01,Website,Private,Abu Dhabi,631,6606,0,42
+2026-02-01,Website,Private,Sharjah,421,3215,0,124
+2026-02-01,Website,Private,Northern Emirates,255,1761,0,43
+2026-02-01,Website,SME,Dubai,2937,31252,0,851
+2026-02-01,Website,SME,Abu Dhabi,1907,22807,0,202
+2026-02-01,Website,SME,Sharjah,1179,9595,0,259
+2026-02-01,Website,SME,Northern Emirates,773,5029,0,105
+2026-02-01,WhatsApp,Mass,Dubai,3488,35624,8688,793
+2026-02-01,WhatsApp,Mass,Abu Dhabi,2717,27884,8610,557
+2026-02-01,WhatsApp,Mass,Sharjah,1668,22622,8732,475
+2026-02-01,WhatsApp,Mass,Northern Emirates,958,12583,3670,67
+2026-02-01,WhatsApp,Affluent,Dubai,1716,14254,9998,132
+2026-02-01,WhatsApp,Affluent,Abu Dhabi,1139,13185,4539,306
+2026-02-01,WhatsApp,Affluent,Sharjah,718,7911,2277,209
+2026-02-01,WhatsApp,Affluent,Northern Emirates,480,3386,1625,77
+2026-02-01,WhatsApp,Private,Dubai,327,2724,736,87
+2026-02-01,WhatsApp,Private,Abu Dhabi,225,3055,1030,34
+2026-02-01,WhatsApp,Private,Sharjah,138,1541,456,27
+2026-02-01,WhatsApp,Private,Northern Emirates,99,1260,374,12
+2026-02-01,WhatsApp,SME,Dubai,883,10873,2372,101
+2026-02-01,WhatsApp,SME,Abu Dhabi,713,9815,3621,44
+2026-02-01,WhatsApp,SME,Sharjah,416,4013,1108,116
+2026-02-01,WhatsApp,SME,Northern Emirates,298,2468,1756,77
+2026-02-01,IVR / Call Centre,Mass,Dubai,5712,64721,14930,625
+2026-02-01,IVR / Call Centre,Mass,Abu Dhabi,3746,31964,9387,431
+2026-02-01,IVR / Call Centre,Mass,Sharjah,2318,24338,4957,299
+2026-02-01,IVR / Call Centre,Mass,Northern Emirates,1598,14355,6646,144
+2026-02-01,IVR / Call Centre,Affluent,Dubai,2400,32072,8683,419
+2026-02-01,IVR / Call Centre,Affluent,Abu Dhabi,1742,16835,5715,88
+2026-02-01,IVR / Call Centre,Affluent,Sharjah,1178,16262,3916,266
+2026-02-01,IVR / Call Centre,Affluent,Northern Emirates,746,6205,4308,220
+2026-02-01,IVR / Call Centre,Private,Dubai,507,3638,2160,140
+2026-02-01,IVR / Call Centre,Private,Abu Dhabi,370,4259,1822,101
+2026-02-01,IVR / Call Centre,Private,Sharjah,208,2164,672,31
+2026-02-01,IVR / Call Centre,Private,Northern Emirates,160,1530,379,10
+2026-02-01,IVR / Call Centre,SME,Dubai,1542,16449,4454,437
+2026-02-01,IVR / Call Centre,SME,Abu Dhabi,1075,6643,4465,173
+2026-02-01,IVR / Call Centre,SME,Sharjah,698,4675,2824,68
+2026-02-01,IVR / Call Centre,SME,Northern Emirates,433,4693,2499,119
+2026-02-01,Tablet Banking,Mass,Dubai,855,6141,4630,121
+2026-02-01,Tablet Banking,Mass,Abu Dhabi,643,5322,2189,189
+2026-02-01,Tablet Banking,Mass,Sharjah,425,2847,2087,68
+2026-02-01,Tablet Banking,Mass,Northern Emirates,290,3604,914,72
+2026-02-01,Tablet Banking,Affluent,Dubai,437,4103,2440,37
+2026-02-01,Tablet Banking,Affluent,Abu Dhabi,305,2040,863,51
+2026-02-01,Tablet Banking,Affluent,Sharjah,193,2681,437,55
+2026-02-01,Tablet Banking,Affluent,Northern Emirates,126,845,458,35
+2026-02-01,Tablet Banking,Private,Dubai,78,814,377,18
+2026-02-01,Tablet Banking,Private,Abu Dhabi,55,411,193,10
+2026-02-01,Tablet Banking,Private,Sharjah,32,403,170,4
+2026-02-01,Tablet Banking,Private,Northern Emirates,24,232,50,1
+2026-02-01,Tablet Banking,SME,Dubai,228,3111,1216,38
+2026-02-01,Tablet Banking,SME,Abu Dhabi,185,2431,678,31
+2026-02-01,Tablet Banking,SME,Sharjah,112,891,277,13
+2026-02-01,Tablet Banking,SME,Northern Emirates,79,516,393,15
+2026-02-01,Branch,Mass,Dubai,6829,88413,30812,1154
+2026-02-01,Branch,Mass,Abu Dhabi,5252,36536,21271,1017
+2026-02-01,Branch,Mass,Sharjah,3242,23675,7242,421
+2026-02-01,Branch,Mass,Northern Emirates,2175,15407,5770,257
+2026-02-01,Branch,Affluent,Dubai,3014,40076,10319,369
+2026-02-01,Branch,Affluent,Abu Dhabi,2311,31176,9372,558
+2026-02-01,Branch,Affluent,Sharjah,1291,8722,6468,240
+2026-02-01,Branch,Affluent,Northern Emirates,987,12450,4678,123
+2026-02-01,Branch,Private,Dubai,635,7306,1513,123
+2026-02-01,Branch,Private,Abu Dhabi,489,2984,1991,70
+2026-02-01,Branch,Private,Sharjah,274,2389,1546,20
+2026-02-01,Branch,Private,Northern Emirates,171,1328,470,46
+2026-02-01,Branch,SME,Dubai,1880,23784,7712,344
+2026-02-01,Branch,SME,Abu Dhabi,1392,16774,3418,229
+2026-02-01,Branch,SME,Sharjah,757,9500,4310,128
+2026-02-01,Branch,SME,Northern Emirates,530,4717,2792,144
+2026-03-01,Mobile App,Mass,Dubai,27252,329986,91789,6199
+2026-03-01,Mobile App,Mass,Abu Dhabi,18158,227276,52466,4797
+2026-03-01,Mobile App,Mass,Sharjah,11168,87251,27935,921
+2026-03-01,Mobile App,Mass,Northern Emirates,7343,84639,37714,509
+2026-03-01,Mobile App,Affluent,Dubai,12817,154556,27813,986
+2026-03-01,Mobile App,Affluent,Abu Dhabi,9646,97500,21578,769
+2026-03-01,Mobile App,Affluent,Sharjah,5197,33936,24271,1240
+2026-03-01,Mobile App,Affluent,Northern Emirates,3850,51439,10863,1059
+2026-03-01,Mobile App,Private,Dubai,2276,20056,5378,595
+2026-03-01,Mobile App,Private,Abu Dhabi,1983,26949,6725,178
+2026-03-01,Mobile App,Private,Sharjah,1093,12928,3243,210
+2026-03-01,Mobile App,Private,Northern Emirates,670,7118,1377,69
+2026-03-01,Mobile App,SME,Dubai,6840,56463,38349,1260
+2026-03-01,Mobile App,SME,Abu Dhabi,5985,40635,17093,1053
+2026-03-01,Mobile App,SME,Sharjah,3416,30510,14885,546
+2026-03-01,Mobile App,SME,Northern Emirates,2387,17775,8161,345
+2026-03-01,Web App,Mass,Dubai,8400,65691,20591,2487
+2026-03-01,Web App,Mass,Abu Dhabi,6179,42527,15717,1486
+2026-03-01,Web App,Mass,Sharjah,4173,43637,9023,550
+2026-03-01,Web App,Mass,Northern Emirates,2467,20399,10858,315
+2026-03-01,Web App,Affluent,Dubai,4435,42361,18696,543
+2026-03-01,Web App,Affluent,Abu Dhabi,3253,24430,7411,846
+2026-03-01,Web App,Affluent,Sharjah,1813,20728,4926,543
+2026-03-01,Web App,Affluent,Northern Emirates,1212,8291,4547,260
+2026-03-01,Web App,Private,Dubai,742,5303,2673,146
+2026-03-01,Web App,Private,Abu Dhabi,559,7491,3304,36
+2026-03-01,Web App,Private,Sharjah,399,3474,1747,118
+2026-03-01,Web App,Private,Northern Emirates,224,2845,1097,26
+2026-03-01,Web App,SME,Dubai,2533,26989,7831,626
+2026-03-01,Web App,SME,Abu Dhabi,1874,17244,7314,376
+2026-03-01,Web App,SME,Sharjah,1072,10587,3339,259
+2026-03-01,Web App,SME,Northern Emirates,671,5371,2676,138
+2026-03-01,Website,Mass,Dubai,9176,62367,0,580
+2026-03-01,Website,Mass,Abu Dhabi,6783,77494,0,1987
+2026-03-01,Website,Mass,Sharjah,4350,49736,0,383
+2026-03-01,Website,Mass,Northern Emirates,3042,20596,0,210
+2026-03-01,Website,Affluent,Dubai,4726,57376,0,1172
+2026-03-01,Website,Affluent,Abu Dhabi,3173,35844,0,547
+2026-03-01,Website,Affluent,Sharjah,1928,16867,0,510
+2026-03-01,Website,Affluent,Northern Emirates,1362,18551,0,78
+2026-03-01,Website,Private,Dubai,887,11814,0,129
+2026-03-01,Website,Private,Abu Dhabi,649,5847,0,107
+2026-03-01,Website,Private,Sharjah,367,3836,0,97
+2026-03-01,Website,Private,Northern Emirates,259,3016,0,44
+2026-03-01,Website,SME,Dubai,2502,29337,0,430
+2026-03-01,Website,SME,Abu Dhabi,1866,21272,0,401
+2026-03-01,Website,SME,Sharjah,1260,13327,0,212
+2026-03-01,Website,SME,Northern Emirates,867,8716,0,128
+2026-03-01,WhatsApp,Mass,Dubai,3560,49010,15905,491
+2026-03-01,WhatsApp,Mass,Abu Dhabi,2928,25074,6185,179
+2026-03-01,WhatsApp,Mass,Sharjah,1711,15041,8500,97
+2026-03-01,WhatsApp,Mass,Northern Emirates,1152,10057,2752,157
+2026-03-01,WhatsApp,Affluent,Dubai,1573,13858,7306,176
+2026-03-01,WhatsApp,Affluent,Abu Dhabi,1250,13425,7051,82
+2026-03-01,WhatsApp,Affluent,Sharjah,700,6090,1455,92
+2026-03-01,WhatsApp,Affluent,Northern Emirates,482,6221,2059,132
+2026-03-01,WhatsApp,Private,Dubai,308,3562,1340,91
+2026-03-01,WhatsApp,Private,Abu Dhabi,237,2162,1016,59
+2026-03-01,WhatsApp,Private,Sharjah,134,1527,448,23
+2026-03-01,WhatsApp,Private,Northern Emirates,102,889,454,14
+2026-03-01,WhatsApp,SME,Dubai,959,9566,5168,236
+2026-03-01,WhatsApp,SME,Abu Dhabi,778,8003,2450,48
+2026-03-01,WhatsApp,SME,Sharjah,480,4423,1393,113
+2026-03-01,WhatsApp,SME,Northern Emirates,267,3405,635,35
+2026-03-01,IVR / Call Centre,Mass,Dubai,5023,62332,19595,514
+2026-03-01,IVR / Call Centre,Mass,Abu Dhabi,4368,48975,14009,1096
+2026-03-01,IVR / Call Centre,Mass,Sharjah,2441,25190,6835,367
+2026-03-01,IVR / Call Centre,Mass,Northern Emirates,1691,16277,8545,160
+2026-03-01,IVR / Call Centre,Affluent,Dubai,2259,26264,12313,438
+2026-03-01,IVR / Call Centre,Affluent,Abu Dhabi,1767,24202,8779,294
+2026-03-01,IVR / Call Centre,Affluent,Sharjah,1223,12550,5451,296
+2026-03-01,IVR / Call Centre,Affluent,Northern Emirates,740,7791,3335,133
+2026-03-01,IVR / Call Centre,Private,Dubai,486,3490,1264,107
+2026-03-01,IVR / Call Centre,Private,Abu Dhabi,360,3413,1178,92
+2026-03-01,IVR / Call Centre,Private,Sharjah,205,1563,748,52
+2026-03-01,IVR / Call Centre,Private,Northern Emirates,154,1239,678,23
+2026-03-01,IVR / Call Centre,SME,Dubai,1384,10428,4127,355
+2026-03-01,IVR / Call Centre,SME,Abu Dhabi,1116,11694,4178,236
+2026-03-01,IVR / Call Centre,SME,Sharjah,612,4452,1557,70
+2026-03-01,IVR / Call Centre,SME,Northern Emirates,477,5375,1289,125
+2026-03-01,Tablet Banking,Mass,Dubai,961,9501,1998,254
+2026-03-01,Tablet Banking,Mass,Abu Dhabi,605,6541,3308,166
+2026-03-01,Tablet Banking,Mass,Sharjah,388,3456,1796,28
+2026-03-01,Tablet Banking,Mass,Northern Emirates,287,3384,735,22
+2026-03-01,Tablet Banking,Affluent,Dubai,418,5627,1708,107
+2026-03-01,Tablet Banking,Affluent,Abu Dhabi,326,4385,980,88
+2026-03-01,Tablet Banking,Affluent,Sharjah,170,1186,888,22
+2026-03-01,Tablet Banking,Affluent,Northern Emirates,122,1112,609,13
+2026-03-01,Tablet Banking,Private,Dubai,78,558,210,22
+2026-03-01,Tablet Banking,Private,Abu Dhabi,59,474,257,10
+2026-03-01,Tablet Banking,Private,Sharjah,35,475,114,5
+2026-03-01,Tablet Banking,Private,Northern Emirates,24,328,132,6
+2026-03-01,Tablet Banking,SME,Dubai,233,2732,1231,12
+2026-03-01,Tablet Banking,SME,Abu Dhabi,196,2125,1051,42
+2026-03-01,Tablet Banking,SME,Sharjah,117,1348,603,12
+2026-03-01,Tablet Banking,SME,Northern Emirates,72,610,420,10
+2026-03-01,Branch,Mass,Dubai,6993,48786,38236,1849
+2026-03-01,Branch,Mass,Abu Dhabi,4826,64081,17238,1421
+2026-03-01,Branch,Mass,Sharjah,2817,18935,14904,306
+2026-03-01,Branch,Mass,Northern Emirates,1860,24406,10534,386
+2026-03-01,Branch,Affluent,Dubai,3219,39059,11669,188
+2026-03-01,Branch,Affluent,Abu Dhabi,2408,30306,13874,403
+2026-03-01,Branch,Affluent,Sharjah,1322,16828,6437,355
+2026-03-01,Branch,Affluent,Northern Emirates,955,12028,4578,168
+2026-03-01,Branch,Private,Dubai,580,6273,3047,135
+2026-03-01,Branch,Private,Abu Dhabi,444,2761,980,93
+2026-03-01,Branch,Private,Sharjah,276,3402,702,41
+2026-03-01,Branch,Private,Northern Emirates,184,1565,428,16
+2026-03-01,Branch,SME,Dubai,1801,24776,9585,433
+2026-03-01,Branch,SME,Abu Dhabi,1439,16528,7440,186
+2026-03-01,Branch,SME,Sharjah,804,9552,2446,178
+2026-03-01,Branch,SME,Northern Emirates,573,7103,1601,88
+2026-04-01,Mobile App,Mass,Dubai,25492,331679,147318,6910
+2026-04-01,Mobile App,Mass,Abu Dhabi,19293,262092,109824,4085
+2026-04-01,Mobile App,Mass,Sharjah,12561,166493,74066,1250
+2026-04-01,Mobile App,Mass,Northern Emirates,8496,62446,30620,1335
+2026-04-01,Mobile App,Affluent,Dubai,11781,79079,40899,3378
+2026-04-01,Mobile App,Affluent,Abu Dhabi,8570,100686,32057,2399
+2026-04-01,Mobile App,Affluent,Sharjah,5517,62832,13649,1260
+2026-04-01,Mobile App,Affluent,Northern Emirates,3482,44902,17857,424
+2026-04-01,Mobile App,Private,Dubai,2472,17406,13411,494
+2026-04-01,Mobile App,Private,Abu Dhabi,2040,16858,9605,315
+2026-04-01,Mobile App,Private,Sharjah,1093,7834,3454,126
+2026-04-01,Mobile App,Private,Northern Emirates,759,10063,2640,167
+2026-04-01,Mobile App,SME,Dubai,7362,44779,18646,963
+2026-04-01,Mobile App,SME,Abu Dhabi,5783,66474,28066,1313
+2026-04-01,Mobile App,SME,Sharjah,3499,28166,8331,226
+2026-04-01,Mobile App,SME,Northern Emirates,2153,16962,12127,644
+2026-04-01,Web App,Mass,Dubai,9872,135618,43366,2340
+2026-04-01,Web App,Mass,Abu Dhabi,6187,49677,27709,777
+2026-04-01,Web App,Mass,Sharjah,3997,35841,23471,758
+2026-04-01,Web App,Mass,Northern Emirates,2766,22355,11105,781
+2026-04-01,Web App,Affluent,Dubai,4436,31297,14502,810
+2026-04-01,Web App,Affluent,Abu Dhabi,2872,19916,6251,235
+2026-04-01,Web App,Affluent,Sharjah,1994,25280,9952,561
+2026-04-01,Web App,Affluent,Northern Emirates,1183,15397,5266,284
+2026-04-01,Web App,Private,Dubai,786,6684,4378,101
+2026-04-01,Web App,Private,Abu Dhabi,679,8222,1768,178
+2026-04-01,Web App,Private,Sharjah,382,4731,845,33
+2026-04-01,Web App,Private,Northern Emirates,234,1471,711,52
+2026-04-01,Web App,SME,Dubai,2443,34108,13946,147
+2026-04-01,Web App,SME,Abu Dhabi,1802,21033,7101,312
+2026-04-01,Web App,SME,Sharjah,1190,15392,2968,87
+2026-04-01,Web App,SME,Northern Emirates,797,5933,2130,141
+2026-04-01,Website,Mass,Dubai,9450,124051,0,1856
+2026-04-01,Website,Mass,Abu Dhabi,7549,103972,0,1370
+2026-04-01,Website,Mass,Sharjah,4518,42159,0,312
+2026-04-01,Website,Mass,Northern Emirates,3129,35718,0,850
+2026-04-01,Website,Affluent,Dubai,4073,46637,0,896
+2026-04-01,Website,Affluent,Abu Dhabi,3303,35417,0,950
+2026-04-01,Website,Affluent,Sharjah,2161,15624,0,151
+2026-04-01,Website,Affluent,Northern Emirates,1439,16226,0,235
+2026-04-01,Website,Private,Dubai,981,10549,0,50
+2026-04-01,Website,Private,Abu Dhabi,738,8302,0,212
+2026-04-01,Website,Private,Sharjah,390,4622,0,91
+2026-04-01,Website,Private,Northern Emirates,294,3102,0,30
+2026-04-01,Website,SME,Dubai,2456,27382,0,321
+2026-04-01,Website,SME,Abu Dhabi,1844,12107,0,531
+2026-04-01,Website,SME,Sharjah,1186,10900,0,112
+2026-04-01,Website,SME,Northern Emirates,885,11437,0,63
+2026-04-01,WhatsApp,Mass,Dubai,3885,28374,19883,470
+2026-04-01,WhatsApp,Mass,Abu Dhabi,2860,32124,7099,493
+2026-04-01,WhatsApp,Mass,Sharjah,1611,20058,5220,356
+2026-04-01,WhatsApp,Mass,Northern Emirates,1008,11414,5370,179
+2026-04-01,WhatsApp,Affluent,Dubai,1646,21535,6428,313
+2026-04-01,WhatsApp,Affluent,Abu Dhabi,1218,14679,6387,247
+2026-04-01,WhatsApp,Affluent,Sharjah,732,6886,1582,99
+2026-04-01,WhatsApp,Affluent,Northern Emirates,491,3826,2329,43
+2026-04-01,WhatsApp,Private,Dubai,329,3631,1348,40
+2026-04-01,WhatsApp,Private,Abu Dhabi,244,3234,954,21
+2026-04-01,WhatsApp,Private,Sharjah,137,1811,735,24
+2026-04-01,WhatsApp,Private,Northern Emirates,94,599,216,5
+2026-04-01,WhatsApp,SME,Dubai,912,8572,2168,196
+2026-04-01,WhatsApp,SME,Abu Dhabi,752,6036,2270,52
+2026-04-01,WhatsApp,SME,Sharjah,445,3075,2067,42
+2026-04-01,WhatsApp,SME,Northern Emirates,278,2541,648,74
+2026-04-01,IVR / Call Centre,Mass,Dubai,5277,56451,20158,1148
+2026-04-01,IVR / Call Centre,Mass,Abu Dhabi,4227,34325,24799,1132
+2026-04-01,IVR / Call Centre,Mass,Sharjah,2320,17355,11572,466
+2026-04-01,IVR / Call Centre,Mass,Northern Emirates,1772,12139,7331,91
+2026-04-01,IVR / Call Centre,Affluent,Dubai,2308,17018,9020,514
+2026-04-01,IVR / Call Centre,Affluent,Abu Dhabi,2013,27631,8872,345
+2026-04-01,IVR / Call Centre,Affluent,Sharjah,1151,15873,3962,251
+2026-04-01,IVR / Call Centre,Affluent,Northern Emirates,778,7126,2497,63
+2026-04-01,IVR / Call Centre,Private,Dubai,451,3109,930,131
+2026-04-01,IVR / Call Centre,Private,Abu Dhabi,401,3077,1842,85
+2026-04-01,IVR / Call Centre,Private,Sharjah,222,2443,1145,21
+2026-04-01,IVR / Call Centre,Private,Northern Emirates,144,1397,561,7
+2026-04-01,IVR / Call Centre,SME,Dubai,1399,10099,6729,407
+2026-04-01,IVR / Call Centre,SME,Abu Dhabi,1118,14398,4853,112
+2026-04-01,IVR / Call Centre,SME,Sharjah,684,8666,1507,35
+2026-04-01,IVR / Call Centre,SME,Northern Emirates,461,5395,2728,120
+2026-04-01,Tablet Banking,Mass,Dubai,921,9916,3884,113
+2026-04-01,Tablet Banking,Mass,Abu Dhabi,658,6506,2871,133
+2026-04-01,Tablet Banking,Mass,Sharjah,410,5138,1620,93
+2026-04-01,Tablet Banking,Mass,Northern Emirates,265,2484,864,17
+2026-04-01,Tablet Banking,Affluent,Dubai,431,4024,1678,74
+2026-04-01,Tablet Banking,Affluent,Abu Dhabi,326,2860,1561,17
+2026-04-01,Tablet Banking,Affluent,Sharjah,172,1296,580,18
+2026-04-01,Tablet Banking,Affluent,Northern Emirates,113,1499,379,22
+2026-04-01,Tablet Banking,Private,Dubai,85,956,214,10
+2026-04-01,Tablet Banking,Private,Abu Dhabi,62,848,330,13
+2026-04-01,Tablet Banking,Private,Sharjah,37,457,192,9
+2026-04-01,Tablet Banking,Private,Northern Emirates,24,198,119,5
+2026-04-01,Tablet Banking,SME,Dubai,222,1686,981,16
+2026-04-01,Tablet Banking,SME,Abu Dhabi,176,2455,565,18
+2026-04-01,Tablet Banking,SME,Sharjah,98,602,541,13
+2026-04-01,Tablet Banking,SME,Northern Emirates,67,845,373,3
+2026-04-01,Branch,Mass,Dubai,5863,55375,26209,470
+2026-04-01,Branch,Mass,Abu Dhabi,4552,36700,15300,631
+2026-04-01,Branch,Mass,Sharjah,2628,34221,8067,230
+2026-04-01,Branch,Mass,Northern Emirates,2000,20246,9355,453
+2026-04-01,Branch,Affluent,Dubai,3169,30113,12132,825
+2026-04-01,Branch,Affluent,Abu Dhabi,2019,13824,8968,495
+2026-04-01,Branch,Affluent,Sharjah,1431,18014,3102,109
+2026-04-01,Branch,Affluent,Northern Emirates,898,11644,5068,80
+2026-04-01,Branch,Private,Dubai,559,5328,2249,130
+2026-04-01,Branch,Private,Abu Dhabi,402,4493,1342,33
+2026-04-01,Branch,Private,Sharjah,281,2673,1029,68
+2026-04-01,Branch,Private,Northern Emirates,166,2070,558,29
+2026-04-01,Branch,SME,Dubai,1606,14421,8061,225
+2026-04-01,Branch,SME,Abu Dhabi,1357,9787,6804,210
+2026-04-01,Branch,SME,Sharjah,745,9248,2721,113
+2026-04-01,Branch,SME,Northern Emirates,521,6678,2697,73
+2026-05-01,Mobile App,Mass,Dubai,25113,179926,51225,6317
+2026-05-01,Mobile App,Mass,Abu Dhabi,22634,151154,73769,6688
+2026-05-01,Mobile App,Mass,Sharjah,11636,75537,58607,2502
+2026-05-01,Mobile App,Mass,Northern Emirates,8551,113044,19079,1777
+2026-05-01,Mobile App,Affluent,Dubai,13137,148223,53587,1628
+2026-05-01,Mobile App,Affluent,Abu Dhabi,9264,106044,39042,1168
+2026-05-01,Mobile App,Affluent,Sharjah,5945,78913,12077,713
+2026-05-01,Mobile App,Affluent,Northern Emirates,3801,50795,18249,614
+2026-05-01,Mobile App,Private,Dubai,2371,24552,12218,505
+2026-05-01,Mobile App,Private,Abu Dhabi,1964,25731,10067,296
+2026-05-01,Mobile App,Private,Sharjah,1065,8959,2287,142
+2026-05-01,Mobile App,Private,Northern Emirates,790,9417,1978,235
+2026-05-01,Mobile App,SME,Dubai,7233,48768,30430,1304
+2026-05-01,Mobile App,SME,Abu Dhabi,5961,43397,12587,1485
+2026-05-01,Mobile App,SME,Sharjah,3464,27472,17654,802
+2026-05-01,Mobile App,SME,Northern Emirates,2488,17126,5572,356
+2026-05-01,Web App,Mass,Dubai,9474,83710,20756,2015
+2026-05-01,Web App,Mass,Abu Dhabi,6409,53731,31708,1046
+2026-05-01,Web App,Mass,Sharjah,4559,56728,27153,872
+2026-05-01,Web App,Mass,Northern Emirates,2990,32955,12358,594
+2026-05-01,Web App,Affluent,Dubai,4074,33717,20936,931
+2026-05-01,Web App,Affluent,Abu Dhabi,3258,38166,13288,364
+2026-05-01,Web App,Affluent,Sharjah,1824,19441,9651,255
+2026-05-01,Web App,Affluent,Northern Emirates,1158,13540,6153,81
+2026-05-01,Web App,Private,Dubai,766,10040,2991,123
+2026-05-01,Web App,Private,Abu Dhabi,613,6258,2668,110
+2026-05-01,Web App,Private,Sharjah,370,3000,1478,57
+2026-05-01,Web App,Private,Northern Emirates,248,3335,981,72
+2026-05-01,Web App,SME,Dubai,2683,19196,6730,611
+2026-05-01,Web App,SME,Abu Dhabi,1749,20351,9537,139
+2026-05-01,Web App,SME,Sharjah,1068,10452,5325,305
+2026-05-01,Web App,SME,Northern Emirates,736,10020,3243,111
+2026-05-01,Website,Mass,Dubai,9149,96742,0,549
+2026-05-01,Website,Mass,Abu Dhabi,6910,61994,0,2057
+2026-05-01,Website,Mass,Sharjah,4279,42308,0,1060
+2026-05-01,Website,Mass,Northern Emirates,2757,29546,0,171
+2026-05-01,Website,Affluent,Dubai,4854,63647,0,504
+2026-05-01,Website,Affluent,Abu Dhabi,3590,35578,0,289
+2026-05-01,Website,Affluent,Sharjah,1963,25447,0,303
+2026-05-01,Website,Affluent,Northern Emirates,1369,14410,0,376
+2026-05-01,Website,Private,Dubai,950,9311,0,218
+2026-05-01,Website,Private,Abu Dhabi,689,8333,0,121
+2026-05-01,Website,Private,Sharjah,401,3849,0,65
+2026-05-01,Website,Private,Northern Emirates,289,2485,0,72
+2026-05-01,Website,SME,Dubai,2788,25864,0,301
+2026-05-01,Website,SME,Abu Dhabi,1982,20470,0,573
+2026-05-01,Website,SME,Sharjah,1309,15560,0,276
+2026-05-01,Website,SME,Northern Emirates,869,10130,0,167
+2026-05-01,WhatsApp,Mass,Dubai,3914,45634,16611,316
+2026-05-01,WhatsApp,Mass,Abu Dhabi,2804,21140,12547,544
+2026-05-01,WhatsApp,Mass,Sharjah,1514,15990,4174,255
+2026-05-01,WhatsApp,Mass,Northern Emirates,1196,8326,6870,113
+2026-05-01,WhatsApp,Affluent,Dubai,1518,18662,4525,343
+2026-05-01,WhatsApp,Affluent,Abu Dhabi,1357,12964,7093,273
+2026-05-01,WhatsApp,Affluent,Sharjah,741,4712,4036,41
+2026-05-01,WhatsApp,Affluent,Northern Emirates,497,4631,2702,64
+2026-05-01,WhatsApp,Private,Dubai,319,2206,764,29
+2026-05-01,WhatsApp,Private,Abu Dhabi,234,1882,551,29
+2026-05-01,WhatsApp,Private,Sharjah,148,1088,659,19
+2026-05-01,WhatsApp,Private,Northern Emirates,91,588,323,11
+2026-05-01,WhatsApp,SME,Dubai,990,8507,3467,254
+2026-05-01,WhatsApp,SME,Abu Dhabi,698,5319,3495,137
+2026-05-01,WhatsApp,SME,Sharjah,452,5432,1600,35
+2026-05-01,WhatsApp,SME,Northern Emirates,275,2672,997,47
+2026-05-01,IVR / Call Centre,Mass,Dubai,5398,42481,29929,633
+2026-05-01,IVR / Call Centre,Mass,Abu Dhabi,4507,51383,13454,850
+2026-05-01,IVR / Call Centre,Mass,Sharjah,2616,22070,9488,185
+2026-05-01,IVR / Call Centre,Mass,Northern Emirates,1694,12921,9946,242
+2026-05-01,IVR / Call Centre,Affluent,Dubai,2742,33606,11379,427
+2026-05-01,IVR / Call Centre,Affluent,Abu Dhabi,2029,19506,4066,337
+2026-05-01,IVR / Call Centre,Affluent,Sharjah,1199,9968,7060,60
+2026-05-01,IVR / Call Centre,Affluent,Northern Emirates,815,8033,3579,211
+2026-05-01,IVR / Call Centre,Private,Dubai,488,4299,2210,95
+2026-05-01,IVR / Call Centre,Private,Abu Dhabi,375,2386,1858,71
+2026-05-01,IVR / Call Centre,Private,Sharjah,216,1979,538,18
+2026-05-01,IVR / Call Centre,Private,Northern Emirates,151,1243,562,30
+2026-05-01,IVR / Call Centre,SME,Dubai,1637,13990,7740,222
+2026-05-01,IVR / Call Centre,SME,Abu Dhabi,1071,12875,4081,119
+2026-05-01,IVR / Call Centre,SME,Sharjah,740,6462,2841,147
+2026-05-01,IVR / Call Centre,SME,Northern Emirates,406,4683,1861,20
+2026-05-01,Tablet Banking,Mass,Dubai,875,11560,4104,134
+2026-05-01,Tablet Banking,Mass,Abu Dhabi,712,8277,3595,131
+2026-05-01,Tablet Banking,Mass,Sharjah,418,4678,965,24
+2026-05-01,Tablet Banking,Mass,Northern Emirates,281,3195,1317,38
+2026-05-01,Tablet Banking,Affluent,Dubai,425,5363,1458,40
+2026-05-01,Tablet Banking,Affluent,Abu Dhabi,316,3658,642,52
+2026-05-01,Tablet Banking,Affluent,Sharjah,195,1863,562,10
+2026-05-01,Tablet Banking,Affluent,Northern Emirates,114,1524,391,8
+2026-05-01,Tablet Banking,Private,Dubai,81,682,394,8
+2026-05-01,Tablet Banking,Private,Abu Dhabi,59,525,184,16
+2026-05-01,Tablet Banking,Private,Sharjah,37,283,103,9
+2026-05-01,Tablet Banking,Private,Northern Emirates,23,298,98,3
+2026-05-01,Tablet Banking,SME,Dubai,242,2729,1031,53
+2026-05-01,Tablet Banking,SME,Abu Dhabi,182,1187,457,12
+2026-05-01,Tablet Banking,SME,Sharjah,102,1077,297,18
+2026-05-01,Tablet Banking,SME,Northern Emirates,76,572,358,22
+2026-05-01,Branch,Mass,Dubai,6507,66784,19597,1236
+2026-05-01,Branch,Mass,Abu Dhabi,4655,62857,21244,1330
+2026-05-01,Branch,Mass,Sharjah,2566,34666,9571,766
+2026-05-01,Branch,Mass,Northern Emirates,1794,20525,6936,251
+2026-05-01,Branch,Affluent,Dubai,2995,39145,8680,357
+2026-05-01,Branch,Affluent,Abu Dhabi,2101,20150,4245,207
+2026-05-01,Branch,Affluent,Sharjah,1174,12414,2467,275
+2026-05-01,Branch,Affluent,Northern Emirates,936,8789,2150,105
+2026-05-01,Branch,Private,Dubai,531,4506,2391,39
+2026-05-01,Branch,Private,Abu Dhabi,425,5297,1857,87
+2026-05-01,Branch,Private,Sharjah,247,1976,600,27
+2026-05-01,Branch,Private,Northern Emirates,165,1061,550,41
+2026-05-01,Branch,SME,Dubai,1860,22703,8329,448
+2026-05-01,Branch,SME,Abu Dhabi,1313,13959,3075,85
+2026-05-01,Branch,SME,Sharjah,697,5928,3757,46
+2026-05-01,Branch,SME,Northern Emirates,474,6329,1785,59
+2026-06-01,Mobile App,Mass,Dubai,28927,188786,136253,5490
+2026-06-01,Mobile App,Mass,Abu Dhabi,20293,183685,48364,4829
+2026-06-01,Mobile App,Mass,Sharjah,12019,129764,55754,632
+2026-06-01,Mobile App,Mass,Northern Emirates,8267,102191,45631,1693
+2026-06-01,Mobile App,Affluent,Dubai,12413,167583,63699,2029
+2026-06-01,Mobile App,Affluent,Abu Dhabi,9288,70030,22391,1846
+2026-06-01,Mobile App,Affluent,Sharjah,5272,64926,14626,1019
+2026-06-01,Mobile App,Affluent,Northern Emirates,3953,31822,14562,913
+2026-06-01,Mobile App,Private,Dubai,2536,20149,13157,165
+2026-06-01,Mobile App,Private,Abu Dhabi,1851,17560,10807,441
+2026-06-01,Mobile App,Private,Sharjah,1110,14520,5663,96
+2026-06-01,Mobile App,Private,Northern Emirates,740,6469,2571,38
+2026-06-01,Mobile App,SME,Dubai,7828,89445,17450,1383
+2026-06-01,Mobile App,SME,Abu Dhabi,6158,79251,22712,608
+2026-06-01,Mobile App,SME,Sharjah,3255,43187,16734,440
+2026-06-01,Mobile App,SME,Northern Emirates,2386,27577,14143,477
+2026-06-01,Web App,Mass,Dubai,9087,96570,53179,1853
+2026-06-01,Web App,Mass,Abu Dhabi,6939,50642,26487,1715
+2026-06-01,Web App,Mass,Sharjah,3844,29811,7744,406
+2026-06-01,Web App,Mass,Northern Emirates,2669,29335,7889,623
+2026-06-01,Web App,Affluent,Dubai,4661,40327,23120,472
+2026-06-01,Web App,Affluent,Abu Dhabi,3003,41798,10364,205
+2026-06-01,Web App,Affluent,Sharjah,1742,12057,5508,171
+2026-06-01,Web App,Affluent,Northern Emirates,1304,15810,2837,74
+2026-06-01,Web App,Private,Dubai,803,5936,4449,184
+2026-06-01,Web App,Private,Abu Dhabi,620,6470,1682,34
+2026-06-01,Web App,Private,Sharjah,411,5460,856,90
+2026-06-01,Web App,Private,Northern Emirates,250,3074,610,71
+2026-06-01,Web App,SME,Dubai,2465,19525,12911,530
+2026-06-01,Web App,SME,Abu Dhabi,2093,28918,12538,565
+2026-06-01,Web App,SME,Sharjah,1241,8095,3198,348
+2026-06-01,Web App,SME,Northern Emirates,814,6132,2859,116
+2026-06-01,Website,Mass,Dubai,10097,139498,0,1122
+2026-06-01,Website,Mass,Abu Dhabi,6751,73776,0,656
+2026-06-01,Website,Mass,Sharjah,4486,55252,0,591
+2026-06-01,Website,Mass,Northern Emirates,2704,33434,0,725
+2026-06-01,Website,Affluent,Dubai,4816,66205,0,1307
+2026-06-01,Website,Affluent,Abu Dhabi,3178,21137,0,532
+2026-06-01,Website,Affluent,Sharjah,2091,13631,0,370
+2026-06-01,Website,Affluent,Northern Emirates,1417,15814,0,251
+2026-06-01,Website,Private,Dubai,899,8733,0,117
+2026-06-01,Website,Private,Abu Dhabi,657,7592,0,150
+2026-06-01,Website,Private,Sharjah,404,3291,0,60
+2026-06-01,Website,Private,Northern Emirates,292,3116,0,17
+2026-06-01,Website,SME,Dubai,2548,19425,0,677
+2026-06-01,Website,SME,Abu Dhabi,1982,16743,0,539
+2026-06-01,Website,SME,Sharjah,1232,16612,0,176
+2026-06-01,Website,SME,Northern Emirates,818,5787,0,58
+2026-06-01,WhatsApp,Mass,Dubai,3720,32782,16129,618
+2026-06-01,WhatsApp,Mass,Abu Dhabi,2889,27182,11181,439
+2026-06-01,WhatsApp,Mass,Sharjah,1795,15322,6335,170
+2026-06-01,WhatsApp,Mass,Northern Emirates,1068,11921,3670,75
+2026-06-01,WhatsApp,Affluent,Dubai,1827,18456,8357,450
+2026-06-01,WhatsApp,Affluent,Abu Dhabi,1391,9441,3178,82
+2026-06-01,WhatsApp,Affluent,Sharjah,723,5475,2398,90
+2026-06-01,WhatsApp,Affluent,Northern Emirates,545,6250,1688,123
+2026-06-01,WhatsApp,Private,Dubai,376,5259,1883,88
+2026-06-01,WhatsApp,Private,Abu Dhabi,277,1680,885,70
+2026-06-01,WhatsApp,Private,Sharjah,162,1495,586,31
+2026-06-01,WhatsApp,Private,Northern Emirates,105,1026,425,25
+2026-06-01,WhatsApp,SME,Dubai,954,8757,2773,226
+2026-06-01,WhatsApp,SME,Abu Dhabi,765,7746,3935,183
+2026-06-01,WhatsApp,SME,Sharjah,482,4671,2490,61
+2026-06-01,WhatsApp,SME,Northern Emirates,288,3502,1380,29
+2026-06-01,IVR / Call Centre,Mass,Dubai,5444,56985,19047,1058
+2026-06-01,IVR / Call Centre,Mass,Abu Dhabi,3818,51721,7783,964
+2026-06-01,IVR / Call Centre,Mass,Sharjah,2640,23017,9706,584
+2026-06-01,IVR / Call Centre,Mass,Northern Emirates,1618,19786,6715,212
+2026-06-01,IVR / Call Centre,Affluent,Dubai,2261,27771,12861,199
+2026-06-01,IVR / Call Centre,Affluent,Abu Dhabi,2044,17664,9237,410
+2026-06-01,IVR / Call Centre,Affluent,Sharjah,1149,14862,6802,116
+2026-06-01,IVR / Call Centre,Affluent,Northern Emirates,733,7532,2018,56
+2026-06-01,IVR / Call Centre,Private,Dubai,506,4863,2822,37
+2026-06-01,IVR / Call Centre,Private,Abu Dhabi,345,3596,734,76
+2026-06-01,IVR / Call Centre,Private,Sharjah,224,1678,510,65
+2026-06-01,IVR / Call Centre,Private,Northern Emirates,143,1124,663,9
+2026-06-01,IVR / Call Centre,SME,Dubai,1367,13872,3673,362
+2026-06-01,IVR / Call Centre,SME,Abu Dhabi,1104,8010,2697,203
+2026-06-01,IVR / Call Centre,SME,Sharjah,672,4401,3911,179
+2026-06-01,IVR / Call Centre,SME,Northern Emirates,416,3180,1551,94
+2026-06-01,Tablet Banking,Mass,Dubai,875,9475,5037,172
+2026-06-01,Tablet Banking,Mass,Abu Dhabi,660,7575,2047,34
+2026-06-01,Tablet Banking,Mass,Sharjah,367,2389,1320,92
+2026-06-01,Tablet Banking,Mass,Northern Emirates,265,3519,1461,43
+2026-06-01,Tablet Banking,Affluent,Dubai,406,4830,1279,109
+2026-06-01,Tablet Banking,Affluent,Abu Dhabi,297,3445,1439,36
+2026-06-01,Tablet Banking,Affluent,Sharjah,184,2296,496,20
+2026-06-01,Tablet Banking,Affluent,Northern Emirates,129,1530,494,35
+2026-06-01,Tablet Banking,Private,Dubai,74,780,264,21
+2026-06-01,Tablet Banking,Private,Abu Dhabi,56,726,173,11
+2026-06-01,Tablet Banking,Private,Sharjah,34,453,162,7
+2026-06-01,Tablet Banking,Private,Northern Emirates,22,218,131,4
+2026-06-01,Tablet Banking,SME,Dubai,263,1739,636,63
+2026-06-01,Tablet Banking,SME,Abu Dhabi,173,1662,520,30
+2026-06-01,Tablet Banking,SME,Sharjah,107,704,511,25
+2026-06-01,Tablet Banking,SME,Northern Emirates,70,837,379,10
+2026-06-01,Branch,Mass,Dubai,5509,38108,31228,725
+2026-06-01,Branch,Mass,Abu Dhabi,4808,47493,10928,899
+2026-06-01,Branch,Mass,Sharjah,2606,35441,6674,664
+2026-06-01,Branch,Mass,Northern Emirates,1957,14412,4055,147
+2026-06-01,Branch,Affluent,Dubai,2661,27347,9482,184
+2026-06-01,Branch,Affluent,Abu Dhabi,2191,25019,5727,305
+2026-06-01,Branch,Affluent,Sharjah,1178,7392,5536,122
+2026-06-01,Branch,Affluent,Northern Emirates,865,10978,4537,181
+2026-06-01,Branch,Private,Dubai,579,7628,2062,73
+2026-06-01,Branch,Private,Abu Dhabi,379,2288,1928,91
+2026-06-01,Branch,Private,Sharjah,271,2438,800,19
+2026-06-01,Branch,Private,Northern Emirates,163,2268,545,15
+2026-06-01,Branch,SME,Dubai,1721,13362,9515,428
+2026-06-01,Branch,SME,Abu Dhabi,1331,9773,3551,204
+2026-06-01,Branch,SME,Sharjah,690,5945,2931,67
+2026-06-01,Branch,SME,Northern Emirates,470,4856,2705,37
+2026-07-01,Mobile App,Mass,Dubai,27066,239604,72928,4074
+2026-07-01,Mobile App,Mass,Abu Dhabi,20741,189022,79543,1379
+2026-07-01,Mobile App,Mass,Sharjah,13733,153803,47734,917
+2026-07-01,Mobile App,Mass,Northern Emirates,8128,68374,35726,2404
+2026-07-01,Mobile App,Affluent,Dubai,12010,123576,71605,3154
+2026-07-01,Mobile App,Affluent,Abu Dhabi,9144,125019,40228,2700
+2026-07-01,Mobile App,Affluent,Sharjah,6103,69715,35943,1363
+2026-07-01,Mobile App,Affluent,Northern Emirates,3783,41926,20942,489
+2026-07-01,Mobile App,Private,Dubai,2793,27530,9329,564
+2026-07-01,Mobile App,Private,Abu Dhabi,1990,18027,9079,215
+2026-07-01,Mobile App,Private,Sharjah,1195,16618,3501,243
+2026-07-01,Mobile App,Private,Northern Emirates,845,7157,4184,202
+2026-07-01,Mobile App,SME,Dubai,8017,51945,28044,995
+2026-07-01,Mobile App,SME,Abu Dhabi,5463,41710,11754,1534
+2026-07-01,Mobile App,SME,Sharjah,3592,48732,17805,474
+2026-07-01,Mobile App,SME,Northern Emirates,2244,25017,11314,404
+2026-07-01,Web App,Mass,Dubai,10484,117256,33064,586
+2026-07-01,Web App,Mass,Abu Dhabi,7675,66389,22787,1418
+2026-07-01,Web App,Mass,Sharjah,4656,52706,13937,1032
+2026-07-01,Web App,Mass,Northern Emirates,2997,32560,10567,390
+2026-07-01,Web App,Affluent,Dubai,4299,26001,23556,290
+2026-07-01,Web App,Affluent,Abu Dhabi,3061,33900,7854,309
+2026-07-01,Web App,Affluent,Sharjah,1797,19301,9568,508
+2026-07-01,Web App,Affluent,Northern Emirates,1236,8188,6056,158
+2026-07-01,Web App,Private,Dubai,908,7227,2456,101
+2026-07-01,Web App,Private,Abu Dhabi,624,5981,2834,73
+2026-07-01,Web App,Private,Sharjah,413,2742,2432,61
+2026-07-01,Web App,Private,Northern Emirates,243,2316,977,56
+2026-07-01,Web App,SME,Dubai,2745,34468,14203,150
+2026-07-01,Web App,SME,Abu Dhabi,1911,24522,9622,535
+2026-07-01,Web App,SME,Sharjah,1196,8637,5868,136
+2026-07-01,Web App,SME,Northern Emirates,777,7481,2719,156
+2026-07-01,Website,Mass,Dubai,9052,64208,0,1514
+2026-07-01,Website,Mass,Abu Dhabi,6912,51957,0,367
+2026-07-01,Website,Mass,Sharjah,4455,52581,0,770
+2026-07-01,Website,Mass,Northern Emirates,3222,43568,0,942
+2026-07-01,Website,Affluent,Dubai,4385,43483,0,921
+2026-07-01,Website,Affluent,Abu Dhabi,3434,31834,0,205
+2026-07-01,Website,Affluent,Sharjah,2195,19927,0,420
+2026-07-01,Website,Affluent,Northern Emirates,1267,12024,0,144
+2026-07-01,Website,Private,Dubai,974,11471,0,172
+2026-07-01,Website,Private,Abu Dhabi,673,7744,0,150
+2026-07-01,Website,Private,Sharjah,417,5592,0,97
+2026-07-01,Website,Private,Northern Emirates,256,1606,0,64
+2026-07-01,Website,SME,Dubai,2770,31609,0,621
+2026-07-01,Website,SME,Abu Dhabi,2083,16852,0,341
+2026-07-01,Website,SME,Sharjah,1258,10107,0,252
+2026-07-01,Website,SME,Northern Emirates,883,11242,0,46
+2026-07-01,WhatsApp,Mass,Dubai,4035,45011,22868,602
+2026-07-01,WhatsApp,Mass,Abu Dhabi,2920,38567,11896,283
+2026-07-01,WhatsApp,Mass,Sharjah,1696,21434,5107,212
+2026-07-01,WhatsApp,Mass,Northern Emirates,1255,14141,4431,159
+2026-07-01,WhatsApp,Affluent,Dubai,1709,22236,8392,123
+2026-07-01,WhatsApp,Affluent,Abu Dhabi,1340,16366,4525,114
+2026-07-01,WhatsApp,Affluent,Sharjah,821,11034,2948,104
+2026-07-01,WhatsApp,Affluent,Northern Emirates,572,7167,1147,38
+2026-07-01,WhatsApp,Private,Dubai,361,3682,1667,84
+2026-07-01,WhatsApp,Private,Abu Dhabi,243,2186,1170,24
+2026-07-01,WhatsApp,Private,Sharjah,146,1983,555,37
+2026-07-01,WhatsApp,Private,Northern Emirates,97,627,264,23
+2026-07-01,WhatsApp,SME,Dubai,993,13125,3609,205
+2026-07-01,WhatsApp,SME,Abu Dhabi,802,10383,2136,98
+2026-07-01,WhatsApp,SME,Sharjah,458,3762,1542,89
+2026-07-01,WhatsApp,SME,Northern Emirates,311,3539,747,20
+2026-07-01,IVR / Call Centre,Mass,Dubai,5776,34989,25008,1714
+2026-07-01,IVR / Call Centre,Mass,Abu Dhabi,3792,38597,7694,761
+2026-07-01,IVR / Call Centre,Mass,Sharjah,2716,32838,15558,457
+2026-07-01,IVR / Call Centre,Mass,Northern Emirates,1596,15059,5559,434
+2026-07-01,IVR / Call Centre,Affluent,Dubai,2749,34458,15845,594
+2026-07-01,IVR / Call Centre,Affluent,Abu Dhabi,1829,11811,6262,242
+2026-07-01,IVR / Call Centre,Affluent,Sharjah,1035,9993,4960,239
+2026-07-01,IVR / Call Centre,Affluent,Northern Emirates,808,5745,3561,215
+2026-07-01,IVR / Call Centre,Private,Dubai,477,5530,2509,67
+2026-07-01,IVR / Call Centre,Private,Abu Dhabi,383,4316,1494,58
+2026-07-01,IVR / Call Centre,Private,Sharjah,210,2916,1224,53
+2026-07-01,IVR / Call Centre,Private,Northern Emirates,135,1199,294,34
+2026-07-01,IVR / Call Centre,SME,Dubai,1447,13825,6405,217
+2026-07-01,IVR / Call Centre,SME,Abu Dhabi,1150,7648,4268,325
+2026-07-01,IVR / Call Centre,SME,Sharjah,733,10185,3979,202
+2026-07-01,IVR / Call Centre,SME,Northern Emirates,471,3933,1309,40
+2026-07-01,Tablet Banking,Mass,Dubai,883,9337,4792,155
+2026-07-01,Tablet Banking,Mass,Abu Dhabi,610,7548,1955,133
+2026-07-01,Tablet Banking,Mass,Sharjah,399,5186,1066,64
+2026-07-01,Tablet Banking,Mass,Northern Emirates,243,2746,720,25
+2026-07-01,Tablet Banking,Affluent,Dubai,420,4736,990,66
+2026-07-01,Tablet Banking,Affluent,Abu Dhabi,312,2271,1783,86
+2026-07-01,Tablet Banking,Affluent,Sharjah,189,1467,572,31
+2026-07-01,Tablet Banking,Affluent,Northern Emirates,129,901,328,23
+2026-07-01,Tablet Banking,Private,Dubai,83,558,395,22
+2026-07-01,Tablet Banking,Private,Abu Dhabi,65,788,286,13
+2026-07-01,Tablet Banking,Private,Sharjah,35,410,173,5
+2026-07-01,Tablet Banking,Private,Northern Emirates,24,251,130,6
+2026-07-01,Tablet Banking,SME,Dubai,226,1565,531,16
+2026-07-01,Tablet Banking,SME,Abu Dhabi,188,2537,935,14
+2026-07-01,Tablet Banking,SME,Sharjah,105,1346,610,20
+2026-07-01,Tablet Banking,SME,Northern Emirates,64,415,265,16
+2026-07-01,Branch,Mass,Dubai,6519,55784,22556,1433
+2026-07-01,Branch,Mass,Abu Dhabi,4726,48006,20824,498
+2026-07-01,Branch,Mass,Sharjah,2620,27002,10067,225
+2026-07-01,Branch,Mass,Northern Emirates,1942,24658,7766,318
+2026-07-01,Branch,Affluent,Dubai,2758,19766,12856,690
+2026-07-01,Branch,Affluent,Abu Dhabi,2110,22769,6827,627
+2026-07-01,Branch,Affluent,Sharjah,1125,15721,5429,190
+2026-07-01,Branch,Affluent,Northern Emirates,864,8605,4161,124
+2026-07-01,Branch,Private,Dubai,592,5129,3144,60
+2026-07-01,Branch,Private,Abu Dhabi,424,5292,2035,26
+2026-07-01,Branch,Private,Sharjah,261,1939,1030,38
+2026-07-01,Branch,Private,Northern Emirates,177,1995,954,52
+2026-07-01,Branch,SME,Dubai,1637,14240,7712,487
+2026-07-01,Branch,SME,Abu Dhabi,1279,11675,5258,154
+2026-07-01,Branch,SME,Sharjah,758,5731,4112,112
+2026-07-01,Branch,SME,Northern Emirates,450,5408,1944,113
+2026-08-01,Mobile App,Mass,Dubai,31248,364873,119683,2841
+2026-08-01,Mobile App,Mass,Abu Dhabi,20315,234996,64283,1751
+2026-08-01,Mobile App,Mass,Sharjah,12401,148651,61276,648
+2026-08-01,Mobile App,Mass,Northern Emirates,9157,97114,43159,2720
+2026-08-01,Mobile App,Affluent,Dubai,12339,167849,45758,3213
+2026-08-01,Mobile App,Affluent,Abu Dhabi,10804,73125,63707,1025
+2026-08-01,Mobile App,Affluent,Sharjah,5439,75287,25021,1078
+2026-08-01,Mobile App,Affluent,Northern Emirates,4356,47984,15751,254
+2026-08-01,Mobile App,Private,Dubai,2517,24940,11960,726
+2026-08-01,Mobile App,Private,Abu Dhabi,2052,18474,9782,510
+2026-08-01,Mobile App,Private,Sharjah,1232,15057,6726,261
+2026-08-01,Mobile App,Private,Northern Emirates,760,8531,2636,60
+2026-08-01,Mobile App,SME,Dubai,7300,72370,34128,1295
+2026-08-01,Mobile App,SME,Abu Dhabi,5403,57184,23181,639
+2026-08-01,Mobile App,SME,Sharjah,3760,46453,10243,643
+2026-08-01,Mobile App,SME,Northern Emirates,2458,23275,10534,184
+2026-08-01,Web App,Mass,Dubai,8885,117913,46032,854
+2026-08-01,Web App,Mass,Abu Dhabi,7758,47773,32771,1428
+2026-08-01,Web App,Mass,Sharjah,4654,46114,18967,913
+2026-08-01,Web App,Mass,Northern Emirates,3045,37516,7601,725
+2026-08-01,Web App,Affluent,Dubai,4837,63755,13169,966
+2026-08-01,Web App,Affluent,Abu Dhabi,3106,32419,16157,250
+2026-08-01,Web App,Affluent,Sharjah,1843,14098,4874,351
+2026-08-01,Web App,Affluent,Northern Emirates,1420,8917,8405,250
+2026-08-01,Web App,Private,Dubai,860,8905,3175,246
+2026-08-01,Web App,Private,Abu Dhabi,597,5017,3453,107
+2026-08-01,Web App,Private,Sharjah,420,4734,1587,81
+2026-08-01,Web App,Private,Northern Emirates,275,2799,1634,37
+2026-08-01,Web App,SME,Dubai,2675,20540,6409,681
+2026-08-01,Web App,SME,Abu Dhabi,1886,14153,6033,486
+2026-08-01,Web App,SME,Sharjah,1304,14105,3734,182
+2026-08-01,Web App,SME,Northern Emirates,737,8091,1693,83
+2026-08-01,Website,Mass,Dubai,9665,127860,0,1449
+2026-08-01,Website,Mass,Abu Dhabi,6806,54675,0,1064
+2026-08-01,Website,Mass,Sharjah,4628,47609,0,313
+2026-08-01,Website,Mass,Northern Emirates,3108,43396,0,696
+2026-08-01,Website,Affluent,Dubai,4223,37910,0,905
+2026-08-01,Website,Affluent,Abu Dhabi,3591,38924,0,556
+2026-08-01,Website,Affluent,Sharjah,1884,26262,0,298
+2026-08-01,Website,Affluent,Northern Emirates,1221,13222,0,84
+2026-08-01,Website,Private,Dubai,832,5724,0,155
+2026-08-01,Website,Private,Abu Dhabi,616,6850,0,86
+2026-08-01,Website,Private,Sharjah,391,3200,0,104
+2026-08-01,Website,Private,Northern Emirates,255,1550,0,36
+2026-08-01,Website,SME,Dubai,2953,26662,0,225
+2026-08-01,Website,SME,Abu Dhabi,2197,16270,0,509
+2026-08-01,Website,SME,Sharjah,1167,14670,0,201
+2026-08-01,Website,SME,Northern Emirates,814,9445,0,216
+2026-08-01,WhatsApp,Mass,Dubai,3934,42722,21976,364
+2026-08-01,WhatsApp,Mass,Abu Dhabi,3181,28999,10753,748
+2026-08-01,WhatsApp,Mass,Sharjah,1916,19645,8389,502
+2026-08-01,WhatsApp,Mass,Northern Emirates,1162,8157,2368,207
+2026-08-01,WhatsApp,Affluent,Dubai,1648,11554,5793,385
+2026-08-01,WhatsApp,Affluent,Abu Dhabi,1208,14258,7124,274
+2026-08-01,WhatsApp,Affluent,Sharjah,756,8217,3649,72
+2026-08-01,WhatsApp,Affluent,Northern Emirates,582,7209,2333,69
+2026-08-01,WhatsApp,Private,Dubai,348,4709,1922,88
+2026-08-01,WhatsApp,Private,Abu Dhabi,255,3280,1476,38
+2026-08-01,WhatsApp,Private,Sharjah,153,1028,354,35
+2026-08-01,WhatsApp,Private,Northern Emirates,115,841,256,27
+2026-08-01,WhatsApp,SME,Dubai,1073,10668,5898,311
+2026-08-01,WhatsApp,SME,Abu Dhabi,784,7894,3859,133
+2026-08-01,WhatsApp,SME,Sharjah,479,6698,2659,107
+2026-08-01,WhatsApp,SME,Northern Emirates,312,3410,1760,73
+2026-08-01,IVR / Call Centre,Mass,Dubai,5735,66644,28667,636
+2026-08-01,IVR / Call Centre,Mass,Abu Dhabi,4322,58809,22878,1167
+2026-08-01,IVR / Call Centre,Mass,Sharjah,2488,27053,11020,724
+2026-08-01,IVR / Call Centre,Mass,Northern Emirates,1707,22285,6988,181
+2026-08-01,IVR / Call Centre,Affluent,Dubai,2287,29079,9273,658
+2026-08-01,IVR / Call Centre,Affluent,Abu Dhabi,1846,16674,6448,144
+2026-08-01,IVR / Call Centre,Affluent,Sharjah,1218,9741,5062,294
+2026-08-01,IVR / Call Centre,Affluent,Northern Emirates,692,5808,2196,71
+2026-08-01,IVR / Call Centre,Private,Dubai,523,5518,1500,66
+2026-08-01,IVR / Call Centre,Private,Abu Dhabi,407,4535,2158,23
+2026-08-01,IVR / Call Centre,Private,Sharjah,223,2440,881,30
+2026-08-01,IVR / Call Centre,Private,Northern Emirates,153,1320,522,7
+2026-08-01,IVR / Call Centre,SME,Dubai,1617,12110,5527,121
+2026-08-01,IVR / Call Centre,SME,Abu Dhabi,1123,7499,4556,99
+2026-08-01,IVR / Call Centre,SME,Sharjah,624,6177,1636,133
+2026-08-01,IVR / Call Centre,SME,Northern Emirates,425,3894,1358,66
+2026-08-01,Tablet Banking,Mass,Dubai,824,10293,2006,131
+2026-08-01,Tablet Banking,Mass,Abu Dhabi,704,5135,2404,111
+2026-08-01,Tablet Banking,Mass,Sharjah,384,4978,1072,37
+2026-08-01,Tablet Banking,Mass,Northern Emirates,239,2188,1189,65
+2026-08-01,Tablet Banking,Affluent,Dubai,372,2824,1457,80
+2026-08-01,Tablet Banking,Affluent,Abu Dhabi,285,2670,1197,71
+2026-08-01,Tablet Banking,Affluent,Sharjah,187,1608,945,50
+2026-08-01,Tablet Banking,Affluent,Northern Emirates,120,1606,644,17
+2026-08-01,Tablet Banking,Private,Dubai,73,501,152,6
+2026-08-01,Tablet Banking,Private,Abu Dhabi,60,728,176,13
+2026-08-01,Tablet Banking,Private,Sharjah,34,469,168,5
+2026-08-01,Tablet Banking,Private,Northern Emirates,22,217,110,2
+2026-08-01,Tablet Banking,SME,Dubai,223,2250,668,53
+2026-08-01,Tablet Banking,SME,Abu Dhabi,193,2693,576,49
+2026-08-01,Tablet Banking,SME,Sharjah,101,1176,529,22
+2026-08-01,Tablet Banking,SME,Northern Emirates,72,536,429,14
+2026-08-01,Branch,Mass,Dubai,5946,46587,15038,354
+2026-08-01,Branch,Mass,Abu Dhabi,4768,64047,17666,973
+2026-08-01,Branch,Mass,Sharjah,2392,15327,8681,302
+2026-08-01,Branch,Mass,Northern Emirates,1783,13999,5963,302
+2026-08-01,Branch,Affluent,Dubai,2637,29405,8483,309
+2026-08-01,Branch,Affluent,Abu Dhabi,1887,16621,6929,245
+2026-08-01,Branch,Affluent,Sharjah,1077,6814,2378,254
+2026-08-01,Branch,Affluent,Northern Emirates,744,7273,4191,55
+2026-08-01,Branch,Private,Dubai,493,6698,1702,62
+2026-08-01,Branch,Private,Abu Dhabi,362,2211,1522,96
+2026-08-01,Branch,Private,Sharjah,228,2720,785,55
+2026-08-01,Branch,Private,Northern Emirates,158,1417,726,16
+2026-08-01,Branch,SME,Dubai,1542,20196,3888,363
+2026-08-01,Branch,SME,Abu Dhabi,1094,11697,6179,233
+2026-08-01,Branch,SME,Sharjah,666,7750,3797,45
+2026-08-01,Branch,SME,Northern Emirates,478,4179,2342,142
+2026-09-01,Mobile App,Mass,Dubai,27929,328616,60752,2734
+2026-09-01,Mobile App,Mass,Abu Dhabi,22499,180446,123931,5925
+2026-09-01,Mobile App,Mass,Sharjah,14452,199452,80637,2342
+2026-09-01,Mobile App,Mass,Northern Emirates,9297,123527,21111,1438
+2026-09-01,Mobile App,Affluent,Dubai,14664,147093,30611,2929
+2026-09-01,Mobile App,Affluent,Abu Dhabi,10523,73992,22958,2015
+2026-09-01,Mobile App,Affluent,Sharjah,6432,74292,31921,960
+2026-09-01,Mobile App,Affluent,Northern Emirates,4199,54427,24715,383
+2026-09-01,Mobile App,Private,Dubai,2835,25722,14508,425
+2026-09-01,Mobile App,Private,Abu Dhabi,1932,14436,5100,201
+2026-09-01,Mobile App,Private,Sharjah,1262,16447,6515,206
+2026-09-01,Mobile App,Private,Northern Emirates,843,8599,2709,88
+2026-09-01,Mobile App,SME,Dubai,8437,87889,22648,518
+2026-09-01,Mobile App,SME,Abu Dhabi,5756,36336,14922,1559
+2026-09-01,Mobile App,SME,Sharjah,3956,32294,20422,833
+2026-09-01,Mobile App,SME,Northern Emirates,2308,29051,9551,116
+2026-09-01,Web App,Mass,Dubai,9597,104043,33363,679
+2026-09-01,Web App,Mass,Abu Dhabi,7730,80347,37786,1175
+2026-09-01,Web App,Mass,Sharjah,4554,39151,10151,1156
+2026-09-01,Web App,Mass,Northern Emirates,3162,24518,18532,297
+2026-09-01,Web App,Affluent,Dubai,4924,50712,29125,1204
+2026-09-01,Web App,Affluent,Abu Dhabi,3564,24418,17759,518
+2026-09-01,Web App,Affluent,Sharjah,2087,27047,9469,391
+2026-09-01,Web App,Affluent,Northern Emirates,1435,11142,4412,280
+2026-09-01,Web App,Private,Dubai,955,11482,2504,103
+2026-09-01,Web App,Private,Abu Dhabi,705,6309,3954,51
+2026-09-01,Web App,Private,Sharjah,379,2835,2065,36
+2026-09-01,Web App,Private,Northern Emirates,269,3183,1234,14
+2026-09-01,Web App,SME,Dubai,2517,18680,9002,508
+2026-09-01,Web App,SME,Abu Dhabi,1850,12166,5514,512
+2026-09-01,Web App,SME,Sharjah,1329,9039,5458,307
+2026-09-01,Web App,SME,Northern Emirates,859,9299,3016,47
+2026-09-01,Website,Mass,Dubai,10546,127686,0,2226
+2026-09-01,Website,Mass,Abu Dhabi,6747,53886,0,478
+2026-09-01,Website,Mass,Sharjah,4136,45574,0,220
+2026-09-01,Website,Mass,Northern Emirates,3247,44357,0,248
+2026-09-01,Website,Affluent,Dubai,4712,41027,0,1068
+2026-09-01,Website,Affluent,Abu Dhabi,3174,31242,0,605
+2026-09-01,Website,Affluent,Sharjah,2002,14624,0,266
+2026-09-01,Website,Affluent,Northern Emirates,1256,8097,0,280
+2026-09-01,Website,Private,Dubai,922,6439,0,236
+2026-09-01,Website,Private,Abu Dhabi,621,5200,0,110
+2026-09-01,Website,Private,Sharjah,432,3082,0,120
+2026-09-01,Website,Private,Northern Emirates,244,2297,0,21
+2026-09-01,Website,SME,Dubai,2783,21727,0,750
+2026-09-01,Website,SME,Abu Dhabi,1978,25859,0,505
+2026-09-01,Website,SME,Sharjah,1120,8239,0,86
+2026-09-01,Website,SME,Northern Emirates,745,10166,0,103
+2026-09-01,WhatsApp,Mass,Dubai,4051,28141,23063,1134
+2026-09-01,WhatsApp,Mass,Abu Dhabi,3204,34718,8690,585
+2026-09-01,WhatsApp,Mass,Sharjah,1817,20778,4725,393
+2026-09-01,WhatsApp,Mass,Northern Emirates,1140,14296,3868,86
+2026-09-01,WhatsApp,Affluent,Dubai,1949,22011,11170,492
+2026-09-01,WhatsApp,Affluent,Abu Dhabi,1407,9301,2826,398
+2026-09-01,WhatsApp,Affluent,Sharjah,753,8468,2470,111
+2026-09-01,WhatsApp,Affluent,Northern Emirates,563,6916,2203,37
+2026-09-01,WhatsApp,Private,Dubai,365,4991,1136,26
+2026-09-01,WhatsApp,Private,Abu Dhabi,296,2206,1047,38
+2026-09-01,WhatsApp,Private,Sharjah,159,1836,581,39
+2026-09-01,WhatsApp,Private,Northern Emirates,104,1291,480,11
+2026-09-01,WhatsApp,SME,Dubai,1062,10595,4391,194
+2026-09-01,WhatsApp,SME,Abu Dhabi,862,7824,3727,134
+2026-09-01,WhatsApp,SME,Sharjah,493,5693,2461,111
+2026-09-01,WhatsApp,SME,Northern Emirates,306,1843,1828,16
+2026-09-01,IVR / Call Centre,Mass,Dubai,5564,76009,31623,361
+2026-09-01,IVR / Call Centre,Mass,Abu Dhabi,4000,51160,21868,1019
+2026-09-01,IVR / Call Centre,Mass,Sharjah,2373,16974,12845,695
+2026-09-01,IVR / Call Centre,Mass,Northern Emirates,1786,14180,9485,114
+2026-09-01,IVR / Call Centre,Affluent,Dubai,2318,31748,11163,334
+2026-09-01,IVR / Call Centre,Affluent,Abu Dhabi,1697,23281,5916,382
+2026-09-01,IVR / Call Centre,Affluent,Sharjah,1161,7651,6211,310
+2026-09-01,IVR / Call Centre,Affluent,Northern Emirates,679,6058,1572,47
+2026-09-01,IVR / Call Centre,Private,Dubai,506,6329,1315,48
+2026-09-01,IVR / Call Centre,Private,Abu Dhabi,393,4710,1884,49
+2026-09-01,IVR / Call Centre,Private,Sharjah,221,1922,1132,49
+2026-09-01,IVR / Call Centre,Private,Northern Emirates,143,1036,790,8
+2026-09-01,IVR / Call Centre,SME,Dubai,1575,15791,3218,406
+2026-09-01,IVR / Call Centre,SME,Abu Dhabi,1165,15154,4912,299
+2026-09-01,IVR / Call Centre,SME,Sharjah,731,7320,3536,113
+2026-09-01,IVR / Call Centre,SME,Northern Emirates,419,5775,1712,123
+2026-09-01,Tablet Banking,Mass,Dubai,814,6263,3643,85
+2026-09-01,Tablet Banking,Mass,Abu Dhabi,618,7396,2618,160
+2026-09-01,Tablet Banking,Mass,Sharjah,421,4103,1369,88
+2026-09-01,Tablet Banking,Mass,Northern Emirates,281,2056,1464,59
+2026-09-01,Tablet Banking,Affluent,Dubai,375,2575,866,75
+2026-09-01,Tablet Banking,Affluent,Abu Dhabi,320,1991,1001,59
+2026-09-01,Tablet Banking,Affluent,Sharjah,164,1767,824,20
+2026-09-01,Tablet Banking,Affluent,Northern Emirates,121,1343,257,14
+2026-09-01,Tablet Banking,Private,Dubai,87,915,370,21
+2026-09-01,Tablet Banking,Private,Abu Dhabi,54,459,311,2
+2026-09-01,Tablet Banking,Private,Sharjah,34,280,122,3
+2026-09-01,Tablet Banking,Private,Northern Emirates,25,295,147,5
+2026-09-01,Tablet Banking,SME,Dubai,220,2036,1092,16
+2026-09-01,Tablet Banking,SME,Abu Dhabi,191,1375,830,27
+2026-09-01,Tablet Banking,SME,Sharjah,109,1396,344,9
+2026-09-01,Tablet Banking,SME,Northern Emirates,71,928,168,16
+2026-09-01,Branch,Mass,Dubai,6064,75556,27996,1468
+2026-09-01,Branch,Mass,Abu Dhabi,3937,53973,16004,914
+2026-09-01,Branch,Mass,Sharjah,2611,35096,8787,643
+2026-09-01,Branch,Mass,Northern Emirates,1635,14522,8867,257
+2026-09-01,Branch,Affluent,Dubai,2760,33653,9799,282
+2026-09-01,Branch,Affluent,Abu Dhabi,1962,12949,5120,406
+2026-09-01,Branch,Affluent,Sharjah,1151,14315,2958,308
+2026-09-01,Branch,Affluent,Northern Emirates,775,10657,3972,55
+2026-09-01,Branch,Private,Dubai,470,3999,2696,42
+2026-09-01,Branch,Private,Abu Dhabi,367,3268,864,34
+2026-09-01,Branch,Private,Sharjah,242,1951,942,27
+2026-09-01,Branch,Private,Northern Emirates,165,1848,422,13
+2026-09-01,Branch,SME,Dubai,1557,9835,8463,233
+2026-09-01,Branch,SME,Abu Dhabi,1234,16458,3104,174
+2026-09-01,Branch,SME,Sharjah,738,10048,2579,162
+2026-09-01,Branch,SME,Northern Emirates,461,3735,2536,101
+2026-10-01,Mobile App,Mass,Dubai,30923,344820,153507,3438
+2026-10-01,Mobile App,Mass,Abu Dhabi,24101,146137,130440,2956
+2026-10-01,Mobile App,Mass,Sharjah,12658,116380,29011,1861
+2026-10-01,Mobile App,Mass,Northern Emirates,8990,60664,34732,1893
+2026-10-01,Mobile App,Affluent,Dubai,14823,144062,34734,3452
+2026-10-01,Mobile App,Affluent,Abu Dhabi,11153,149226,56577,1113
+2026-10-01,Mobile App,Affluent,Sharjah,5964,50922,35699,1023
+2026-10-01,Mobile App,Affluent,Northern Emirates,4284,42024,13338,255
+2026-10-01,Mobile App,Private,Dubai,2556,24945,11657,332
+2026-10-01,Mobile App,Private,Abu Dhabi,1865,20158,6566,529
+2026-10-01,Mobile App,Private,Sharjah,1201,11338,4676,76
+2026-10-01,Mobile App,Private,Northern Emirates,884,12041,4185,103
+2026-10-01,Mobile App,SME,Dubai,8458,56404,19259,1279
+2026-10-01,Mobile App,SME,Abu Dhabi,5927,69331,32510,1073
+2026-10-01,Mobile App,SME,Sharjah,3831,30937,20389,280
+2026-10-01,Mobile App,SME,Northern Emirates,2668,23308,13373,243
+2026-10-01,Web App,Mass,Dubai,9761,91292,38087,2168
+2026-10-01,Web App,Mass,Abu Dhabi,7036,81431,24054,1570
+2026-10-01,Web App,Mass,Sharjah,4428,26919,22725,882
+2026-10-01,Web App,Mass,Northern Emirates,2764,31353,12344,361
+2026-10-01,Web App,Affluent,Dubai,5020,67828,24956,1175
+2026-10-01,Web App,Affluent,Abu Dhabi,3305,23809,12673,287
+2026-10-01,Web App,Affluent,Sharjah,2208,15254,12982,334
+2026-10-01,Web App,Affluent,Northern Emirates,1378,8308,5239,355
+2026-10-01,Web App,Private,Dubai,846,8117,4972,62
+2026-10-01,Web App,Private,Abu Dhabi,647,8949,2381,120
+2026-10-01,Web App,Private,Sharjah,384,3463,1302,110
+2026-10-01,Web App,Private,Northern Emirates,300,3184,617,76
+2026-10-01,Web App,SME,Dubai,2479,32656,9936,661
+2026-10-01,Web App,SME,Abu Dhabi,2140,23949,8183,326
+2026-10-01,Web App,SME,Sharjah,1198,12387,4903,289
+2026-10-01,Web App,SME,Northern Emirates,759,5621,2818,71
+2026-10-01,Website,Mass,Dubai,10087,104320,0,1466
+2026-10-01,Website,Mass,Abu Dhabi,7937,91342,0,1264
+2026-10-01,Website,Mass,Sharjah,4261,46713,0,1198
+2026-10-01,Website,Mass,Northern Emirates,3182,44429,0,800
+2026-10-01,Website,Affluent,Dubai,4143,46389,0,845
+2026-10-01,Website,Affluent,Abu Dhabi,3315,33054,0,788
+2026-10-01,Website,Affluent,Sharjah,2198,14941,0,353
+2026-10-01,Website,Affluent,Northern Emirates,1371,8583,0,167
+2026-10-01,Website,Private,Dubai,885,6887,0,144
+2026-10-01,Website,Private,Abu Dhabi,658,4977,0,110
+2026-10-01,Website,Private,Sharjah,374,5139,0,104
+2026-10-01,Website,Private,Northern Emirates,265,3329,0,59
+2026-10-01,Website,SME,Dubai,2830,17152,0,406
+2026-10-01,Website,SME,Abu Dhabi,1913,15818,0,516
+2026-10-01,Website,SME,Sharjah,1157,14703,0,287
+2026-10-01,Website,SME,Northern Emirates,796,6314,0,218
+2026-10-01,WhatsApp,Mass,Dubai,3957,24233,10341,568
+2026-10-01,WhatsApp,Mass,Abu Dhabi,3210,40318,14123,429
+2026-10-01,WhatsApp,Mass,Sharjah,1978,27578,5869,580
+2026-10-01,WhatsApp,Mass,Northern Emirates,1133,12639,6020,283
+2026-10-01,WhatsApp,Affluent,Dubai,1858,13063,8444,546
+2026-10-01,WhatsApp,Affluent,Abu Dhabi,1282,16965,5216,204
+2026-10-01,WhatsApp,Affluent,Sharjah,757,9393,3040,157
+2026-10-01,WhatsApp,Affluent,Northern Emirates,580,7391,2615,66
+2026-10-01,WhatsApp,Private,Dubai,369,5014,1038,27
+2026-10-01,WhatsApp,Private,Abu Dhabi,271,2989,1185,15
+2026-10-01,WhatsApp,Private,Sharjah,171,2285,395,24
+2026-10-01,WhatsApp,Private,Northern Emirates,115,810,438,23
+2026-10-01,WhatsApp,SME,Dubai,1066,8440,5960,132
+2026-10-01,WhatsApp,SME,Abu Dhabi,829,6600,4244,204
+2026-10-01,WhatsApp,SME,Sharjah,520,5862,1611,147
+2026-10-01,WhatsApp,SME,Northern Emirates,337,3743,1454,25
+2026-10-01,IVR / Call Centre,Mass,Dubai,5455,58734,13246,657
+2026-10-01,IVR / Call Centre,Mass,Abu Dhabi,4450,30002,17697,624
+2026-10-01,IVR / Call Centre,Mass,Sharjah,2642,24111,10473,146
+2026-10-01,IVR / Call Centre,Mass,Northern Emirates,1509,20633,3478,334
+2026-10-01,IVR / Call Centre,Affluent,Dubai,2437,20735,13728,614
+2026-10-01,IVR / Call Centre,Affluent,Abu Dhabi,1754,10666,4761,336
+2026-10-01,IVR / Call Centre,Affluent,Sharjah,1148,7176,6777,342
+2026-10-01,IVR / Call Centre,Affluent,Northern Emirates,747,8151,3126,66
+2026-10-01,IVR / Call Centre,Private,Dubai,524,7028,1452,30
+2026-10-01,IVR / Call Centre,Private,Abu Dhabi,339,3421,884,90
+2026-10-01,IVR / Call Centre,Private,Sharjah,207,1601,685,21
+2026-10-01,IVR / Call Centre,Private,Northern Emirates,156,2108,478,26
+2026-10-01,IVR / Call Centre,SME,Dubai,1635,14369,6876,202
+2026-10-01,IVR / Call Centre,SME,Abu Dhabi,1180,11760,4779,176
+2026-10-01,IVR / Call Centre,SME,Sharjah,633,4673,3005,172
+2026-10-01,IVR / Call Centre,SME,Northern Emirates,430,3931,1863,103
+2026-10-01,Tablet Banking,Mass,Dubai,846,10450,4919,145
+2026-10-01,Tablet Banking,Mass,Abu Dhabi,710,6666,3541,180
+2026-10-01,Tablet Banking,Mass,Sharjah,405,4397,1505,77
+2026-10-01,Tablet Banking,Mass,Northern Emirates,257,2842,580,23
+2026-10-01,Tablet Banking,Affluent,Dubai,362,3652,1573,44
+2026-10-01,Tablet Banking,Affluent,Abu Dhabi,319,3560,1869,44
+2026-10-01,Tablet Banking,Affluent,Sharjah,163,1212,536,40
+2026-10-01,Tablet Banking,Affluent,Northern Emirates,116,763,536,16
+2026-10-01,Tablet Banking,Private,Dubai,84,586,275,4
+2026-10-01,Tablet Banking,Private,Abu Dhabi,57,554,295,15
+2026-10-01,Tablet Banking,Private,Sharjah,36,327,158,6
+2026-10-01,Tablet Banking,Private,Northern Emirates,22,180,97,5
+2026-10-01,Tablet Banking,SME,Dubai,257,1695,1431,39
+2026-10-01,Tablet Banking,SME,Abu Dhabi,189,1614,620,18
+2026-10-01,Tablet Banking,SME,Sharjah,114,1138,679,17
+2026-10-01,Tablet Banking,SME,Northern Emirates,66,486,218,9
+2026-10-01,Branch,Mass,Dubai,5557,46013,25421,1467
+2026-10-01,Branch,Mass,Abu Dhabi,4505,59885,14134,1173
+2026-10-01,Branch,Mass,Sharjah,2415,31797,13698,144
+2026-10-01,Branch,Mass,Northern Emirates,1689,11072,4020,423
+2026-10-01,Branch,Affluent,Dubai,2599,21305,13033,390
+2026-10-01,Branch,Affluent,Abu Dhabi,1887,16049,8395,279
+2026-10-01,Branch,Affluent,Sharjah,1163,11207,6274,339
+2026-10-01,Branch,Affluent,Northern Emirates,689,6194,3081,39
+2026-10-01,Branch,Private,Dubai,452,2749,1094,59
+2026-10-01,Branch,Private,Abu Dhabi,387,3670,1037,37
+2026-10-01,Branch,Private,Sharjah,241,2157,1352,71
+2026-10-01,Branch,Private,Northern Emirates,162,2096,492,39
+2026-10-01,Branch,SME,Dubai,1376,18682,3165,182
+2026-10-01,Branch,SME,Abu Dhabi,1144,14299,3523,105
+2026-10-01,Branch,SME,Sharjah,623,6034,1560,165
+2026-10-01,Branch,SME,Northern Emirates,470,6158,2755,72

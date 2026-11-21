@@ -1,0 +1,23 @@
+model Model
+	culture: en-GB
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-AE
+	valueFilterBehavior: independent
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBI_QueryOrder = ["dim_date","fact_channel_activity","fact_loan_portfolio"]
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table dim_date
+ref table fact_channel_activity
+ref table fact_loan_portfolio
+ref table DateTableTemplate_42608e91-cd43-4085-9fd7-cdc943ea6f3b
+ref table LocalDateTable_f36544a0-7526-4ee3-b717-ecddcda7e1c7
+
+ref cultureInfo en-GB
+

@@ -1,0 +1,77 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
+  "name": "b2",
+  "position": {
+    "x": 20,
+    "y": 620,
+    "z": 0,
+    "height": 440,
+    "width": 1180
+  },
+  "visual": {
+    "visualType": "clusteredColumnChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_loan_portfolio"
+                    }
+                  },
+                  "Property": "region"
+                }
+              },
+              "queryRef": "fact_loan_portfolio.region",
+              "nativeQueryRef": "region",
+              "active": true
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_loan_portfolio"
+                    }
+                  },
+                  "Property": "NPL 90+ %"
+                }
+              },
+              "queryRef": "fact_loan_portfolio.NPL 90+ %",
+              "nativeQueryRef": "NPL 90+ %"
+            }
+          ]
+        }
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Non-performing 90+ by region'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

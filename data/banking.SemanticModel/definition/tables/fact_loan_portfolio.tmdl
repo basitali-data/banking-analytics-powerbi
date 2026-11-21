@@ -1,0 +1,134 @@
+table fact_loan_portfolio
+	lineageTag: 91df990b-0731-453e-92b8-abe42017d983
+
+	measure 'Outstanding (AED)' = SUM(fact_loan_portfolio[outstanding_aed])
+		formatString: #,0
+		lineageTag: 0a398e0c-83a7-411c-8d8f-309ee72d8e86
+
+	measure 'PAR 30+ %' = DIVIDE(SUM(fact_loan_portfolio[dpd_30_89_aed]) + SUM(fact_loan_portfolio[dpd_90_plus_aed]), [Outstanding (AED)])
+		formatString: 0.0%
+		lineageTag: 25963056-f185-494c-aa64-137e76829a8e
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'NPL 90+ %' = DIVIDE(SUM(fact_loan_portfolio[dpd_90_plus_aed]), [Outstanding (AED)])
+		formatString: 0.0%
+		lineageTag: d6ce473a-ffe1-409d-97e6-9cf69c150b73
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Write-offs (AED)' = SUM(fact_loan_portfolio[written_off_aed])
+		formatString: #,0
+		lineageTag: 49406291-308f-4faa-b422-1d2320968568
+
+	column month_start
+		dataType: dateTime
+		formatString: mmm yyyy
+		lineageTag: 19762d1e-0ee1-4916-a5c7-5b88e3a3ba2e
+		summarizeBy: none
+		sourceColumn: month_start
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column product
+		dataType: string
+		lineageTag: 9c5f416c-69c5-4c89-8937-1bebadb734a5
+		summarizeBy: none
+		sourceColumn: product
+
+		annotation SummarizationSetBy = Automatic
+
+	column segment
+		dataType: string
+		lineageTag: 810ee3b7-714a-4878-9d73-1de982316783
+		summarizeBy: none
+		sourceColumn: segment
+
+		annotation SummarizationSetBy = Automatic
+
+	column region
+		dataType: string
+		lineageTag: e4e870cc-8ced-4500-988d-de2ded0c8281
+		summarizeBy: none
+		sourceColumn: region
+
+		annotation SummarizationSetBy = Automatic
+
+	column outstanding_aed
+		dataType: int64
+		formatString: 0
+		lineageTag: 18665966-95fa-4ef3-8dcd-1148fc25ecf2
+		summarizeBy: sum
+		sourceColumn: outstanding_aed
+
+		annotation SummarizationSetBy = Automatic
+
+	column accounts
+		dataType: int64
+		formatString: 0
+		lineageTag: 27e07448-8357-44a5-b7e2-cf54abdbcc8b
+		summarizeBy: sum
+		sourceColumn: accounts
+
+		annotation SummarizationSetBy = Automatic
+
+	column dpd_1_29_aed
+		dataType: int64
+		formatString: 0
+		lineageTag: 7a894764-9496-4a95-95ad-df0f2fe86de9
+		summarizeBy: sum
+		sourceColumn: dpd_1_29_aed
+
+		annotation SummarizationSetBy = Automatic
+
+	column dpd_30_89_aed
+		dataType: int64
+		formatString: 0
+		lineageTag: 436ceb1a-32b8-42ee-808e-88f86bb64092
+		summarizeBy: sum
+		sourceColumn: dpd_30_89_aed
+
+		annotation SummarizationSetBy = Automatic
+
+	column dpd_90_plus_aed
+		dataType: int64
+		formatString: 0
+		lineageTag: 5a22d1b9-c0ce-4fad-a27e-71c6f4549f2f
+		summarizeBy: sum
+		sourceColumn: dpd_90_plus_aed
+
+		annotation SummarizationSetBy = Automatic
+
+	column new_disbursed_aed
+		dataType: int64
+		formatString: 0
+		lineageTag: 19eec5e0-ff6d-41fc-accc-b796247aa805
+		summarizeBy: sum
+		sourceColumn: new_disbursed_aed
+
+		annotation SummarizationSetBy = Automatic
+
+	column written_off_aed
+		dataType: int64
+		formatString: 0
+		lineageTag: 65d51388-a4a3-49cc-8501-6849532ab9b0
+		summarizeBy: sum
+		sourceColumn: written_off_aed
+
+		annotation SummarizationSetBy = Automatic
+
+	partition fact_loan_portfolio = m
+		mode: import
+		source =
+				let
+				    Source = Excel.Workbook(File.Contents("C:\Users\basit\OneDrive\Desktop\Claude Main\05-projects-code\banking-analytics-powerbi\data\banking_data.xlsx"), null, true),
+				    fact_loan_portfolio_Sheet = Source{[Item="fact_loan_portfolio",Kind="Sheet"]}[Data],
+				    #"Promoted Headers" = Table.PromoteHeaders(fact_loan_portfolio_Sheet, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"month_start", type date}, {"product", type text}, {"segment", type text}, {"region", type text}, {"outstanding_aed", Int64.Type}, {"accounts", Int64.Type}, {"dpd_1_29_aed", Int64.Type}, {"dpd_30_89_aed", Int64.Type}, {"dpd_90_plus_aed", Int64.Type}, {"new_disbursed_aed", Int64.Type}, {"written_off_aed", Int64.Type}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

@@ -1,0 +1,95 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
+  "name": "l1",
+  "position": {
+    "x": 20,
+    "y": 180,
+    "z": 0,
+    "height": 420,
+    "width": 1180
+  },
+  "visual": {
+    "visualType": "lineChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dim_date"
+                    }
+                  },
+                  "Property": "month_start"
+                }
+              },
+              "queryRef": "dim_date.month_start",
+              "nativeQueryRef": "month_start",
+              "active": true
+            }
+          ]
+        },
+        "Series": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_channel_activity"
+                    }
+                  },
+                  "Property": "channel"
+                }
+              },
+              "queryRef": "fact_channel_activity.channel",
+              "nativeQueryRef": "channel"
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_channel_activity"
+                    }
+                  },
+                  "Property": "Active Users"
+                }
+              },
+              "queryRef": "fact_channel_activity.Active Users",
+              "nativeQueryRef": "Active Users"
+            }
+          ]
+        }
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Active users by channel over time (branch to digital shift)'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

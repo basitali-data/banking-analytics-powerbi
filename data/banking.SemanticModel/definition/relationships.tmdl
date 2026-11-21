@@ -1,0 +1,13 @@
+relationship AutoDetected_34b4e908-f995-4cee-9331-5c575b447c9e
+	fromColumn: fact_channel_activity.month_start
+	toColumn: dim_date.month_start
+
+relationship AutoDetected_44c1931e-73ea-407a-94fe-6a313dd9bd43
+	fromColumn: fact_loan_portfolio.month_start
+	toColumn: dim_date.month_start
+
+relationship 756e39e8-a65e-42d1-8aed-fb454129f79d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: dim_date.month_start
+	toColumn: LocalDateTable_f36544a0-7526-4ee3-b717-ecddcda7e1c7.Date
+

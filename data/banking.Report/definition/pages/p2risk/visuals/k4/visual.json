@@ -1,0 +1,58 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "name": "k4",
+  "position": {
+    "x": 1040,
+    "y": 20,
+    "z": 0,
+    "width": 320,
+    "height": 140
+  },
+  "visual": {
+    "visualType": "card",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_loan_portfolio"
+                    }
+                  },
+                  "Property": "Write-offs (AED)"
+                }
+              },
+              "queryRef": "fact_loan_portfolio.Write-offs (AED)",
+              "nativeQueryRef": "Write-offs (AED)"
+            }
+          ]
+        }
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Write-offs (AED)'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

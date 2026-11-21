@@ -1,0 +1,58 @@
+table dim_date
+	lineageTag: 03a61fcd-9297-44e3-8222-10e593aa9597
+
+	column month_start
+		dataType: dateTime
+		formatString: mmm yyyy
+		lineageTag: 5b9a9038-3638-49ce-8988-06190b297bcd
+		summarizeBy: none
+		sourceColumn: month_start
+
+		variation Variation
+			isDefault
+			relationship: 756e39e8-a65e-42d1-8aed-fb454129f79d
+			defaultHierarchy: LocalDateTable_f36544a0-7526-4ee3-b717-ecddcda7e1c7.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column year
+		dataType: int64
+		formatString: 0
+		lineageTag: d113c76f-d27c-449b-a6f3-bb4cdc4af4df
+		summarizeBy: sum
+		sourceColumn: year
+
+		annotation SummarizationSetBy = Automatic
+
+	column month
+		dataType: int64
+		formatString: 0
+		lineageTag: 68c17c31-4b21-4abe-929c-cb36ad057a0e
+		summarizeBy: sum
+		sourceColumn: month
+
+		annotation SummarizationSetBy = Automatic
+
+	column quarter
+		dataType: string
+		lineageTag: 346bd5ed-0fd2-4a24-b63b-ec086230d69e
+		summarizeBy: none
+		sourceColumn: quarter
+
+		annotation SummarizationSetBy = Automatic
+
+	partition dim_date = m
+		mode: import
+		source =
+				let
+				    Source = Excel.Workbook(File.Contents("C:\Users\basit\OneDrive\Desktop\Claude Main\05-projects-code\banking-analytics-powerbi\data\banking_data.xlsx"), null, true),
+				    dim_date_Sheet = Source{[Item="dim_date",Kind="Sheet"]}[Data],
+				    #"Promoted Headers" = Table.PromoteHeaders(dim_date_Sheet, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"month_start", type date}, {"year", Int64.Type}, {"month", Int64.Type}, {"quarter", type text}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+
